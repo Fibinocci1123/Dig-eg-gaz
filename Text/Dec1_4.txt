@@ -67,49 +67,136 @@ Chamber that the Powers have unanimously
 refused to substitute Greek troops for the
 international force at present in Crete. (Reuter)</p>
 </div>
-<div type="item">
-<head>Calendar of Coming Events.</head>
-<div type="item">
-<head>ALEXANDRIA.
-December.</head>
-<p>Fri. 1	Alhambra. Debut of French operetta
-company in Les Saltimbanques. 9.</p>
-<p>Sat. 2 Mustapha Rifle Range Practice,
-B.R.C. (Alex). 2.30.
-St. Andrew F. C. Victoria College.
-College ground. 3.
-Khedivial Hotel. Reunion des
-Families. Ball 9.30.</p>
-<p>Mon. 4 St. Andrew’s High School. A. L. M.
-& D. S. Lecture by Dr. Ruffer,
-C.M.G., on “The Desert of Sinai.” 9.
-Lifonti Concert-room. Mme Bonucci
-Carlesimo’s concert. 9.15.</p>
-<p>Sat. 9 St. Andrew  c. “D” Co. Dublin
-Fusiliers. Moharrem Bey Common. 3.30.</p>
-<p>Sat. 16 Scotch Schools Fellow Workers’
+<div type="item" scope="calendar">
+<table cols="4" xml:id="CalendarOfTheWeek">
+<head>CALENDAR OF COMING EVENTS</head>
+<head type="sub">Alexandria
+December</head>
+<row>
+<cell>Fri.</cell>
+<cell>1</cell>
+<cell>Alhambra. Debut of French operetta
+company in Les Saltimbanques.</cell>
+<cell>9</cell>
+</row>
+<row>
+<cell>Sat</cell>
+<cell>2</cell>
+<cell>Mustapha Rifle Range Practice,
+B.R.C. (Alex).</cell>
+<cell>2.30</cell>
+</row>
+<row>
+<cell></cell>
+<cell></cell>
+<cell>St. Andrew F.C. Victoria College.
+College ground.</cell>
+<cell>3</cell>
+</row>
+<row>
+<cell></cell>
+<cell></cell>
+<cell>Khedival Hotel. Reunion des
+Families. Ball</cell>
+<cell>9.30</cell>
+</row>
+<row>
+<cell>Mon</cell>
+<cell>4</cell>
+<cell>St. Andrew's High School. A.L.M.
+& D.S. Lecture by Dr. Ruffer,
+C.M.G., on "The Desert of Sinai."</cell>
+<cell>9</cell>
+</row>
+<row>
+<cell></cell>
+<cell></cell>
+<cell>Lifonti Concert-room. Mme Bonucci
+Carlesimo's concert.</cell>
+<cell>9.15</cell>
+</row>
+<row>
+<cell>Sat</cell>
+<cell>9</cell>
+<cell>St. Andrew  c. “D” Co. Dublin
+Fusiliers. Moharrem Bey Common.</cell>
+<cell>3.30</cell>
+</row>
+<row>
+<cell>Sat</cell>
+<cell>6</cell>
+<cell>Scotch Schools Fellow Workers’
 Union, Sale of Work. St. Andrew’s
-High School (near H.B.M'.'s Consulate). 3.</p>
-<p>Wed. 20 Cercle Khedivial. First Dance of
-Season.</p>
-<p>Thurs. 21 Sailors and Soldiers’ Institute. Sale
-of Work and ’Xmas Tree. 3.</p>
+High School (near H.B.M'.'s Consulate).</cell>
+<cell>3</cell>
+</row>
+<row>
+<cell>Wed.</cell>
+<cell>20</cell>
+<cell>Cercle Khedivial. First Dance of
+Season.</cell>
+<cell></cell>
+</row>
+<row>
+<cell>Thurs.</cell>
+<cell>21</cell>
+<cell>Sailors and Soldiers’ Institute. Sale
+of Work and ’Xmas Tree.</cell>
+<cell>3</cell>
+</row>
+</table>
 </div>
-<div type="item">
-<head>CAIRO.
+<div type="item" scope="calendar">
+<table cols="4" xml:id="CalendarOfTheWeek">
+<head type="sub">CAIRO.
 December.</head>
-<p>Fri. 1 Zoological Gardens. Ghizeh Boys’
-Band. Afternoon.
-Theatre des Nouveautes. 9.30.
-Alcazar Parisien. 9.30.
-<p>Sun. 8 Zoological Gardens. E A. Infantry
-Band. Afternoon.</p>
-<p>Mon. 4 Meeting of Egyptian Institute. 3.30.</p>
-<p>Mon. 18 Connaught House. Y.W.C.A.
+<row>
+<cell>Fri</cell>
+<cell>1</cell>
+<cell>Zoological Gardens. Ghizeh Boys’
+Band.</cell>
+<cell>Afternoon</cell>
+</row>
+<row>
+<cell></cell>
+<cell></cell>
+<cell>Theatre des Nouveautes.</cell>
+<cell>9.30</cell>
+</row>
+<row>
+<cell></cell>
+<cell></cell>
+<cell>Alcazar Parisien.</cell>
+<cell>9.30</cell>
+</row>
+<row>
+<cell>Sun.</cell>
+<cell>8</cell>
+<cell>Zoological Gardens. E A. Infantry
+Band.</cell>
+<cell>Afternoon</cell>
+</row>
+<row>
+<cell>Mon.</cell>
+<cell>4</cell>
+<cell>Meeting of Egyptian Institute.</cell>
+<cell>3.30</cell>
+</row>
+<row>
+<cell>Mon.</cell>
+<cell>18</cell>
+<cell>Connaught House. Y.W.C.A.
 Annual Sale of Work, opened by the
-Counters of Cromer.</p>
-<p>Tues. 26 Meeting Salt & Soda Co. 3.</p>
-</div>
+Counters of Cromer.</cell>
+<cell></cell>
+</row>
+<row>
+<cell>Tues.</cell>
+<cell>26</cell>
+<cell>Meeting Salt & Soda Co.</cell>
+<cell>3</cell>
+</row>
+</table>
 </div>
 <div type="item">
 <head>LOCAL AND GENERAL</head>
