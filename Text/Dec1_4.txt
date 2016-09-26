@@ -1,831 +1,832 @@
-﻿<div type="item">THE EGYPTIAN GAZETTE FRIDAY DECEMBER 1, 1905</div>
-<div type="item">
-  <head>NAVAL BATTLE AT SEVASTOPOL.
-  HALF CITY DEMOLISHED,
-  MUTINY AT LIBAU</head>
-  <div type="item">
-    <head>St. Petersburg, November 30.</head>
-      <p>The "Slovo” states that a naval battle took
-      place on Tuesday at Sevastopol. It lasted two
-      hours. The rebel ships opened fire on the forts.
-      The cruiser Otchakoff was pierced and burst
-      into flames; the cruiser Dnieper, another ship,
-      and several torpedo-boats were sunk. Lieutenant
-      Schmidt, chief of the rebels, having been
-      killed, the squadron surrendered. Half the city
-      of Sevastopol is demolished.</p>
-      <p>A grave mutiny has broken out at Liban,
-      and another is feared at Kronstadt. (Reuter)</p>
-  </div>
-  <div type="item">
-    <head>St. Petersburg, November 30.</head>
-    <p>Another account of the battle at Sevastopol
-    is that the mutineers lost heart when a rebel
-    torpedo-boat was sunk and two cruisers
-    damaged. They endeavoured to make the shore
-    in boats, but were intercepted by the loyal
-    torpedo-boats. Meanwhile; the loyal Bielostock
-    Regiment attacked the barracks held by the
-    mutinous seamen, 1,500 of whom surrendered
-    with 10 Maxims, owing to the attitude of the
-    Naval Battalions.</p>
-    <p>Disarmed reservists are parading the streets
-    at Nijni Novgorod singing revolutionary
-    songs.</p>
-    <p>Reservists at Doinsk have unanimously
-    resolved not to take the oath if called out.
-    The resolution has been printed and distributed
-    broadcast.</p>
-    <p>110.000 men are either locked out or on
-    strike here, and 58,700 at Moscow. (Reuter)</p>
-  </div>
-  <div type="item">
-    <head>Sevastopol November 30.</head>
-    <p>There has been a battle between the rebels
-    and the Royalist troops. Half of the city
-    is destroyed. The mutineers were defeated
-    and surrendered. Lieutenant Schmidt is
-    fatally wounded.	(Havas)</p>
-  </div>
-</div>
-<div type="item">
-  <head>A ROYAL PASSIVE RESISTER.
-  The Sultan and the Powers.</head>
-  <head>Paris, November 30.</head>
-  <p>The Sultan persists in his resistance. The
-  international squadron is preparing to occupy
-  another island. (Havas)</p>
-</div>
-<div type="item">
-  <head>THE CRETAN GARRISON
-  NO GREEK TROOPS.</head>
-  <head>Rome, November 30.</head>
-  <p>The Government has announced in the
-  Chamber that the Powers have unanimously
-  refused to substitute Greek troops for the
-  international force at present in Crete. (Reuter)</p>
-</div>
-<div type="item" scope="calendar">
-  <table cols="4" xml:id="CalendarOfTheWeek">
-    <head>CALENDAR OF COMING EVENTS</head>
-    <head type="sub">Alexandria
-    December</head>
-    <row>
-      <cell>Fri.</cell>
-      <cell>1</cell>
-      <cell>Alhambra. Debut of French operetta
-      company in Les Saltimbanques.</cell>
-      <cell>9</cell>
-    </row>
-    <row>
-      <cell>Sat</cell>
-      <cell>2</cell>
-      <cell>Mustapha Rifle Range Practice,
-      B.R.C. (Alex).</cell>
-      <cell>2.30</cell>
-    </row>
-    <row>
-      <cell></cell>
-      <cell></cell>
-      <cell>St. Andrew F.C. Victoria College.
-      College ground.</cell>
-      <cell>3</cell>
-    </row>
-    <row>
-      <cell></cell>
-      <cell></cell>
-      <cell>Khedival Hotel. Reunion des
-      Families. Ball</cell>
-      <cell>9.30</cell>
-    </row>
-    <row>
-      <cell>Mon</cell>
-      <cell>4</cell>
-      <cell>St. Andrew's High School. A.L.M.
-      & D.S. Lecture by Dr. Ruffer,
-      C.M.G., on "The Desert of Sinai."</cell>
-      <cell>9</cell>
-    </row>
-    <row>
-      <cell></cell>
-      <cell></cell>
-      <cell>Lifonti Concert-room. Mme Bonucci
-      Carlesimo's concert.</cell>
-      <cell>9.15</cell>
-    </row>
-    <row>
-      <cell>Sat</cell>
-      <cell>9</cell>
-      <cell>St. Andrew  c. “D” Co. Dublin
-      Fusiliers. Moharrem Bey Common.</cell>
-      <cell>3.30</cell>
-    </row>
-    <row>
-      <cell>Sat</cell>
-      <cell>6</cell>
-      <cell>Scotch Schools Fellow Workers’
-      Union, Sale of Work. St. Andrew’s
-      High School (near H.B.M'.'s Consulate).</cell>
-      <cell>3</cell>
-    </row>
-    <row>
-      <cell>Wed.</cell>
-      <cell>20</cell>
-      <cell>Cercle Khedivial. First Dance of
-      Season.</cell>
-      <cell></cell>
-    </row>
-    <row>
-      <cell>Thurs.</cell>
-      <cell>21</cell>
-      <cell>Sailors and Soldiers’ Institute. Sale
-      of Work and ’Xmas Tree.</cell>
-      <cell>3</cell>
-    </row>
-  </table>
-</div>
-<div type="item" scope="calendar">
-  <table cols="4" xml:id="CalendarOfTheWeek">
-    <head type="sub">CAIRO.
-    December.</head>
-    <row>
-      <cell>Fri</cell>
-      <cell>1</cell>
-      <cell>Zoological Gardens. Ghizeh Boys’
-      Band.</cell>
-      <cell>Afternoon</cell>
-    </row>
-    <row>
-      <cell></cell>
-      <cell></cell>
-      <cell>Theatre des Nouveautes.</cell>
-      <cell>9.30</cell>
-    </row>
-    <row>
-      <cell></cell>
-      <cell></cell>
-      <cell>Alcazar Parisien.</cell>
-      <cell>9.30</cell>
-    </row>
-    <row>
-      <cell>Sun.</cell>
-      <cell>8</cell>
-      <cell>Zoological Gardens. E A. Infantry
-      Band.</cell>
-      <cell>Afternoon</cell>
-    </row>
-    <row>
-      <cell>Mon.</cell>
-      <cell>4</cell>
-      <cell>Meeting of Egyptian Institute.</cell>
-      <cell>3.30</cell>
-    </row>
-    <row>
-      <cell>Mon.</cell>
-      <cell>18</cell>
-      <cell>Connaught House. Y.W.C.A.
-      Annual Sale of Work, opened by the
-      Counters of Cromer.</cell>
-      <cell></cell>
-    </row>
-    <row>
-      <cell>Tues.</cell>
-      <cell>26</cell>
-      <cell>Meeting Salt & Soda Co.</cell>
-      <cell>3</cell>
-    </row>
-  </table>
-</div>
-<div type="item">
-  <head>LOCAL AND GENERAL</head>
-  <head>The Mail.</head>
-  <p>The Brindisi mail will close at the G.P.O.,
-  Alexandria, at 3.30 p.m. on Sunday.</p>
-  <head>Ministry of Justice.</head>
-  <p>Two buildings for housing judges and
-  inspectors are to be built by the Ministry of
-  Justice at Tantah.</p>
-  <head>Death from Intoxication.</head>
-  <p>A native, aged 20, was found dead at Kom
-  El Milh, in the Karmous district, yesterday.
-  The body was taken to hospital, where the
-  post-mortem examination proved that death
-  was due to intoxication.</p>
-  <head>Queen's Birthday.</head>
-  <p>To-day, on the occasion of the 61st birthday
-  of H.M. Queen Alexandra, H.M.S,
-  Carnarvon dressed ship and flew the Royal
-  Standard. The Royal Standard is also flying
-  over Port Kom el Nadonrs.</p>
-  <head>French Operettas</head>
-  <p>The Crepy-Simon French operetta
-  company will make its first appearance at the
-  Alhambra Theatre, Alexandria, to-night, when
-  Saltimbanque will be given. The operettas to
-  be given include a number of novelties.</p>
-  <head>Suez Canal</head>
-  <p>Nineteen vessels passed through the Canal
-  on the 26th and 27th, of which 12 were
-  British, 2 German, 2 French, 2 Italian, 1
-  Russian. The total amount of receipts from
-  the 1st to the 27th was frs. 8,839,169.03.</p>
-  <head>Found Drowned.</head>
-  <p>The dead body of a Swedish seaman (27) was
-  found floating in Alexandria harbour yesterday
-  near wharf No. 9, bearing marks of a slight
-  injury to his chin. The body was taken out
-  of the water and removed to the hospital for a
-  post-mortem examination.</p>
-  <head>Arrivals.</head>
-  <p>The S.S. Portugal, of the Messageries
-  Maritimes, has brought several professors from the
-  Berlitz School of Paris, the number of the staff
-  having been found insufficient to cope with the
-  great demand for lessons; Cairo, 1, Sharia
-  Kamel; Alexandria, 26, Rue de l'Eglise Copse.</p>
-  <head>New Commission House.</head>
-  <p>Messrs. Missak Moronkian & Co., brokers,
-  of Smyrna, have opened a branch at
-  Alexandria, at 3, rue Mehmoud Pashareal Falaki,
-  which will undertake business in American
-  and Egyptian cotton on the markets of New
-  York and Liverpool and also in the stocks and
-  shares on any Bourse. M. Mardick L. Baliozian
-  will be in sole charge of the branch and will
-  sign for the firm.</p>
-  <head>Lucky Cotton Speculator.</head>
-  <p>A sensational rise in the price of cotton
-  has enabled Mr. Joseph Hoadley to make
-  £200,000 in five minutes on the New York
-  exchange. The market has expected 8,000,000
-  bales of cotton to be ginned up to Nov. 14,
-  there were only 7,498,167 bales. There was
-  a mad rush to buy; prices went up 20 points
-  at a time. Then Mr. Hoadley turned seller.
-  His total profits on the day's business are
-  estimated at £800,000.</p>
-  <head>Post Office Notice.</head>
-  <p>Owing to the fact that former notices
-  referring to clear direction of correspondence
-  have been largely disregarded by the public
-  and that the general delivery has had to be
-  delayed in consequence, it has been decided
-  that from 1st February 1906, correspondence
-  for house to house delivery addressed only
-  "Cairo" or "Alexandria" will be retarded and
-  only sorted after the first delivery of each
-  mail has left the post offices in those towns.
-  After that date it will be no longer necessary
-  to make special requests for house to house
-  delivery as correspondence bearing the full
-  address will be duly delivered.</p>
-</div>
-<div type="item">
-  <head>PERSONAL AND SOCIAL.</head>
-  <div type="item">
-    <p>Mr. Iddings, Diplomatic Agent and Consul
-    General for the United States of America,
-    and Mrs. Iddings, have left Cairo for a trip to
-    Upper Egypt.</p>
+﻿<div type="item">THE EGYPTIAN GAZETTE FRIDAY DECEMBER 1, 1905
+    <div type="item">
+      <head>NAVAL BATTLE AT SEVASTOPOL.
+      HALF CITY DEMOLISHED,
+      MUTINY AT LIBAU</head>
+      <div type="item">
+        <head>St. Petersburg, November 30.</head>
+          <p>The "Slovo” states that a naval battle took
+          place on Tuesday at Sevastopol. It lasted two
+          hours. The rebel ships opened fire on the forts.
+          The cruiser Otchakoff was pierced and burst
+          into flames; the cruiser Dnieper, another ship,
+          and several torpedo-boats were sunk. Lieutenant
+          Schmidt, chief of the rebels, having been
+          killed, the squadron surrendered. Half the city
+          of Sevastopol is demolished.</p>
+          <p>A grave mutiny has broken out at Liban,
+          and another is feared at Kronstadt. (Reuter)</p>
+      </div>
+      <div type="item">
+        <head>St. Petersburg, November 30.</head>
+        <p>Another account of the battle at Sevastopol
+        is that the mutineers lost heart when a rebel
+        torpedo-boat was sunk and two cruisers
+        damaged. They endeavoured to make the shore
+        in boats, but were intercepted by the loyal
+        torpedo-boats. Meanwhile; the loyal Bielostock
+        Regiment attacked the barracks held by the
+        mutinous seamen, 1,500 of whom surrendered
+        with 10 Maxims, owing to the attitude of the
+        Naval Battalions.</p>
+        <p>Disarmed reservists are parading the streets
+        at Nijni Novgorod singing revolutionary
+        songs.</p>
+        <p>Reservists at Doinsk have unanimously
+        resolved not to take the oath if called out.
+        The resolution has been printed and distributed
+        broadcast.</p>
+        <p>110.000 men are either locked out or on
+        strike here, and 58,700 at Moscow. (Reuter)</p>
+      </div>
+      <div type="item">
+        <head>Sevastopol November 30.</head>
+        <p>There has been a battle between the rebels
+        and the Royalist troops. Half of the city
+        is destroyed. The mutineers were defeated
+        and surrendered. Lieutenant Schmidt is
+        fatally wounded.	(Havas)</p>
+      </div>
     </div>
     <div type="item">
-    <p>Rear-Admiral the Hon. Sir Hedworth
-    Lambton, whose flagship, the Carnarvon,
-    is now at Alexandria, had an interesting
-    experience during the bombardment of Alexandria.
-    He was the Admiral’s flag lieutenant during
-    the bombardment and volunteered with a boat’s
-    crew to spike the guns of the Mex fort. The
-    sea being too rough to land they jumped into
-    the sea, swam ashore, and successfully carried
-    out their mission.</p>
-  <div>
-  <div type="item">
-    <p>The family of Mme Vve Piha Bey wish to
-    publicly thank Sisters Hetty Crowther and
-    Martha Bacon, as well as the male nurse,
-    Andrea J. Couroupis for their devoted attention
-    to their late mother during her long illness.</p>
-  </div>
-  <div type="item">
-    <p>The latest arrivals at Mena House include:
-    Rear-Admiral Hon. H. Lambton, Sir George
-    Warrender, R.N.. Mr. J. H. Livingston, Mrs.
-    Geddies, Mrs. Williams, Miss M. Price, Mr.
-    and Mrs. Hugh Kerr, the Misses Mulvany, Mr.
-    W. Kidd, Mme Louise Ballusock, Miss Gunley,
-    Miss Mulholland, Dr. Hastings, Mr. A. Denny,
-    Miss Reid, Miss Schofield, Mr. and Mrs. E.
-    Newman, Miss Newman, Mrs. Bullock, Miss
-    McKellar, and Miss E. Baird.</p>
-  </div>
-  <div type="item">
-    <p>Mr. E. Almaz Stout has contributed an
-    excellent description of an Arab wedding in
-    Cairo to the "Ladies' Field" of November 18.</p>
-  </div>
-</div>
-<div type="item">
-  <head>OUR ROYAL VISITOR.
-  ARRIVAL AT CAIRO.</head>
-  <p>H.H. Prince Leopold of Battenberg arrived
-  at Port Said by the Orient steamer Ormuz
-  and proceeded straight to Cairo.<p>
-  <p>Lord Cremer was present at Cairo station to
-  bid his Royal Highness welcome. A suite of
-  rooms has been engaged for him at the Hotel
-  d'Angleterre.</p>
-</div>
-<div type="item">
-  <head>LORD CROMER IN THE SUDAN.</head>
-  <p>We understand that Lord Cromer, after
-  presiding over the official opening of the Nile-
-  Red Sea Railway, will proceed by the line to
-  Kharteum, whence he will made a trip up the
-  White Nile before his return to Egypt. Lord
-  Cromer is expected to be absent from Cairo a
-  little over a month.</p>
-</div>
-<div type="item">
-  <head>THE JUDICIAL CONFERENCE.</head>
-  <p>The International Commission of the Mixed
-  Tribunals met on Wednesday at the Ministry
-  of Foreign Affairs, under the presidency of
-  H.E. Boutros Pasha Ghali. We understand
-  that the question of the unification of the
-  bureaux for transcriptions of property, etc.,
-  was discussed, and that the Government
-  proposals on this subject have been approved in
-  principle by the Commission.</p>
-</div>
-<div type="item">
-  <head>THE SUCRERIES.</head>
-  <p>The meeting of the creditors of the Sucreries
-  Co., to hear the proposals of the controllers,
-  takes place today at 3 p.m. It is stated that
-  the directors of the Sucreries have protested
-  by letter to Judge Tuck against certain
-  statements which occur in the late report of the
-  three experts. Meantime the judge is preparing
-  his report on the concordst preventif granted
-  to the company and may have completed it
-  in time for this afternoon’s meeting.</p>
-</div>
-<div type="item">
-  <head>ANGLO-AMERICAN COMPANY.</head>
-  <p>A rumour has been current in Cairo to the
-  effect that Hanna Bey Bakoum will have some
-  position in the Anglo-American and Hamburg-
-  Amerika Companies amalgamation. The
-  rumour, however, is baseless. A Cairo Bourne
-  bulletin of yesterday’s date remarks :--
-  <p>A propos da la farion de l’Anglo-American
-  Nile avec la Hamburg-Amerika Linie, onrap-
-  porte que Hanna bey Bakoum, administrateur
-  de la Societe Tewfikieh, aurait offert a la
-  Hamburg-Amerika “son concours et son
-  influence en Egypte” a condition qu’elle venille
-  bien faire l’acquisition de la Societe Tewfikieh.
-  L’estimation de l’actif de la Societe Tewfikieh
-  a donne lieu, l'annee passee, a des discussions
-  plutot violeutes entre actionnaites et administrateurs,
-  discussions dont la presse locale s’est
-  longuement occupee. Quant a l’influence de
-  M. Bakoum bey, elle a beaucoup perdu de sa
-  valeur matchande a cette occasion. La transaction
-  dont il est question pourra done, croyons-
-  nous, se faire dans les prix deux.</p>
-</div>
-<div type="item">
-  <head>MR. CHAMBERLAIN AND THE OCTROI.</head>
-  <p>Mr. Cooke, secretary of the Cheshire Liberal
-  Unionist Association, recently directed Mr.
-  Chamberlain’s attention to the fact that the
-  removal of the octroi duties in Cairo made
-  provisions dearer, proving Protection often
-  cheapens and Free Trade raises prices to the
-  consumer. Mr. Cooke also urged that the
-  navigation laws required amendment. In his
-  reply to Mr. Cooke, Mr. Chamberlain said
-  he was in Cairo last year and could confirm
-  the statement as to the effect of the octroi.
-  He was also aware of the effect of the one-
-  sided navigation laws, which undoubtedly
-  tended to the disadvantage of British shipping
-  in many cases.</p>
-</div>
-<div type="item">
-  <head>NOTES FROM MENA.</head>
-  <p>The small dance given at Mena House Hotel
-  was quite a success, and all the visitors staying
-  there took part in it. The band was excellent,
-  the floor in perfect condition, and last, but not
-  least, the buffet everything one could desire.
-  We noticed among the numerous visiters now
-  staying at Mena House Hotel the following
-  residents : H.E. Mustapha Pasha Fehmy, Sir
-  Vincent Corbett, Mr. H Carter Wilson, Mr.
-  and Mrs. Rowlatt, Mr. Easton Cornish. Mr.
-  and Mrs. P. P. Peake, Dr. and Mrs. Hayward,
-  Miss Weinberg, R Owen Bey, Mr. and Mrs.
-  W. Chatterton Adams, Mr. de Bilinski,
-  Miss de Bilinski, Col. and Mrs. Gordon, Major-
-  Palmer, Capt. Brakenridge, Capt. Beamish, Capt.
-  Grant, Capt. D. Parsons, Bimbashi Hughes,
-  Mr. R. H. Duke, Mr. and Mrs. Archibald, Miss
-  Miles, Mr. R. B. Paten, Hamza Bey Fehmin,
-  Mr. A. E. Ross, and others, including Admiral
-  Hom H. Lambton and Sir George Warrender.</p>
-  <p>There will be a band performing at Mena
-  House Hotel on Sunday next during lunch
-  from 1 to 2 o'clock, and from 3.30 to 5 o’clock
-  in the afternoon.</p>
-</div>
-<div type="item">
-  EDEN PALACE HOTEL,
-  Airo.
-  Noted for its excellent cuisine
-  Electric light. Lift.
-  Special terms for officers of the Army of Occupation and Government Officials.
-</div>
-<div type="item">
-  <head>THE GHIZEH ACCIDENT
-  SYPHON WRECKED.</head>
-  <p>It now appears that the total length of bank
-  that collapsed between Ghizeh and Hawamdieh
-  did not exceed 20 metres. The basin, which
-  most have contained some 230,000,000 cubic
-  metres of water, has been emptying itself into
-  the Nile, carrying away some minor irrigation
-  works and wrecking the syphon under the
-  Ghizeh Canal.</p>
-  <p>A report was circulated in Cairo yesterday
-  evening that the foundations of the masonry
-  work of the bridge showed signs of having
-  sustained some damage, threatening to prolong
-  the delay to traffic with Upper Egypt.</p>
-  <p>The rumour arose from the fact that the
-  earth fillings of the approaches to the bridge
-  had given way. The Railway Administration
-  is in consequence laying rails across an iron
-  bridge close to the old wooden bridge which
-  has been injured.</p>
-  <p>The washout is causing great inconvenience.
-  Our Minieh Correspondent, writing under
-  yesterday’s date, states that the night express
-  was eight hours late at Minieh yesterday and
-  the day before.</p>
-</div>
-<div type="item">
-  <head>NEW BANK FOR EGYPTIAN AFFAIRS.</head>
-  <p>The Constantinople correspondent of the
-  “Frankfurter Zeitung” learns the Dresdner
-  Bank, the National Bank fuer Deutschland, and
-  the Schaffenhauser Bankverein have formed a
-  new bank, with headquarters in Berlin, to carry
-  on business in Egypt and other Mediterranean
-  countries now served by the Orient Bank of
-  Athens, which was founded last spring by the
-  National Bank. The Constantinople branch of
-  the Orient Bank will be included in the new
-  organization.</p>
-</div>
-<div type="item">
-  <head>BANK OF ABYSSINIA.</head>
-  <p>Mr. Goldie, who is to manage the Harrar
-  branch of the Bank of Abyssinia, left Cairo for
-  Suez on Wednesday, and on Thursday morning
-  Mr. MacGillivray left amid the farewells of a
-  great number of friends who had come to the
-  station to see him off. Sir Elwin Palmer, who was
-  also at the station, presided over a banquet given
-  in Mr. MacGillivray's honor on Wednesday
-  night, at which he proposed the health of the
-  head of the new bank and referred in warm
-  terms to his character and abilities. Some
-  twenty of Mr. MacGillivray's friends were
-  present on the occasion, and he was the
-  recipient of numerous wishes for his safety and
-  success in his new post.</p>
-  <p>On his departure Mr. MacGillivray was
-  presented by a deputation of the members of
-  the Cairo Bourse with a splendid tea service
-  as a memento of the part he played as one of
-  its founders.</p>
-</div>
-<div type="item">
-  <head>GERMAN TRADE WITH EGYPT.</head>
-  <p>A Consular report just published in Berlin
-  shows a continued large increase of German
-  trade with Egypt. In the ten years to 1904
-  the exports from Germany to Egypt have
-  increased by £750,000, the totals being £350,000
-  in 1894 and £1,100,000 in 1904.</p>
-  <p>The German coal depots, established at Port
-  Said to compete with the British coal depots,
-  are doing a large trade, and are extremely
-  prosperous. The export of German coal to
-  Egypt reached a total of 63,000 tons last year.</p>
-  <p>During 1904 seventy German ships, of an
-  aggregate tonnage of 150,000, touched at
-  Alexandria. The Hamburg-Amerika Line is
-  starting a steamship service to the Nile, by
-  means of which it is expected that German
-  trade with the interior will be considerably
-  increased. German trade in Egypt is carried on
-  by a German colony of 1,300 persons, of whom
-  600 live at Alexandria, and 500 in Cairo.</p>
-</div>
-<div type="item">
-  <head>DAIRA SANIEH LOAN.</head>
-  <p>Yesterday was the last day for the presentation
-  for payment in London of all outstanding
-  bonds and coupons of the Daira Sanieh Four
-  per Cent. Loan, in accordance with the notice
-  issued by the controllers, dated July 21st,
-  1905. From to-day all such payments will be
-  made in Cairo.</p>
-</div>
-<div type="item">
-  <head>STEAMER MOVEMENTS.</head>
-  <p>The Messageries Maritimes S.S. Congo
-  arrived at Marseille from Alexandria on
-  Wednesday.</p>
-  <p>The S.S. Alexandria (Papayanni Line) left
-  Malta yesterday and is expected to arrive at
-  this port on Monday morning.</p>
-  <p>The Moss liner Rameses sailed from Malta
-  yesterday  afternoon and is due here on Sunday
-  afternoon, with passengers, mails, and general
-  cargo.</p>
-  <p>The Moss liner Khephren passed Holyhead
-  yesterday for Liverpool.</p>
-</div>
-<div type="item">
-  Anglo-American Nile Steamers AD
-</div>
-<div type="item">
-  <head>TWO RECENT WORKS UPON
-  EGYPTIAN NUMISMATICS.</head>
-  <p>M. George Dattari, of Cairo, whose cabinet of
-  coins is so celebrated among numismatists, has
-  recently presented a paper to the Antiquarian
-  and Nomismatic Society of Montreal, Canada
-  referring to the celebrated statue of Serapis,
-  by Bryaxis. The raison d'etre of this monograph
-  is the deciding of the date of the statue’s
-  arrival at Alexandria, which M. Dattari
-  succeeds in achieving by means of evidence derived
-  from coins the effigies upon which be
-  considers completely settle the question. When
-  the essay is printed in extenso, we hope to be
-  permitted to publish a oomplete summary of
-  its contents.</p>
-  <p>Another and longer treatise of M. Dattari
-  may be found in that most excellent work the
-  “Journal International d’Archeologie
-  Numismatique" of Athens. It contains the learned
-  author’s comments upon a board of Athenian
-  tetradrachms found in Egypt. The thesis is
-  as follows. The Saitic dynasty to secure Egyptian
-  independence hired Greek mercenaries and
-  the Mendesian dynasty to oppose the Persians
-  went further, concluding an alliance with
-  Macedonia and Athens. From this period Macedonian
-  and Athenian coins are common in
-  Egypt Tachos of the 30th dynasty employed
-  90,000 Greek troops, and to pay the expense
-  of his Persian war he ordered his subject's to
-  deposit all their gold and silver in the Treasury.</p>
-  <p>From his time Athenian tetradrachms are
-  plentiful, but they are in most cases of very
-  inferior workmanship compared to the splendid
-  specimens of Athenian coinage. Athens at
-  this time was wealthy and powerful and her
-  coinage practically international in the Greek
-  world. M. Dietary argues from the coins that
-  Tachos struck “Athenian" tetradrachms here,
-  and absolutely proves his case by producing
-  a photograph of the die employed, which
-  was found in Egypt with the hoard of
-  tetradrachms, which are beautifully illustrated in
-  prototype plates accompanying the essay.
-  M. Dattari thinks Egypt imitated other Greek
-  coins, but reserves his remarks upon this for
-  another occasion.</p>
-</div>
-<div type="item">
-  <head>CHRISTMAS MAILS.</head>
-  <p>Our readers will no doubt be interested to
-  know that the latest time for posting parcels
-  for the United Kingdom, so as to reach their
-  destination by Christmas, is 6p.m. to-morrow
-  for Alexandria, the mail leaving Port Said on
-  Sunday, via Gibraltar. If sent by overland
-  mail, parcels may be dispatched from Alexandria
-  on the 8th December, or the 11th from
-  Port Said. The latest date for posting letters
-  for Christmas is 16th December, and for the
-  New year, 23rd December. Parcels for Europe
-  (not including the UK) should be sent a
-  week earlier.</p>
-</div>
-<div type="item">
-  <head>BAND PERFORMANCE.</head>
-  <p>By kind permission of Lieut. Colonel R. C.
-  C. Cox, commanding, and officers 2nd Royal
-  Inniskilling Fusiliers, the Band will perform
-  the following programme of music on the
-  terrace, Shepheard's Hotel, to-morrow (Saturday)
-  from 4 to 5 p.m.:—</p>
-  <p>March—The Steel King - F. St. Clair
-  Overture-Zampa-Herold
-  Polonaise-Holfball Gung'l
-  National Fantasia-Scotland's Pride C. Godfrey
-  Song-Pilgrims of the Night-Liddle
-  Valse-Wedding of the Winds-J. Hall
-  Selection-The Catch of the Season-Halfies
-  Danse Characteristique Anne Boleyn-M. Ball
-  Regimental March-Khedivial Anthem
-  God Save the King
-  B. Watson Ramset, Bandmaster.</p>
-</div>
-<div type="item">
-  <head>PASSENGER LIST.
-  DEPARTURES.</head>
-  <p>Per S.S. Singapore of the Florio Rubattino,
-  sailed yesterday for Genoa :</p>
-  <p>M. Pietro Tovoni, M. A. Cederwald M.
-  Henry Castets, Mme Lottero, M. Jose Solari,
-  Mgr. Caglieno, M. G. Marenco, Dr. and Mrs.
-  G. Watson, M. G. Drifbre, Mr. and Mrs Weis-
-  ener, M. and Mme di Vascello Gobelti, M. R.
-  De Stefano, M. S. Chieras, Dr. M. Cano, M.
-  and Mme Virgilio Vigano, Dr. Germais Belva-
-  lette, M. E. Hamkohl. Mme Antonia Capua,
-  M. Chorubino, M. Vino Mari, Mlle Ivonne
-  Weil.</p>
-  <p>Per Khedivial S.S. El Kahira, left yesterday
-  for Piraens, Smyrna, Mitylene, Dardanelles and
-  Constantinople:—</p>
-  <p>Messrs. Alfred Kean Moe, Panayotti Bur-
-  bulis, Gabriel Tourne Baudut, Geffray, Geo.
-  Despotides, Michel Lahanas, Calvin, Piequart,
-  Mitrecey, Rolland, Prayva, Gaerio, DeReusse,
-  J Sylvestre, Valorsay, Malval, Serres, Rene
-  Balme, Heinrich Leonardht, William Bonwit,
-  Panayotti Isidorides, Marquet, Lambert Pere,
-  M. and Mme. J. Couroelles, M. and Mme.
-  Albert Lambert, M. and Mme Millet, M. and
-  Mme. Louis Gardet, Mmes. Delvair. Flenry,
-  Chenest, Theuler, Chams Ealack, Landen.
-  Perrin. Berthias. J. Marney, Darmy, Symiane
-  Val, Elza Vogel, Danville, and 130 deck
-  passengers.</p>
-</div>
-<div type="item">
-  CARLTON HOTEL ad
-</div>
-<div type="item">
-  WINDSOR HOTEL ad
-</div>
-<div type="item">
-  <head>ANTI-TUBERCULOSIS LEAGUE.</head>
-  <p>The committee of the Anti-Tuberculosis
-  League sent to the Grand Master of Ceremonies
-  of H.H. the Khedive the balance sheet of the
-  sociey and the reports of Drs. Legrand and
-  Valassopoulo, its delegates at the Paris Inter-
-  national Congress. In reply the Grand Master
-  of Ceremonies, H.E. Ahmed Zeky Pashs,
-  has sent the following letter to Dr. Sohiess
-  Bey, chairman of the committee:--</p>
-  <head>Palais d'Abdiue
-  29 novembre 1905</head>
-  <p>Monsieur le President</p>
-  <p>J'ai eu l'honneur de soumettre a Son Altesse
-  le Khedive les documents concernant la ligue
-  contre la tuberculose.</p>
-  <p>Son Altesse me charge de vous remercier de
-  cet envoi et de vous exprimer sa satisfaction
-  pour l'activite si devouee que votre ligue ne
-  cesse de deployer pour arriver a son but.</p>
-  <p>Veuillez agreer, Monsieur le President, l'as-
-  surance de ma consideration tres distinguee.</p>
-</div>
-<div type="item">
-  <head>La Revue Internationale</head>
-  <p>Le prochain numere de la "Revue Inter-
-  nationale d'Egypte" ne le cedera en rien
-  aux precedents. Il contiendra un travail de
-  M. Alexandre Max de Zogheb sur "Alexandrie
-  ancienne et moderne," un article de M.
-  Legrain sur l'histoire de ses fouilles ou
-  l'humour du conteur le dispute a la science
-  de l'egyptolgue, le commencement des "Sou-
-  venirs d'un engage volontaire" par Marcel Poi-
-  lay bey, appeles a un vif succes cas l'auteur ra-
-  conte ce qu'il a vu dans un recit pleiu de via
-  et de couleur. Il s'agit de la defense de Belfore
-  a laquelle M. Marcel Poilay prit part lors de
-  la guerre franco-allemande. Signalons encore
-  une nouvelle italienne de m. Frontali, des vers
-  de M. Audibert, un jeune poete francais du
-  plus bel avenir et enfin les lettres de l'etranger
-  d"andre Besunier, de Gulielmo Ferrero, de
-  Michel Delines, etc.</p>
-</div>
-<div type="item">
-  <head>NATIONAL HOTELS & RESIDENCES</head>
-  <p>Nous publions aujourd'hui le prospectus
-  d'emission de la "National Hotels and Resi-
-  dences Co" Societe Anonyme recemment cons-
-  tituee au Caire dans le but de creer ou ex-
-  ploiter des Hotels, pensions, casinos, et tous
-  etablissements similaires, et qui deja sotuelle-
-  ment est proprietaire du "National Hotel" et
-  de la "National Residence," rue Soliman Pachs,
-  qui ont ete inangures le mois dernier et qui
-  sont en pleine exploitation, sinsi que du Grand
-  Hotel Casino d'Ain-Sofar (Mont Liban).</p>
-  <p>Comme on le voit, The National & Resi-
-  dences Company, sa presente comme une tres
-  belle affaire qui semble promettre des resultats
-  brillants. Il suffit, du reste, de voir a quels
-  cours sont actnellement cotes eu Bourse les
-  titres des affaires de ce genre d'Egypte : ils
-  valent environ deux fois et demi leur prix
-  d'emission!</p>
-  <p>Tout le capital soit L.E. 200.000 divire en
-  actions de L.E. 4 chscune aete souscrit au pair
-  pas les fondateurs, qui en retrocedent 30.000
-  au public aux memes conditions.</p>
-  <p>Ils nous semble inutile d'insister sur l'avan-
-  tage qu'il y a de pouvoir entrer au pair dans
-  une telle affair, et il y a tout lieu de croire que
-  l'emission sera un succes.</p>
-</div>
-<div type="item">
-  <head>BULLETIN DE LA BOURSE</head>
-  <div type="item">
-    <head>(Aujourd'hui a midi et demis)</head>
-    <p>Les cours sont en general soutenus, et des
-    echanges ont en lieu en grand nombre en
-    Banque Nationale, Agricole, Actious Credit
-    Foncier et Estates.</p>
-    <p>La Bank of Abyssinia perd 1/8 a 7 1/8, la
-    Behera 1/2 a 37 3/4, la Building 1/16 a 4 1/8,
-    la Brasserie des Pyramides 4 fr. a 110, la Salt
-    and Soda 1 shelling a 21/6, l'Alexandria Water
-    1/8 a 14 3/4, les Eaux du Caire 3 fr. a 116 et
-    la Ramleh Railway 1/16 a 6 7/8.</p>
-    <p>Par contre, la Cansa di Scouto s'avance de
-    208 a 210, l'Investment de 1 3/32 a 1 1/8, le
-    Trust de 1 5/33 a 1 7/32, l'Urbaine de 5 a
-    5 1/16, la Filature de 7/8 a 29/32, les Cotton
-    Mills de 4/9 a 5 et les Sucreries de 28 a 29.</p>
-    <p>On voit par cette enumeration que le public
-    semble reveoir de nouveau aux petites valeurs.
-    La tendance generale rests cependant indecise.</p>
-  </div>
-  <div type="item">
-    <head>Le Caire, 30 Novembre.</head>
-    <p>La reance d'aujourd'hui n'a pas ete tres
-    billante comme prix, mais les echanges ont ete
-    assez nombreux.</p>
-    <p>Le recul des prix est motive par la situation
-    politque de l'Europe et aussi par les realisa-
-    tions de fin de mois. Le marche est nerveux a
-    l'exces. On desire acheter, profiter des cours
-    recellement bas, mais on hesite.</p>
-    <p>La National Band a cloture a £25 7/16 pour
-    l'ancienne et a £25 pour la nouvelles. Il est a
-    ersin dresque baisse s'accentre demain pour
-    les raisons que nous venons d'indiquer.</p>
-    <p>L'Agricultural aussi a faibli a £9 3/16 avec
-    affaires relativement actives.</p>
-    <p>L'action Credit Foncier Egyptian persists a
-    juste raison a se tenir beaucoup mieux ici qu'a
-    Paris. Elle a fait 786 Frs. Les porteurs n'ont
-    aucune inquietude a avoir; ils reverront cer-
-    tainement des cours plus eleves a la premiere
-    aclaircie.</p>
-    <p>Beaucoup d'achats en Egyptian Estates a
-    £1 3/8-- Bonne valenr, elle est a anivre tout
-    a gagner, rien a perdre.</p>
-    <p>Les Hotels re presentent aux environs des
-    cours d'hier eoit a £10 1/2 les Nungovich,
-    a £2 13/16 a 7/8 les Baehler, et a £5 1/8 a
-    3/16 les Upper.</p>
-    <p>Les Omnibus du Caire s'inscrivent a £14 1/2.
-    Nous serious bien surpris si nous demeuriors
-    longtemps a ce cours. Les resultats du dernier
-    exercice sont aussi bons que ceux du precedent
-    et le dividende sera tres probablement aussi
-    omunerateur que celui de l'annee dernier.</p>
-    <p>Eucomme la loudeur ne devrait pass tenir
-    longtemps si on examinait la position de beau-
-    coup de noz societes.</p>
-    <p>Mais les facilities d'achat, a son allez 1</p>
-  </div>
+      <head>A ROYAL PASSIVE RESISTER.
+      The Sultan and the Powers.</head>
+      <head>Paris, November 30.</head>
+      <p>The Sultan persists in his resistance. The
+      international squadron is preparing to occupy
+      another island. (Havas)</p>
+    </div>
+    <div type="item">
+      <head>THE CRETAN GARRISON
+      NO GREEK TROOPS.</head>
+      <head>Rome, November 30.</head>
+      <p>The Government has announced in the
+      Chamber that the Powers have unanimously
+      refused to substitute Greek troops for the
+      international force at present in Crete. (Reuter)</p>
+    </div>
+    <div type="item" scope="calendar">
+      <table cols="4" xml:id="CalendarOfTheWeek">
+        <head>CALENDAR OF COMING EVENTS</head>
+        <head type="sub">Alexandria
+        December</head>
+        <row>
+          <cell>Fri.</cell>
+          <cell>1</cell>
+          <cell>Alhambra. Debut of French operetta
+          company in Les Saltimbanques.</cell>
+          <cell>9</cell>
+        </row>
+        <row>
+          <cell>Sat</cell>
+          <cell>2</cell>
+          <cell>Mustapha Rifle Range Practice,
+          B.R.C. (Alex).</cell>
+          <cell>2.30</cell>
+        </row>
+        <row>
+          <cell></cell>
+          <cell></cell>
+          <cell>St. Andrew F.C. Victoria College.
+          College ground.</cell>
+          <cell>3</cell>
+        </row>
+        <row>
+          <cell></cell>
+          <cell></cell>
+          <cell>Khedival Hotel. Reunion des
+          Families. Ball</cell>
+          <cell>9.30</cell>
+        </row>
+        <row>
+          <cell>Mon</cell>
+          <cell>4</cell>
+          <cell>St. Andrew's High School. A.L.M.
+          & D.S. Lecture by Dr. Ruffer,
+          C.M.G., on "The Desert of Sinai."</cell>
+          <cell>9</cell>
+        </row>
+        <row>
+          <cell></cell>
+          <cell></cell>
+          <cell>Lifonti Concert-room. Mme Bonucci
+          Carlesimo's concert.</cell>
+          <cell>9.15</cell>
+        </row>
+        <row>
+          <cell>Sat</cell>
+          <cell>9</cell>
+          <cell>St. Andrew  c. “D” Co. Dublin
+          Fusiliers. Moharrem Bey Common.</cell>
+          <cell>3.30</cell>
+        </row>
+        <row>
+          <cell>Sat</cell>
+          <cell>6</cell>
+          <cell>Scotch Schools Fellow Workers’
+          Union, Sale of Work. St. Andrew’s
+          High School (near H.B.M'.'s Consulate).</cell>
+          <cell>3</cell>
+        </row>
+        <row>
+          <cell>Wed.</cell>
+          <cell>20</cell>
+          <cell>Cercle Khedivial. First Dance of
+          Season.</cell>
+          <cell></cell>
+        </row>
+        <row>
+          <cell>Thurs.</cell>
+          <cell>21</cell>
+          <cell>Sailors and Soldiers’ Institute. Sale
+          of Work and ’Xmas Tree.</cell>
+          <cell>3</cell>
+        </row>
+      </table>
+    </div>
+    <div type="item" scope="calendar">
+      <table cols="4" xml:id="CalendarOfTheWeek">
+        <head type="sub">CAIRO.
+        December.</head>
+        <row>
+          <cell>Fri</cell>
+          <cell>1</cell>
+          <cell>Zoological Gardens. Ghizeh Boys’
+          Band.</cell>
+          <cell>Afternoon</cell>
+        </row>
+        <row>
+          <cell></cell>
+          <cell></cell>
+          <cell>Theatre des Nouveautes.</cell>
+          <cell>9.30</cell>
+        </row>
+        <row>
+          <cell></cell>
+          <cell></cell>
+          <cell>Alcazar Parisien.</cell>
+          <cell>9.30</cell>
+        </row>
+        <row>
+          <cell>Sun.</cell>
+          <cell>8</cell>
+          <cell>Zoological Gardens. E A. Infantry
+          Band.</cell>
+          <cell>Afternoon</cell>
+        </row>
+        <row>
+          <cell>Mon.</cell>
+          <cell>4</cell>
+          <cell>Meeting of Egyptian Institute.</cell>
+          <cell>3.30</cell>
+        </row>
+        <row>
+          <cell>Mon.</cell>
+          <cell>18</cell>
+          <cell>Connaught House. Y.W.C.A.
+          Annual Sale of Work, opened by the
+          Counters of Cromer.</cell>
+          <cell></cell>
+        </row>
+        <row>
+          <cell>Tues.</cell>
+          <cell>26</cell>
+          <cell>Meeting Salt & Soda Co.</cell>
+          <cell>3</cell>
+        </row>
+      </table>
+    </div>
+    <div type="item">
+      <head>LOCAL AND GENERAL</head>
+      <head>The Mail.</head>
+      <p>The Brindisi mail will close at the G.P.O.,
+      Alexandria, at 3.30 p.m. on Sunday.</p>
+      <head>Ministry of Justice.</head>
+      <p>Two buildings for housing judges and
+      inspectors are to be built by the Ministry of
+      Justice at Tantah.</p>
+      <head>Death from Intoxication.</head>
+      <p>A native, aged 20, was found dead at Kom
+      El Milh, in the Karmous district, yesterday.
+      The body was taken to hospital, where the
+      post-mortem examination proved that death
+      was due to intoxication.</p>
+      <head>Queen's Birthday.</head>
+      <p>To-day, on the occasion of the 61st birthday
+      of H.M. Queen Alexandra, H.M.S,
+      Carnarvon dressed ship and flew the Royal
+      Standard. The Royal Standard is also flying
+      over Port Kom el Nadonrs.</p>
+      <head>French Operettas</head>
+      <p>The Crepy-Simon French operetta
+      company will make its first appearance at the
+      Alhambra Theatre, Alexandria, to-night, when
+      Saltimbanque will be given. The operettas to
+      be given include a number of novelties.</p>
+      <head>Suez Canal</head>
+      <p>Nineteen vessels passed through the Canal
+      on the 26th and 27th, of which 12 were
+      British, 2 German, 2 French, 2 Italian, 1
+      Russian. The total amount of receipts from
+      the 1st to the 27th was frs. 8,839,169.03.</p>
+      <head>Found Drowned.</head>
+      <p>The dead body of a Swedish seaman (27) was
+      found floating in Alexandria harbour yesterday
+      near wharf No. 9, bearing marks of a slight
+      injury to his chin. The body was taken out
+      of the water and removed to the hospital for a
+      post-mortem examination.</p>
+      <head>Arrivals.</head>
+      <p>The S.S. Portugal, of the Messageries
+      Maritimes, has brought several professors from the
+      Berlitz School of Paris, the number of the staff
+      having been found insufficient to cope with the
+      great demand for lessons; Cairo, 1, Sharia
+      Kamel; Alexandria, 26, Rue de l'Eglise Copse.</p>
+      <head>New Commission House.</head>
+      <p>Messrs. Missak Moronkian & Co., brokers,
+      of Smyrna, have opened a branch at
+      Alexandria, at 3, rue Mehmoud Pashareal Falaki,
+      which will undertake business in American
+      and Egyptian cotton on the markets of New
+      York and Liverpool and also in the stocks and
+      shares on any Bourse. M. Mardick L. Baliozian
+      will be in sole charge of the branch and will
+      sign for the firm.</p>
+      <head>Lucky Cotton Speculator.</head>
+      <p>A sensational rise in the price of cotton
+      has enabled Mr. Joseph Hoadley to make
+      £200,000 in five minutes on the New York
+      exchange. The market has expected 8,000,000
+      bales of cotton to be ginned up to Nov. 14,
+      there were only 7,498,167 bales. There was
+      a mad rush to buy; prices went up 20 points
+      at a time. Then Mr. Hoadley turned seller.
+      His total profits on the day's business are
+      estimated at £800,000.</p>
+      <head>Post Office Notice.</head>
+      <p>Owing to the fact that former notices
+      referring to clear direction of correspondence
+      have been largely disregarded by the public
+      and that the general delivery has had to be
+      delayed in consequence, it has been decided
+      that from 1st February 1906, correspondence
+      for house to house delivery addressed only
+      "Cairo" or "Alexandria" will be retarded and
+      only sorted after the first delivery of each
+      mail has left the post offices in those towns.
+      After that date it will be no longer necessary
+      to make special requests for house to house
+      delivery as correspondence bearing the full
+      address will be duly delivered.</p>
+    </div>
+    <div type="item">
+      <head>PERSONAL AND SOCIAL.</head>
+      <div type="item">
+        <p>Mr. Iddings, Diplomatic Agent and Consul
+        General for the United States of America,
+        and Mrs. Iddings, have left Cairo for a trip to
+        Upper Egypt.</p>
+        </div>
+        <div type="item">
+        <p>Rear-Admiral the Hon. Sir Hedworth
+        Lambton, whose flagship, the Carnarvon,
+        is now at Alexandria, had an interesting
+        experience during the bombardment of Alexandria.
+        He was the Admiral’s flag lieutenant during
+        the bombardment and volunteered with a boat’s
+        crew to spike the guns of the Mex fort. The
+        sea being too rough to land they jumped into
+        the sea, swam ashore, and successfully carried
+        out their mission.</p>
+      <div>
+      <div type="item">
+        <p>The family of Mme Vve Piha Bey wish to
+        publicly thank Sisters Hetty Crowther and
+        Martha Bacon, as well as the male nurse,
+        Andrea J. Couroupis for their devoted attention
+        to their late mother during her long illness.</p>
+      </div>
+      <div type="item">
+        <p>The latest arrivals at Mena House include:
+        Rear-Admiral Hon. H. Lambton, Sir George
+        Warrender, R.N.. Mr. J. H. Livingston, Mrs.
+        Geddies, Mrs. Williams, Miss M. Price, Mr.
+        and Mrs. Hugh Kerr, the Misses Mulvany, Mr.
+        W. Kidd, Mme Louise Ballusock, Miss Gunley,
+        Miss Mulholland, Dr. Hastings, Mr. A. Denny,
+        Miss Reid, Miss Schofield, Mr. and Mrs. E.
+        Newman, Miss Newman, Mrs. Bullock, Miss
+        McKellar, and Miss E. Baird.</p>
+      </div>
+      <div type="item">
+        <p>Mr. E. Almaz Stout has contributed an
+        excellent description of an Arab wedding in
+        Cairo to the "Ladies' Field" of November 18.</p>
+      </div>
+    </div>
+    <div type="item">
+      <head>OUR ROYAL VISITOR.
+      ARRIVAL AT CAIRO.</head>
+      <p>H.H. Prince Leopold of Battenberg arrived
+      at Port Said by the Orient steamer Ormuz
+      and proceeded straight to Cairo.<p>
+      <p>Lord Cremer was present at Cairo station to
+      bid his Royal Highness welcome. A suite of
+      rooms has been engaged for him at the Hotel
+      d'Angleterre.</p>
+    </div>
+    <div type="item">
+      <head>LORD CROMER IN THE SUDAN.</head>
+      <p>We understand that Lord Cromer, after
+      presiding over the official opening of the Nile-
+      Red Sea Railway, will proceed by the line to
+      Kharteum, whence he will made a trip up the
+      White Nile before his return to Egypt. Lord
+      Cromer is expected to be absent from Cairo a
+      little over a month.</p>
+    </div>
+    <div type="item">
+      <head>THE JUDICIAL CONFERENCE.</head>
+      <p>The International Commission of the Mixed
+      Tribunals met on Wednesday at the Ministry
+      of Foreign Affairs, under the presidency of
+      H.E. Boutros Pasha Ghali. We understand
+      that the question of the unification of the
+      bureaux for transcriptions of property, etc.,
+      was discussed, and that the Government
+      proposals on this subject have been approved in
+      principle by the Commission.</p>
+    </div>
+    <div type="item">
+      <head>THE SUCRERIES.</head>
+      <p>The meeting of the creditors of the Sucreries
+      Co., to hear the proposals of the controllers,
+      takes place today at 3 p.m. It is stated that
+      the directors of the Sucreries have protested
+      by letter to Judge Tuck against certain
+      statements which occur in the late report of the
+      three experts. Meantime the judge is preparing
+      his report on the concordst preventif granted
+      to the company and may have completed it
+      in time for this afternoon’s meeting.</p>
+    </div>
+    <div type="item">
+      <head>ANGLO-AMERICAN COMPANY.</head>
+      <p>A rumour has been current in Cairo to the
+      effect that Hanna Bey Bakoum will have some
+      position in the Anglo-American and Hamburg-
+      Amerika Companies amalgamation. The
+      rumour, however, is baseless. A Cairo Bourne
+      bulletin of yesterday’s date remarks :--
+      <p>A propos da la farion de l’Anglo-American
+      Nile avec la Hamburg-Amerika Linie, onrap-
+      porte que Hanna bey Bakoum, administrateur
+      de la Societe Tewfikieh, aurait offert a la
+      Hamburg-Amerika “son concours et son
+      influence en Egypte” a condition qu’elle venille
+      bien faire l’acquisition de la Societe Tewfikieh.
+      L’estimation de l’actif de la Societe Tewfikieh
+      a donne lieu, l'annee passee, a des discussions
+      plutot violeutes entre actionnaites et administrateurs,
+      discussions dont la presse locale s’est
+      longuement occupee. Quant a l’influence de
+      M. Bakoum bey, elle a beaucoup perdu de sa
+      valeur matchande a cette occasion. La transaction
+      dont il est question pourra done, croyons-
+      nous, se faire dans les prix deux.</p>
+    </div>
+    <div type="item">
+      <head>MR. CHAMBERLAIN AND THE OCTROI.</head>
+      <p>Mr. Cooke, secretary of the Cheshire Liberal
+      Unionist Association, recently directed Mr.
+      Chamberlain’s attention to the fact that the
+      removal of the octroi duties in Cairo made
+      provisions dearer, proving Protection often
+      cheapens and Free Trade raises prices to the
+      consumer. Mr. Cooke also urged that the
+      navigation laws required amendment. In his
+      reply to Mr. Cooke, Mr. Chamberlain said
+      he was in Cairo last year and could confirm
+      the statement as to the effect of the octroi.
+      He was also aware of the effect of the one-
+      sided navigation laws, which undoubtedly
+      tended to the disadvantage of British shipping
+      in many cases.</p>
+    </div>
+    <div type="item">
+      <head>NOTES FROM MENA.</head>
+      <p>The small dance given at Mena House Hotel
+      was quite a success, and all the visitors staying
+      there took part in it. The band was excellent,
+      the floor in perfect condition, and last, but not
+      least, the buffet everything one could desire.
+      We noticed among the numerous visiters now
+      staying at Mena House Hotel the following
+      residents : H.E. Mustapha Pasha Fehmy, Sir
+      Vincent Corbett, Mr. H Carter Wilson, Mr.
+      and Mrs. Rowlatt, Mr. Easton Cornish. Mr.
+      and Mrs. P. P. Peake, Dr. and Mrs. Hayward,
+      Miss Weinberg, R Owen Bey, Mr. and Mrs.
+      W. Chatterton Adams, Mr. de Bilinski,
+      Miss de Bilinski, Col. and Mrs. Gordon, Major-
+      Palmer, Capt. Brakenridge, Capt. Beamish, Capt.
+      Grant, Capt. D. Parsons, Bimbashi Hughes,
+      Mr. R. H. Duke, Mr. and Mrs. Archibald, Miss
+      Miles, Mr. R. B. Paten, Hamza Bey Fehmin,
+      Mr. A. E. Ross, and others, including Admiral
+      Hom H. Lambton and Sir George Warrender.</p>
+      <p>There will be a band performing at Mena
+      House Hotel on Sunday next during lunch
+      from 1 to 2 o'clock, and from 3.30 to 5 o’clock
+      in the afternoon.</p>
+    </div>
+    <div type="item">
+      EDEN PALACE HOTEL,
+      Airo.
+      Noted for its excellent cuisine
+      Electric light. Lift.
+      Special terms for officers of the Army of Occupation and Government Officials.
+    </div>
+    <div type="item">
+      <head>THE GHIZEH ACCIDENT
+      SYPHON WRECKED.</head>
+      <p>It now appears that the total length of bank
+      that collapsed between Ghizeh and Hawamdieh
+      did not exceed 20 metres. The basin, which
+      most have contained some 230,000,000 cubic
+      metres of water, has been emptying itself into
+      the Nile, carrying away some minor irrigation
+      works and wrecking the syphon under the
+      Ghizeh Canal.</p>
+      <p>A report was circulated in Cairo yesterday
+      evening that the foundations of the masonry
+      work of the bridge showed signs of having
+      sustained some damage, threatening to prolong
+      the delay to traffic with Upper Egypt.</p>
+      <p>The rumour arose from the fact that the
+      earth fillings of the approaches to the bridge
+      had given way. The Railway Administration
+      is in consequence laying rails across an iron
+      bridge close to the old wooden bridge which
+      has been injured.</p>
+      <p>The washout is causing great inconvenience.
+      Our Minieh Correspondent, writing under
+      yesterday’s date, states that the night express
+      was eight hours late at Minieh yesterday and
+      the day before.</p>
+    </div>
+    <div type="item">
+      <head>NEW BANK FOR EGYPTIAN AFFAIRS.</head>
+      <p>The Constantinople correspondent of the
+      “Frankfurter Zeitung” learns the Dresdner
+      Bank, the National Bank fuer Deutschland, and
+      the Schaffenhauser Bankverein have formed a
+      new bank, with headquarters in Berlin, to carry
+      on business in Egypt and other Mediterranean
+      countries now served by the Orient Bank of
+      Athens, which was founded last spring by the
+      National Bank. The Constantinople branch of
+      the Orient Bank will be included in the new
+      organization.</p>
+    </div>
+    <div type="item">
+      <head>BANK OF ABYSSINIA.</head>
+      <p>Mr. Goldie, who is to manage the Harrar
+      branch of the Bank of Abyssinia, left Cairo for
+      Suez on Wednesday, and on Thursday morning
+      Mr. MacGillivray left amid the farewells of a
+      great number of friends who had come to the
+      station to see him off. Sir Elwin Palmer, who was
+      also at the station, presided over a banquet given
+      in Mr. MacGillivray's honor on Wednesday
+      night, at which he proposed the health of the
+      head of the new bank and referred in warm
+      terms to his character and abilities. Some
+      twenty of Mr. MacGillivray's friends were
+      present on the occasion, and he was the
+      recipient of numerous wishes for his safety and
+      success in his new post.</p>
+      <p>On his departure Mr. MacGillivray was
+      presented by a deputation of the members of
+      the Cairo Bourse with a splendid tea service
+      as a memento of the part he played as one of
+      its founders.</p>
+    </div>
+    <div type="item">
+      <head>GERMAN TRADE WITH EGYPT.</head>
+      <p>A Consular report just published in Berlin
+      shows a continued large increase of German
+      trade with Egypt. In the ten years to 1904
+      the exports from Germany to Egypt have
+      increased by £750,000, the totals being £350,000
+      in 1894 and £1,100,000 in 1904.</p>
+      <p>The German coal depots, established at Port
+      Said to compete with the British coal depots,
+      are doing a large trade, and are extremely
+      prosperous. The export of German coal to
+      Egypt reached a total of 63,000 tons last year.</p>
+      <p>During 1904 seventy German ships, of an
+      aggregate tonnage of 150,000, touched at
+      Alexandria. The Hamburg-Amerika Line is
+      starting a steamship service to the Nile, by
+      means of which it is expected that German
+      trade with the interior will be considerably
+      increased. German trade in Egypt is carried on
+      by a German colony of 1,300 persons, of whom
+      600 live at Alexandria, and 500 in Cairo.</p>
+    </div>
+    <div type="item">
+      <head>DAIRA SANIEH LOAN.</head>
+      <p>Yesterday was the last day for the presentation
+      for payment in London of all outstanding
+      bonds and coupons of the Daira Sanieh Four
+      per Cent. Loan, in accordance with the notice
+      issued by the controllers, dated July 21st,
+      1905. From to-day all such payments will be
+      made in Cairo.</p>
+    </div>
+    <div type="item">
+      <head>STEAMER MOVEMENTS.</head>
+      <p>The Messageries Maritimes S.S. Congo
+      arrived at Marseille from Alexandria on
+      Wednesday.</p>
+      <p>The S.S. Alexandria (Papayanni Line) left
+      Malta yesterday and is expected to arrive at
+      this port on Monday morning.</p>
+      <p>The Moss liner Rameses sailed from Malta
+      yesterday  afternoon and is due here on Sunday
+      afternoon, with passengers, mails, and general
+      cargo.</p>
+      <p>The Moss liner Khephren passed Holyhead
+      yesterday for Liverpool.</p>
+    </div>
+    <div type="item">
+      Anglo-American Nile Steamers AD
+    </div>
+    <div type="item">
+      <head>TWO RECENT WORKS UPON
+      EGYPTIAN NUMISMATICS.</head>
+      <p>M. George Dattari, of Cairo, whose cabinet of
+      coins is so celebrated among numismatists, has
+      recently presented a paper to the Antiquarian
+      and Nomismatic Society of Montreal, Canada
+      referring to the celebrated statue of Serapis,
+      by Bryaxis. The raison d'etre of this monograph
+      is the deciding of the date of the statue’s
+      arrival at Alexandria, which M. Dattari
+      succeeds in achieving by means of evidence derived
+      from coins the effigies upon which be
+      considers completely settle the question. When
+      the essay is printed in extenso, we hope to be
+      permitted to publish a oomplete summary of
+      its contents.</p>
+      <p>Another and longer treatise of M. Dattari
+      may be found in that most excellent work the
+      “Journal International d’Archeologie
+      Numismatique" of Athens. It contains the learned
+      author’s comments upon a board of Athenian
+      tetradrachms found in Egypt. The thesis is
+      as follows. The Saitic dynasty to secure Egyptian
+      independence hired Greek mercenaries and
+      the Mendesian dynasty to oppose the Persians
+      went further, concluding an alliance with
+      Macedonia and Athens. From this period Macedonian
+      and Athenian coins are common in
+      Egypt Tachos of the 30th dynasty employed
+      90,000 Greek troops, and to pay the expense
+      of his Persian war he ordered his subject's to
+      deposit all their gold and silver in the Treasury.</p>
+      <p>From his time Athenian tetradrachms are
+      plentiful, but they are in most cases of very
+      inferior workmanship compared to the splendid
+      specimens of Athenian coinage. Athens at
+      this time was wealthy and powerful and her
+      coinage practically international in the Greek
+      world. M. Dietary argues from the coins that
+      Tachos struck “Athenian" tetradrachms here,
+      and absolutely proves his case by producing
+      a photograph of the die employed, which
+      was found in Egypt with the hoard of
+      tetradrachms, which are beautifully illustrated in
+      prototype plates accompanying the essay.
+      M. Dattari thinks Egypt imitated other Greek
+      coins, but reserves his remarks upon this for
+      another occasion.</p>
+    </div>
+    <div type="item">
+      <head>CHRISTMAS MAILS.</head>
+      <p>Our readers will no doubt be interested to
+      know that the latest time for posting parcels
+      for the United Kingdom, so as to reach their
+      destination by Christmas, is 6p.m. to-morrow
+      for Alexandria, the mail leaving Port Said on
+      Sunday, via Gibraltar. If sent by overland
+      mail, parcels may be dispatched from Alexandria
+      on the 8th December, or the 11th from
+      Port Said. The latest date for posting letters
+      for Christmas is 16th December, and for the
+      New year, 23rd December. Parcels for Europe
+      (not including the UK) should be sent a
+      week earlier.</p>
+    </div>
+    <div type="item">
+      <head>BAND PERFORMANCE.</head>
+      <p>By kind permission of Lieut. Colonel R. C.
+      C. Cox, commanding, and officers 2nd Royal
+      Inniskilling Fusiliers, the Band will perform
+      the following programme of music on the
+      terrace, Shepheard's Hotel, to-morrow (Saturday)
+      from 4 to 5 p.m.:—</p>
+      <p>March—The Steel King - F. St. Clair
+      Overture-Zampa-Herold
+      Polonaise-Holfball Gung'l
+      National Fantasia-Scotland's Pride C. Godfrey
+      Song-Pilgrims of the Night-Liddle
+      Valse-Wedding of the Winds-J. Hall
+      Selection-The Catch of the Season-Halfies
+      Danse Characteristique Anne Boleyn-M. Ball
+      Regimental March-Khedivial Anthem
+      God Save the King
+      B. Watson Ramset, Bandmaster.</p>
+    </div>
+    <div type="item">
+      <head>PASSENGER LIST.
+      DEPARTURES.</head>
+      <p>Per S.S. Singapore of the Florio Rubattino,
+      sailed yesterday for Genoa :</p>
+      <p>M. Pietro Tovoni, M. A. Cederwald M.
+      Henry Castets, Mme Lottero, M. Jose Solari,
+      Mgr. Caglieno, M. G. Marenco, Dr. and Mrs.
+      G. Watson, M. G. Drifbre, Mr. and Mrs Weis-
+      ener, M. and Mme di Vascello Gobelti, M. R.
+      De Stefano, M. S. Chieras, Dr. M. Cano, M.
+      and Mme Virgilio Vigano, Dr. Germais Belva-
+      lette, M. E. Hamkohl. Mme Antonia Capua,
+      M. Chorubino, M. Vino Mari, Mlle Ivonne
+      Weil.</p>
+      <p>Per Khedivial S.S. El Kahira, left yesterday
+      for Piraens, Smyrna, Mitylene, Dardanelles and
+      Constantinople:—</p>
+      <p>Messrs. Alfred Kean Moe, Panayotti Bur-
+      bulis, Gabriel Tourne Baudut, Geffray, Geo.
+      Despotides, Michel Lahanas, Calvin, Piequart,
+      Mitrecey, Rolland, Prayva, Gaerio, DeReusse,
+      J Sylvestre, Valorsay, Malval, Serres, Rene
+      Balme, Heinrich Leonardht, William Bonwit,
+      Panayotti Isidorides, Marquet, Lambert Pere,
+      M. and Mme. J. Couroelles, M. and Mme.
+      Albert Lambert, M. and Mme Millet, M. and
+      Mme. Louis Gardet, Mmes. Delvair. Flenry,
+      Chenest, Theuler, Chams Ealack, Landen.
+      Perrin. Berthias. J. Marney, Darmy, Symiane
+      Val, Elza Vogel, Danville, and 130 deck
+      passengers.</p>
+    </div>
+    <div type="item">
+      CARLTON HOTEL ad
+    </div>
+    <div type="item">
+      WINDSOR HOTEL ad
+    </div>
+    <div type="item">
+      <head>ANTI-TUBERCULOSIS LEAGUE.</head>
+      <p>The committee of the Anti-Tuberculosis
+      League sent to the Grand Master of Ceremonies
+      of H.H. the Khedive the balance sheet of the
+      sociey and the reports of Drs. Legrand and
+      Valassopoulo, its delegates at the Paris Inter-
+      national Congress. In reply the Grand Master
+      of Ceremonies, H.E. Ahmed Zeky Pashs,
+      has sent the following letter to Dr. Sohiess
+      Bey, chairman of the committee:--</p>
+      <head>Palais d'Abdiue
+      29 novembre 1905</head>
+      <p>Monsieur le President</p>
+      <p>J'ai eu l'honneur de soumettre a Son Altesse
+      le Khedive les documents concernant la ligue
+      contre la tuberculose.</p>
+      <p>Son Altesse me charge de vous remercier de
+      cet envoi et de vous exprimer sa satisfaction
+      pour l'activite si devouee que votre ligue ne
+      cesse de deployer pour arriver a son but.</p>
+      <p>Veuillez agreer, Monsieur le President, l'as-
+      surance de ma consideration tres distinguee.</p>
+    </div>
+    <div type="item">
+      <head>La Revue Internationale</head>
+      <p>Le prochain numere de la "Revue Inter-
+      nationale d'Egypte" ne le cedera en rien
+      aux precedents. Il contiendra un travail de
+      M. Alexandre Max de Zogheb sur "Alexandrie
+      ancienne et moderne," un article de M.
+      Legrain sur l'histoire de ses fouilles ou
+      l'humour du conteur le dispute a la science
+      de l'egyptolgue, le commencement des "Sou-
+      venirs d'un engage volontaire" par Marcel Poi-
+      lay bey, appeles a un vif succes cas l'auteur ra-
+      conte ce qu'il a vu dans un recit pleiu de via
+      et de couleur. Il s'agit de la defense de Belfore
+      a laquelle M. Marcel Poilay prit part lors de
+      la guerre franco-allemande. Signalons encore
+      une nouvelle italienne de m. Frontali, des vers
+      de M. Audibert, un jeune poete francais du
+      plus bel avenir et enfin les lettres de l'etranger
+      d"andre Besunier, de Gulielmo Ferrero, de
+      Michel Delines, etc.</p>
+    </div>
+    <div type="item">
+      <head>NATIONAL HOTELS & RESIDENCES</head>
+      <p>Nous publions aujourd'hui le prospectus
+      d'emission de la "National Hotels and Resi-
+      dences Co" Societe Anonyme recemment cons-
+      tituee au Caire dans le but de creer ou ex-
+      ploiter des Hotels, pensions, casinos, et tous
+      etablissements similaires, et qui deja sotuelle-
+      ment est proprietaire du "National Hotel" et
+      de la "National Residence," rue Soliman Pachs,
+      qui ont ete inangures le mois dernier et qui
+      sont en pleine exploitation, sinsi que du Grand
+      Hotel Casino d'Ain-Sofar (Mont Liban).</p>
+      <p>Comme on le voit, The National & Resi-
+      dences Company, sa presente comme une tres
+      belle affaire qui semble promettre des resultats
+      brillants. Il suffit, du reste, de voir a quels
+      cours sont actnellement cotes eu Bourse les
+      titres des affaires de ce genre d'Egypte : ils
+      valent environ deux fois et demi leur prix
+      d'emission!</p>
+      <p>Tout le capital soit L.E. 200.000 divire en
+      actions de L.E. 4 chscune aete souscrit au pair
+      pas les fondateurs, qui en retrocedent 30.000
+      au public aux memes conditions.</p>
+      <p>Ils nous semble inutile d'insister sur l'avan-
+      tage qu'il y a de pouvoir entrer au pair dans
+      une telle affair, et il y a tout lieu de croire que
+      l'emission sera un succes.</p>
+    </div>
+    <div type="item">
+      <head>BULLETIN DE LA BOURSE</head>
+      <div type="item">
+        <head>(Aujourd'hui a midi et demis)</head>
+        <p>Les cours sont en general soutenus, et des
+        echanges ont en lieu en grand nombre en
+        Banque Nationale, Agricole, Actious Credit
+        Foncier et Estates.</p>
+        <p>La Bank of Abyssinia perd 1/8 a 7 1/8, la
+        Behera 1/2 a 37 3/4, la Building 1/16 a 4 1/8,
+        la Brasserie des Pyramides 4 fr. a 110, la Salt
+        and Soda 1 shelling a 21/6, l'Alexandria Water
+        1/8 a 14 3/4, les Eaux du Caire 3 fr. a 116 et
+        la Ramleh Railway 1/16 a 6 7/8.</p>
+        <p>Par contre, la Cansa di Scouto s'avance de
+        208 a 210, l'Investment de 1 3/32 a 1 1/8, le
+        Trust de 1 5/33 a 1 7/32, l'Urbaine de 5 a
+        5 1/16, la Filature de 7/8 a 29/32, les Cotton
+        Mills de 4/9 a 5 et les Sucreries de 28 a 29.</p>
+        <p>On voit par cette enumeration que le public
+        semble reveoir de nouveau aux petites valeurs.
+        La tendance generale rests cependant indecise.</p>
+      </div>
+      <div type="item">
+        <head>Le Caire, 30 Novembre.</head>
+        <p>La reance d'aujourd'hui n'a pas ete tres
+        billante comme prix, mais les echanges ont ete
+        assez nombreux.</p>
+        <p>Le recul des prix est motive par la situation
+        politque de l'Europe et aussi par les realisa-
+        tions de fin de mois. Le marche est nerveux a
+        l'exces. On desire acheter, profiter des cours
+        recellement bas, mais on hesite.</p>
+        <p>La National Band a cloture a £25 7/16 pour
+        l'ancienne et a £25 pour la nouvelles. Il est a
+        ersin dresque baisse s'accentre demain pour
+        les raisons que nous venons d'indiquer.</p>
+        <p>L'Agricultural aussi a faibli a £9 3/16 avec
+        affaires relativement actives.</p>
+        <p>L'action Credit Foncier Egyptian persists a
+        juste raison a se tenir beaucoup mieux ici qu'a
+        Paris. Elle a fait 786 Frs. Les porteurs n'ont
+        aucune inquietude a avoir; ils reverront cer-
+        tainement des cours plus eleves a la premiere
+        aclaircie.</p>
+        <p>Beaucoup d'achats en Egyptian Estates a
+        £1 3/8-- Bonne valenr, elle est a anivre tout
+        a gagner, rien a perdre.</p>
+        <p>Les Hotels re presentent aux environs des
+        cours d'hier eoit a £10 1/2 les Nungovich,
+        a £2 13/16 a 7/8 les Baehler, et a £5 1/8 a
+        3/16 les Upper.</p>
+        <p>Les Omnibus du Caire s'inscrivent a £14 1/2.
+        Nous serious bien surpris si nous demeuriors
+        longtemps a ce cours. Les resultats du dernier
+        exercice sont aussi bons que ceux du precedent
+        et le dividende sera tres probablement aussi
+        omunerateur que celui de l'annee dernier.</p>
+        <p>Eucomme la loudeur ne devrait pass tenir
+        longtemps si on examinait la position de beau-
+        coup de noz societes.</p>
+        <p>Mais les facilities d'achat, a son allez 1</p>
+      </div>
+    </div>
 </div>
