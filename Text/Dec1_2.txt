@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div type="item">
+THE EGYPTIAN GAZETTE, FRIDAY, DECEMBER 1, 1905
+<div type="item">
+    <head>Royal Insurance Coy</head>
+    <p>FIRE AND LIFE.</p>
+    <p>Largest Fire Office in the World.</p>
+    <p>HASELDEN &amp; CO., Agents, Alexandria.</p>
+    <p>R. VITERBO &amp; CO., Agents, Cairo.</p>
+    <p>PHOENIX ASSURANCE COMPANY, LIMITED.</p>
+    <p>(ESTABLISHED 1782); </p>
+    <p>HASELDEN &amp; CO., Agents, Alexandria. </p>
+    <p>31-3-906 FRED. OTT &amp; CO., Sub-Agents, Cairo.</p>
+</div>
+<head>(JBC2)
+THE PERFECTION OF QUALITY AND VALUE.</head>
+<head>(SSW1)
+Siemens-SchuckertWerke
+CAIRO BRANCH</head>
+<head>ELECTRICAL MACHINES MATERIALS.</head>
+<head>(HDR1)
+H.D. Rawlings, Limited.</head>
+<div type="item">
+    <p>CHAMPAGNE GEORGE GOULET.</p>
+    <p>BY SPECIAL APPOINTMENT TO HIS MAJESTY THE KING.</p>
+    <p>REIMS.</p>
+    <p>SOLE AGENT IN EGYPT AND SUDAN,</p>
+    <p>NICOLA G. SABBAG</p>
+    <p>ALEXANDRIA, 2, Rue de la Gare du Caire</p>
+    <p>Telephone; No. 559.</p>
+    <p>24528-15-3-905 </p>
+</div>
+<div type="item">
+    <p> CIGARES de la HAVANE</p>
+    <p>de provenance directe et de toutes les meilleures marques</p>
+    <p>Nicolas G Sabbag</p>
+    <p>IMPORTATEUR GENERAL</p>
+    <p>FOURNISSIUR DE S A LE KHEDIVE et de tous les grands Clubs et Hôtels
+        d'Egypte.</p>
+    <p>2—Rue de la Gare du Caire—2 ALEXANDRIE</p>
+    <p> Adresse Télégraphique : SABBAG Alexandrie</p>
+    <p> Té1éphone No 559.</p>
+    <p> 246081-26-904</p>
+</div>
+<head>(NSA2)
+N. SPATHIS</head>
+<div type="item">
+<head>Importance notice.
+Cognas Martell.</head>
+<p>M.H. Demirgian Bey, General Agent for this important
+House, warns the public to beware of Imitating and to
+examine the labels, corks, and capsules.</p>
+<p>The principal importers of this well-known Brand are</p>
+<p>At Alexandria: M.M. C. Attard  Co., Christo G. Sole a Cost H. Coolglou, N. Pappa, A.  G. Monferrato,
+John B. Caffari, Frangini Mitzos  Co.Cokinos Freres, P.J. Zombos, and S. dl M.
+Riso</p>
+<p>At Cairo: MM. S. dl M. Riso, A. Jeronymidis, John B. Caffari, and Christo C.
+Zotos  Co.</p>
+<p>Where customers will find the genuine Martell, which
+cannot be sold below the minimum price given below for each
+quality:--</p>
+<table cols="3">
+    <row>
+        <cell></cell>
+        <cell>Per case</cell>
+        <cell>Per ton</cell>
+    </row>
+    <row>
+        <cell>*</cell>
+        <cell>35/-</cell>
+        <cell>170.5</cell>
+    </row>
+    <row>
+        <cell>**</cell>
+        <cell>40/5</cell>
+        <cell>197.5</cell>
+    </row>
+    <row>
+        <cell>***</cell>
+        <cell>47/-</cell>
+        <cell>229.</cell>
+    </row>
+    <row>
+        <cell>VO</cell>
+        <cell>53/-</cell>
+        <cell>258.5</cell>
+    </row>
+    <row>
+        <cell>VSO</cell>
+        <cell>60/-</cell>
+        <cell>292.5</cell>
+    </row>
+    <row>
+        <cell>VSOP</cell>
+        <cell>80/-</cell>
+        <cell>300.</cell>
+    </row>
+</table>
+<p>All so-called Martell Cognac sold below these prices
+cannot be genuine.</p>
+</div>
+<head>(No image available)
+J. Margosches</head>
+<head>(JBC1)
+JOHN B. CAFFARI</head>
+<head>HOTEL DU NIL, CAIRO.</head>
+<div type="item">
+    <p>EASTERN EXCHANGE HOTEL, PORT SAID.</p>
+    <p>First Class Hotel. Modern in all respects.</p>
+    <p>Fire-proof, Drained to the Sea, Lifts, Electric Light, English and French
+        Billiards, Fresh and Salt Water Baths.</p>
+    <p>The Coolest Summer Residence in Egypt.</p>
+    <p> Special terms to Cairo Residents and their families desirous of enjoying
+        the coo air and sea bathing during the summer months.</p>
+    <p> Dragomans in Hotel Uniform Meet all Trains and Steamers.</p>
+    <p>22941-23-8-905</p>
+</div>
+<head>SAVOY HOTEL, Luxor (Upper Egypt).</head>
+<head>(hbr1)
+Hotel Beau-Rivage. Ramieh-Alexandria</head>
+<head>THE NATIONAL HOTEL, Cairo</head>
+<head>The George Nungovich Hotels</head>
+<head>SHEPHEARD’S HOTEL</head>
+<head>Mena House Hotel.</head>
+<head>Hotel Bristol, Cairo</head>
+<head>TEWFIK PALACE MOTEL.</head>
+<div type="item">
+    <p>MAGASINS VICTORIA.</p>
+    <p>ECCLESTONE AND KEILL ENGLISH DRAPERY. </p>
+    <p>Opposite Austrian Consulate, near the Zizinia Theatre. Catalogue on
+        application.</p>
+</div>
+<head>the American Manufacturers Agency</head>
+<head>Spathis's Grill Room.</head>
+<head>The Crown Preserved Coal Co.
+Limited.</head>
+<div type="item">
+    <p>“AU DE ROUGE."</p>
+    <p>GENERAL DRAPERY ETABLISHMENT.</p>
+    <p>(Central Tramway Station), CAIRO.</p>
+    <p>P. PLUNKETT, PROPRIETOR.</p>
+    <p>DIRECT IMPORTER OF BRITISH AND IRISH TEXTILE MANUFACTURES.</p>
+    <p>Children's Outfitting Department - Newly
+	stocked with season's goods, in hats, Bonnets,
+	tams, cappets, frocks, overcoats, cloaks,
+	pelisses, dresses, etc., in cloth, carl fur, silk,
+	embroidered cashmere, etc/ and woollen under-
+	clothing.</p>
+    <p>All made in Great Britain and Ireland, 
+	the best on the Egyptian market. Early
+	selection recommended.</p>
+    <p>Dress and Pieces Goods Department, under
+	an English-speaking manager, well stocked and
+	nicely assorted.</p>
+    <p>Fine Irish Linen fronting and handker-
+	chiefs as usual.</p>
+    <p>24916-15-11-905</p>
+</div>
+<head>Lancaster House, Cairo.</head>
+<head>Thomas &amp; Sons</head>
+<head>Calvert's Carbolic Toilet Soap</head>
+<head>HOTEL TYROL.</head>
+<head>HOWIE  CO.
+(THE HYGIENIC DAIRY.)</head>
+<div type="section" scope="weather">
+    <head>DAILY WEATHER REPORT</head>
+    <p>(Kom-el-Nadoura Observatory.)</p>
+    <div type="subsection">
+        <table rend="frame" xml:id="AlexandriaWeather">
+            <head>ALEXANDRIA</head>
+            <row>
+                <cell cols="2">Direction of wind</cell>
+                <cell>s.w.</cell>
+            </row>
+            <row>
+                <cell cols="2">Force of Anemometer</cell>
+                <cell>Almost calm</cell>
+            </row>
+            <row>
+                <cell cols="2">State of Sea</cell>
+                <cell>Calm</cell>
+            </row>
+	    <row>
+	    	<cell>Barometer corrected</cell>
+		    <cell>761.5</cell>
+	    </row>
+	    <row>
+		<cell>Evaporation</cell>
+		<cell>2.2</cell>
+	    </row>
+	    <row>
+		<cell>State of Clouds</cell>
+		<cell>clear</cell>
+	    </row>
+            <row>
+                <cell rows="4">During 24 hours ending ? a.m.</cell>
+                <cell>Max. Temp in the shade</cell>
+                <cell>25.5</cell>
+            </row>
+            <row>
+                <cell>Min. Temp in the shade</cell>
+                <cell>21.0</cell>
+            </row>
+            <row>
+                <cell>Humidity</cell>
+                <cell>76.0</cell>
+            </row>
+            <row>
+                <cell>Rainfall</cell>
+                <cell>—</cell>
+            </row>
+        </table>
+    </div>
+    <div type="subsection">
+	<head>REMARKS</head>
+	<p>Fine cool weather continues and looks as if it would keep up. The barometer is
+falling.</p>
+    </div>
+</div>
+<div type="item">
+    <head>The Egyptian Gazette</head>
+    <div type="item">
+	<head>Subscriptions</head>
+	<p>Alexandria, Cairo, and the Interior of
+	Egypt (including delivery in Alexandria
+	or postage to subscriber's address) P.T.
+	2311 per annum, P.T. 116 for six
+	months, P.T. 80 for three months. To
+	other countries in the Postal Union
+	P.T. 273 (£2.16s.) per annum. Six
+	months P.T. 136 (£1.8s.), three months
+	P.T. 95 (0.19s.).</p>
+	<p>B.B.—Subscriptions commence from the 1st or
+	16th of any month.</p>
+    </div>
+    <div type="item">
+	<head>ADVERTISEMENTS.</head>
+	<p>P.T. 4 per line. Minimum charge P.T.
+	20. Births, Marriages or Deaths, not
+	exceeding three lines, P.T. 20. Every
+	additional line P.T. 10. Notices in
+	news column P.T. 20 per line.
+	Contracts entered into for standing
+	advertisements.</p>
+    </div>
+    <div type="item">
+	<head>SUBSCRIPTIONS and ADVERTISEMENTS</head>
+	<p>are due in advance. P.O. Orders and
+	Cheques to be made payable to the
+	Editor and Manager, ROWLAND
+	SNELLING, Alexandria.</p>
+	<p>London Offices—36, New Broad Street, E.C.</p>
+	<p>The Egyptian Gazette can be obtained
+	in London at our offices, 36, New Broad
+	Street, E.C., and also at Mesara MAT 
+	Williams, 160, Plecadilly, W.</p>
+    </div>
+</div>
+<div type="item">
+    <div type="item">
+	<head>The Egyptian Gazette</head>
+	<p>The English daily Newspaper, established 1888
+	Editor and Manager . . E. Shellier
+	Price: One Piastre Tariff.</p>
+    </div>
+    <div type="item">
+	<head>FRIDAY, DECEMBER 1, 1905.</head>
+    </div>
+    <div type="item">
+	<head>THE MUSEUM OF ANTIQUITIES.</head>
+	<p>All most acknowledge the immense amount
+	of care and labour expended by Professor
+	Maspero and his staff in successfully moving a
+	vast mass of antiquities from Ghizeh to the
+	new museum without the loss or injury of a
+	single object of importance, and in arranging
+	them. The achievement was most remarkable;
+	it demands and deserves the sincere homage
+	of all who can realise the difficulties and
+	the risks involved in so great an undertak-
+	ing. But there is a certain incomplete-
+	ness, a something lacking in the new
+	Museum of Antiquities. The building, the
+	antiquities, the staff of the Service — all
+	are there, but we miss the educational
+	functions of a museum, and their absence
+	inspires the present criticism, made with no
+	intention of mere fault-finding or causing
+	pain to officials who have laboured strenuously
+	in the cause of Egyptology, but rather to
+	point out to the authorities the right way
+	to make the museum more interesting and
+	of greater value to the world than is the case
+	at present.</p>
+	<p>What is the purpose of a museum? Is it
+	merely a safe in which curious or valuable
+	objects are preserved, or is it an educational
+	institution appealing, it is true, more to those
+	already instructed than to the general public,
+	but educational in its functions none the less?
+	We oould not justify the large sums of public
+	money, that have been expended on the
+	museum building if this were not the case,
+	and it is only on such grounds that the annual
+	grant of public funds to the Antiquities
+	Department can be justified. But, if the object
+	of the museum is educational, why is so little
+	done to fulfil it? Why is the museum so
+	useless for purposes of study, so poorly
+	equipped for them in comparison with all the
+	first-class collections of the Continent and
+	Great Britain? What other museum but pos-
+	sesses a large stock of folly descriptive labels
+	attached to all important objects, whether they
+	be Greek vases, rare lepidoptera, or unique
+	geological specimens?</p>
+	<p>We may be referred to the catalogue, but
+	    the small catalogue does little but give the
+	    visitor who chooses to buy it a. superficial idea
+	    of the general arrangement of the objects
+	    while the great catalogue—a monumental work—
+	    is so vast, so cumbersome, and so expensive
+	    as to be inaccessible to the majority. Descrip-
+	    tive labels are entirely lacking in some cases,
+	    while in others the objects are provided with
+	    cards bearing perhaps the name of a king or a
+	    dynasty. But this is not enough. How can
+	    comparative study be carried on unless we are
+	    told whence an object comes, and of what it
+	    is a part. A statue or a piece of sculpture
+	    bearing the name of Thothmes III. may come
+	    from anywhere between Dongola and the
+	    Mediterranean, but the cards are dumb.</p>
+    <p>And this neglect is worse than unwise, it
+        is not business when it affects a series of
+        objects which the museum may owe to the
+        special liberality of donors, among whom we
+        include those who pay  the cost of special
+        excavations. Would it not be well, pour en-
+        courager les autres, to give their names, and to
+        provide fully descriptive labels for the objects
+        which their efforts or their money have caused
+        to be brought to light? All who have the
+        pleasure of knowing the genial and kindly
+        Director of the Department of Antiquities
+        must realise that this neglect to which we call
+        attention is due to forgetfulness, and could
+        never arise from any desire to overlook or to
+        exclude what we venture to claim as no more
+        than a public right.</p>
+</div>
+<div type="item">
+<p>The London and North Western Railway
+    (England), after exhaustive trials and mature
+    experience, have decided, not only to equip
+    all the new rolling stock they build with
+    Stone’s System of Electric Lighting but they
+    have also abandoned the use of oil gas and
+    dismantled the gas fittings from over 1,100
+    carriages and substituted in place of same
+    Stone's System of Electric Lighting. This
+    change has already been made, with results
+    entirely satisfactory both to the travelling
+    public and to the Railway Company. This
+    Railway Company alone has 4,000 carriages of
+    all types (from ordinary suburban carriages to
+    their latest type of dining and sleeping saloons)
+    fitted with Stone's System of Electric Lighting
+    and Ventilating.</p>
+</div>
+</div>
+</div>

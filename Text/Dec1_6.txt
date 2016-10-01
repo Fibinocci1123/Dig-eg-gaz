@@ -1,0 +1,2279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div type="item">
+    <head>THE EGYPTIAN GAZETTE FRIDAY, DECEMBER 1, 1905.</head>
+    <div type="item">
+        <head>EXPORT MANIFESTS.</head>
+        <p>For ROTTERDAM and HAMBURG, by the S.S. Denebols, sailed on the 23rd Nov. :</p>
+        <p>Various, 2,700 bags rice, 315 bags oil cake, 280 bags millet, 90 bags gum, 31 cases
+            cigarettes, 82 cases tinned iron, 29 packages empty bags, 10 packages tobacco, 5 packa-
+            ges henna, 8 packages ivory, 10 packages wax, 39 packages sundries </p>
+        <head>FOR HAMBURG</head>
+        <div type="article" scope="financial">
+            <table cols="2">
+                <row role="label">
+                    <cell>Company</cell>
+                    <cell>Bales cotton</cell>
+                </row>
+                <row>
+                    <cell>G. Riecken,</cell>
+                    <cell>116</cell>
+                </row>
+                <row>
+                    <cell>Carver Bros. &amp; Co. Ltd,</cell>
+                    <cell>362</cell>
+                </row>
+                <row>
+                    <cell>J. Planta&amp; Co.,</cell>
+                    <cell>165</cell>
+                </row>
+                <row>
+                    <cell>F. Andres,</cell>
+                    <cell>232</cell>
+                </row>
+                <row>
+                    <cell>Choremi, Benachi &amp; Co.,</cell>
+                    <cell>100</cell>
+                </row>
+                <row>
+                    <cell>Mohr &amp; Fenderl,</cell>
+                    <cell>32</cell>
+                </row>
+                <row>
+                    <cell>Behrend &amp; Co.,</cell>
+                    <cell>100</cell>
+                </row>
+                <row>
+                    <cell>Total</cell>
+                    <cell>1,107</cell>
+                </row>
+            </table>
+        </div>
+        <div type="article" scope="financial">
+            <head>For ROTTERDAM</head>
+            <table cols="2">
+                <row role="label">
+                    <cell>Company</cell>
+                    <cell>Bales cotton</cell>
+                </row>
+                <row>
+                    <cell>E. Mallison &amp; Co.,</cell>
+                    <cell>31</cell>
+                </row>
+                <row>
+                    <cell>R. &amp; O. Lindemann,</cell>
+                    <cell>260</cell>
+                </row>
+                <row>
+                    <cell>Choremi, Benachi &amp; Co.,</cell>
+                    <cell>5</cell>
+                </row>
+                <row>
+                    <cell>Carver Bros. &amp; Co..,</cell>
+                    <cell>191</cell>
+                </row>
+                <row>
+                    <cell>J. PLanta &amp; Co.,</cell>
+                    <cell>100</cell>
+                </row>
+                <row>
+                    <cell>Peel &amp; Co.,</cell>
+                    <cell>160</cell>
+                </row>
+                <row>
+                    <cell>Total</cell>
+                    <cell>747</cell>
+                </row>
+            </table>
+        </div>
+        <p>For PIREUS and ODESSA, by the S.S. Reine Olga, sailed on the 24th Nov.:</p>
+        <p>Various, 200 bags rice, 25 empty casks, 141 packages dates, 15 packages gum, 7 packa- ges
+            henna, 19 packages sundries.</p>
+        <div type="article" scope="financial">
+            <table>
+                <row role="label">
+                    <cell>Company</cell>
+                    <cell>Bales coton</cell>
+                </row>
+                <row>
+                    <cell>E. Mallison &amp; Co.</cell>
+                    <cell>465</cell>
+                </row>
+                <row>
+                    <cell>B. Barki,</cell>
+                    <cell>300</cell>
+                </row>
+                <row>
+                    <cell>Choremi, Benschi &amp; Co.,</cell>
+                    <cell>455</cell>
+                </row>
+                <row>
+                    <cell>Mohr &amp; Fenderl,</cell>
+                    <cell>150</cell>
+                </row>
+                <row>
+                    <cell>W. Getty &amp; Co.</cell>
+                    <cell>30</cell>
+                </row>
+                <row>
+                    <cell>Carver Bros. &amp; Co. Ltd.,</cell>
+                    <cell>300</cell>
+                </row>
+                <row>
+                    <cell>Schmid &amp; Co.</cell>
+                    <cell>35</cell>
+                </row>
+                <row>
+                    <cell>Total</cell>
+                    <cell>1,735</cell>
+                </row>
+            </table>
+        </div>
+        <div type="article" scope="financial">
+            <p>For LIVERPOOL, by the S.S. Andelusian, sailed on the 24th November:</p>
+            <table>
+                <row role="label">
+                    <cell>Company</cell>
+                    <cell>Tons cotton seed</cell>
+                </row>
+                <row>
+                    <cell>Anglo-Egypt. Bank,</cell>
+                    <cell>100</cell>
+                </row>
+                <row>
+                    <cell>Barker &amp; Co.,</cell>
+                    <cell>202</cell>
+                </row>
+                <row role="label">
+                    <cell>Company</cell>
+                    <cell>Bales coton</cell>
+                </row>
+                <row>
+                    <cell>Peel &amp; Co.,</cell>
+                    <cell>456</cell>
+                </row>
+                <row>
+                    <cell>H. Bindernagel,</cell>
+                    <cell>175</cell>
+                </row>
+                <row>
+                    <cell>E. Mallison &amp; Co.,</cell>
+                    <cell>100</cell>
+                </row>
+                <row>
+                    <cell>F. Andres,</cell>
+                    <cell>150</cell>
+                </row>
+                <row>
+                    <cell>F.C. Baines &amp; Co.,</cell>
+                    <cell>100</cell>
+                </row>
+                <row>
+                    <cell>C. Laredo &amp; Co.,</cell>
+                    <cell>155</cell>
+                </row>
+                <row>
+                    <cell>Bustros &amp; Co.,</cell>
+                    <cell>44</cell>
+                </row>
+                <row>
+                    <cell>C.A. Pringo,</cell>
+                    <cell>81</cell>
+                </row>
+                <row>
+                    <cell>G. Frauger &amp; Co.,</cell>
+                    <cell>1,016</cell>
+                </row>
+                <row>
+                    <cell>R.&amp;O. Lindemann,</cell>
+                    <cell>100</cell>
+                </row>
+                <row>
+                    <cell>W. Getty &amp; Co.,</cell>
+                    <cell>277</cell>
+                </row>
+                <row>
+                    <cell>Mohr &amp; Fenderl,</cell>
+                    <cell>77</cell>
+                </row>
+                <row>
+                    <cell>Carver Bros. &amp; Co. Ltd.,</cell>
+                    <cell>225</cell>
+                </row>
+                <row>
+                    <cell>Choremi, Benachi &amp; Co.,</cell>
+                    <cell>513</cell>
+                </row>
+                <row>
+                    <cell>J. Planta &amp; Co.,</cell>
+                    <cell>150</cell>
+                </row>
+                <row>
+                    <cell>Total</cell>
+                    <cell>3,649</cell>
+                </row>
+            </table>
+        </div>
+        <div type="item">
+            <p>Khedivial Mail, 250 bags lin seed, 99 boxes fruits</p>
+            <p>Minotto, 664 boxes fruits</p>
+            <p>Vve Tricoglou, 25 bags nuts</p>
+            <p>Leinstein, 30 bales rags</p>
+            <p>Tamvaco, 345 cases eggs, S.S. Sardinis</p>
+            <p>Ades, 20 cases eggs</p>
+            <p>Various, 26 packages sundries</p>
+        </div>
+        <div type="item">
+            <p>For ENGLAND, by the S.S. Headlands, sailed on the 27th November :</p>
+            <p>Carver Bros. &amp; Co. Ltd, 3,470 tons cotton seed</p>
+        </div>
+        <div type="item">
+            <p>For CONSTANTINOPLE, by the S.S. Vassi lissa Olgs,” sailed on the 27th Nov :</p>
+            <p>Various, 120 packages sundries</p>
+        </div>
+        <div type="article" scope="financial">
+            <p>For LIVERPOOL, by the S.S. Britannia, sailed on the 28th November :</p>
+            <table type="article" scope="financial">
+                <row role="label">
+                    <cell>Company</cell>
+                    <cell>Tons cotton seed</cell>
+                </row>
+                <row>
+                    <cell>Anglo-Egyptian Bank Ltd.,</cell>
+                    <cell>100</cell>
+                </row>
+                <row>
+                    <cell>T. Ghirghis &amp; Son,</cell>
+                    <cell>250</cell>
+                </row>
+                <row role="label">
+                    <cell>Company</cell>
+                    <cell>Bales cotton</cell>
+                </row>
+                <row>
+                    <cell>T. Ghirghis &amp; Son,</cell>
+                    <cell>394</cell>
+                </row>
+                <row>
+                    <cell>G. Riecken,</cell>
+                    <cell>10</cell>
+                </row>
+                <row>
+                    <cell>Peel &amp; Co.,</cell>
+                    <cell>69</cell>
+                </row>
+                <row>
+                    <cell>N.G. Casulli,</cell>
+                    <cell>980</cell>
+                </row>
+                <row>
+                    <cell>H. Bindernagel,</cell>
+                    <cell>175</cell>
+                </row>
+                <row>
+                    <cell>C.G. Zervudachi &amp; Son,</cell>
+                    <cell>24</cell>
+                </row>
+                <row>
+                    <cell>F. Andres,</cell>
+                    <cell>50</cell>
+                </row>
+                <row>
+                    <cell>B. Barki,</cell>
+                    <cell>178</cell>
+                </row>
+                <row>
+                    <cell>Mohr &amp; Fenderl,</cell>
+                    <cell>193</cell>
+                </row>
+                <row>
+                    <cell>G. Frauger &amp; Co.,</cell>
+                    <cell>108</cell>
+                </row>
+                <row>
+                    <cell>R. Rolo figli &amp; Co.,</cell>
+                    <cell>185</cell>
+                </row>
+                <row>
+                    <cell>Carver Bros. &amp; Co. Ltd.,</cell>
+                    <cell>469</cell>
+                </row>
+                <row>
+                    <cell>Choremi, Benschi &amp; Co.,</cell>
+                    <cell>1,371</cell>
+                </row>
+                <row>
+                    <cell>J. Planta,\ &amp; Co.,</cell>
+                    <cell>530</cell>
+                </row>
+                <row>
+                    <cell>Scc. G. Pilavachi,</cell>
+                    <cell>71</cell>
+                </row>
+                <row>
+                    <cell>W. Getti &amp; Co.,</cell>
+                    <cell>100</cell>
+                </row>
+                <row>
+                    <cell>F.C. Baines &amp; Co.,</cell>
+                    <cell>50</cell>
+                </row>
+                <row>
+                    <cell>Total</cell>
+                    <cell>4,957</cell>
+                </row>
+            </table>
+        </div>
+        <div type="article" scope="financial">
+            <table cols="2">
+                <row role="label">
+                    <cell>Company</cell>
+                    <cell>Bales wool</cell>
+                </row>
+                <row>
+                    <cell>Holz &amp; Co.,</cell>
+                    <cell>69</cell>
+                </row>
+                <row>
+                    <cell>Anglo-Egyptian Bank Ltd.,</cell>
+                    <cell>60</cell>
+                </row>
+                <row>
+                    <cell>G. Brach &amp; Co.,</cell>
+                    <cell>150</cell>
+                </row>
+                <row>
+                    <cell>A. Tarpinian &amp; Co.,</cell>
+                    <cell>15</cell>
+                </row>
+            </table>
+        </div>
+        <div type="article" scope="financial">
+            <p>Kraft &amp; Nagiar, 50 bales senna</p>
+        </div>
+        <div type="article" scope="financial">
+            <table cols="2">
+                <row role="label">
+                    <cell>Company</cell>
+                    <cell>Cases eggs</cell>
+                </row>
+                <row>
+                    <cell>Hadjes &amp; Co.,</cell>
+                    <cell>67</cell>
+                </row>
+                <row>
+                    <cell>L. Onofrio,</cell>
+                    <cell>75</cell>
+                </row>
+                <row>
+                    <cell>Fix &amp; David,</cell>
+                    <cell>54</cell>
+                </row>
+                <row>
+                    <cell>S. Attal</cell>
+                    <cell>37</cell>
+                </row>
+                <row>
+                    <cell>R. Mordo,</cell>
+                    <cell>50</cell>
+                </row>
+                <row>
+                    <cell>A. Panzieri,</cell>
+                    <cell>45</cell>
+                </row>
+                <row>
+                    <cell>G.M. Ades,</cell>
+                    <cell>57</cell>
+                </row>
+            </table>
+        </div>
+        <div type="item">
+            <p>Hadjes &amp; Co., 100 bags bones, 62 bales old bags</p>
+            <p>L. Heller, 2,000 barrels molasses</p>
+            <p>B. Hazan &amp; Co., 2 cases cigarettes</p>
+            <p>Various, 2 packages sundries</p>
+        </div>
+        <div type="item">
+            <p>For PORT SAID and ODESSA, by the S.S. Korniloff, sailed on the 28th November :</p>
+            <p>Various, 30 empty casks</p>
+        </div>
+        <div type="article" scope="financial">
+            <p>For HULL, by the S.S. Harlech, sailed on the 30th November :</p>
+            <table cols="2">
+                <row role="label">
+                    <cell>Company</cell>
+                    <cell>Tons cotton seed</cell>
+                </row>
+                <row>
+                    <cell>COury &amp; Co.,</cell>
+                    <cell>503</cell>
+                </row>
+                <row>
+                    <cell>Anglo-Egyptian Bank,</cell>
+                    <cell>495</cell>
+                </row>
+                <row>
+                    <cell>Behrend &amp; Co.,</cell>
+                    <cell>1,020</cell>
+                </row>
+                <row>
+                    <cell>N.E. Tamvaco,</cell>
+                    <cell>379</cell>
+                </row>
+                <row>
+                    <cell>Carver Bros. &amp; Co. Ltd.</cell>
+                    <cell>2,595</cell>
+                </row>
+            </table>
+            <p>Eg. Salt &amp; Soda Co., 2,501 bags oil cake</p>
+        </div>
+    </div>
+    <div type="item">
+        <head>SHIPPING MOVEMENTS. ALEXANDRIA HARBOUR.</head>
+        <head>ARRIVALS. Nov. 30.</head>
+        <p>Clio, Brit. s. Hull, Barker &amp; Co.</p>
+        <p>Senegal, French s. Beyrouth and Port Said, Messageries Maritimes.</p>
+        <p>Sigyn, Swed. s. Hudikswall, J. Ross.</p>
+        <p>Eleni, Ott. s. Calipoli and Rhodes, lsmiridi.</p>
+        <head>Dec. 1.</head>
+        <p>Ch. Christenson, Dan. s. West Hartlepool, Barber &amp; Son.</p>
+        <p>Byzantion, Greek s. Piraes and Crete, Kechsyas,</p>
+        <p>Ros, Swed. s. Newcastle.</p>
+        <head>DBPARTURES. Nov. 30.</head>
+        <p>Singapore, Ital. s. Messina and Genoa.</p>
+        <p>Portugal, French s. Syria.</p>
+        <p>Hohenzollern, Germ. s. Naples and Marseilles, without cargo.</p>
+        <p>Harlech, Brit. s. Hull.</p>
+        <p>Argonaut, Brit yacht, Naples and Marseilles.</p>
+    </div>
+    <div>
+        <head>Chemins de Fer et Telegraphes de l’Etat Egyptian</head>
+        <head>AVIS</head>
+        <p>L’Administration des Chemins de fer Egyptiens a l’honneur de faire savoir an Public
+            qa'une adjudication aura lieu le ll Decembre 1905 pour la location des parcelles de
+            terrain ci-dessous designees a l’effet d’y installer des Kiosques mobiles sans etage a
+            l’usage de buffets, savoir:</p>
+        <table cols="2">
+            <row>
+                <cell>Abou-Kebir,</cell>
+                <cell>Kalline,</cell>
+            </row>
+            <row>
+                <cell>Cherbine,</cell>
+                <cell>Mehallet Roh,</cell>
+            </row>
+            <row>
+                <cell>Ismailia,</cell>
+                <cell>Mansourah,</cell>
+            </row>
+            <row>
+                <cell>Kafr-Zayat,</cell>
+                <cell>Wasts.</cell>
+            </row>
+        </table>
+        <p>Les soumissionnaires doivent fiaire une offre pour chaque parcelle separement, et le prix
+            offert doit etre indique par metre carre et par mois.</p>
+        <p>Los offres doivent etre faites sur papier timbre de P.T. 3 adressees a M. le Directeur
+            General de 1’Administration des Chemins de fer de l’Etat, sous double enveloppe, et sous
+            pli ca- ohete et remises avant le 11 Ddcembre a midi.</p>
+        <p>L’enveloppe interieuro doit porter la sus- cription :</p>
+        <p>"Offre pour la location de la parcelle de "terrain a... (minimum 50 mitres carres ;
+            "maximum 100 metres carris) pour y etablir "an kiosque demontable a l’usage de
+            buffet.”</p>
+        <p>La location oommencera le ler Janvier 1906 et prendra fin le 31 Decembre 1908.</p>
+        <p>Le modele de contrat de bail est depose au bureau de M. l'Ingenieur en Chef de la'Voje et
+            des Travaux et a chacune des gares des loca- lites sus-mentionnees, a la disposition des
+            sou- missionnaires.</p>
+        <p>L'Administration se reserve le droit de n’ac- cepter aucune des offres qui lui seront
+            faites.</p>
+        <p>Toute offre doit etre accompagnee, a titre de depot, d'une valour de LE 10, soit en une
+            quittance de la Caisse Centrale des Chemins de fer, ou en un cheque sur une Banqua Ce
+            depot restera acquis a l’Administration si le soumissionuaire, devenant adjudicataire
+            d’un terrain, n'en prend pas possession.</p>
+        <p>L’Administration se reserve le droit de juger s’il y a lieu ou non d’assurer le recours
+            des voisins. Le locataire devra se soumettre a la decision de l’Administration.</p>
+        <p>Il devra egalement prendre a sa charge les frais de gardiennage du kiosque demontable
+            pour buffet par lui installe.</p>
+        <p>Le soumitsiounnaire devra, dans sa soumis- sion, declarer avoir pris connaissanoe des
+            clau- ses du contrat, siusi que des lieux et s’engager a faire les demarches necessaires
+            en vue d'ob- tenir la roksa reglementaire.</p>
+        <p>Le Caire le 35 Novembre 1905.</p>
+    </div>
+    <div>
+        <head>Alexandria &amp; Ramleh Railway, Cy, Limited. AVIS</head>
+        <p>L’Alexandria &amp; Ramleh Railway Cy, Ltd. a l’honneUr de rappeler an Public que le
+            dernier delai pour l’echange des anciens carnets de 50 billets qui ont ete supprimes
+            depuis le ler Novembre, expire le 30 du meme mois.</p>
+        <p>Par consequent, les detenteurs des anciens carnets sont pries de vouloir bien se
+            presenter aux Bureaux de la Direction (Gara de Ramleh), pour les echanger contre de
+            nouveaux carnets ayant un nombre Equivalent de coupons.</p>
+        <p>A partir du ler Deoembre 1905, les anciens carnets non eohanges n’suront plus aucune
+            valeur.</p>
+    </div>
+    <div>
+        <head>THE DAIRA SANIEH COMPANY, UMITED (ft Liquidation).</head>
+        <p>NOTICE IS HEREBY GIVEN that the Shareholders of the above Company who have not effected
+            the exchange of their Share Certificates or Warrants to Bearer for those of the Societe
+            Egyptienne de la Daira Sanieh before the 31st day of December 1905 can only thereafter
+            effect such exchange at the Head Office of the National Bank of Egypt in Cairo.</p>
+        <p>{F.T. Rowlatt A.G.M. Dickson} Liquidators</p>
+    </div>
+    <div>
+        <head>The Khedivial Mail Steamship &amp; Graving Dock Company, Limited.</head>
+        <p>NOTICE IS HEREBY GIVEN that the Eighth Ordinary General Meeting of the above Company will
+            be held at Winchester House, Old Broad Street, London, E.C., on Friday, 15th day of
+            December 1905, at noon, to receive and pass the Direotors’ Report and Accounts, to eleot
+            Directors and Auditors, and to transact the ordinary business of the Company.</p>
+        <p>Alexandria, the 30th November 1905.</p>
+    </div>
+    <div type="item">
+        <head>EASTERN TELEGRAPH Co. Ltd.</head>
+        <p>AVERAGE TIME oocupied in transmission of Egyptian telegrams from England to Alexandria on
+            Thursday, 30th Nov., 1905. OUTWARDS.</p>
+        <p>Between the hours of 10 a.m. and 6 p.m. (Caire time)</p>
+        <table cols="3">
+            <row role="label">
+                <cell>From</cell>
+                <cell>Messages handed in at</cell>
+                <cell/>
+            </row>
+            <row role="label">
+                <cell/>
+                <cell>The Company's Offices.</cell>
+                <cell>Postal Telegraph Offices.</cell>
+            </row>
+            <row>
+                <cell>London</cell>
+                <cell>29</cell>
+                <cell>36</cell>
+            </row>
+            <row>
+                <cell>Liverpool</cell>
+                <cell>19</cell>
+                <cell>-</cell>
+            </row>
+            <row>
+                <cell>Manchester</cell>
+                <cell>21</cell>
+                <cell>-</cell>
+            </row>
+            <row>
+                <cell>Glasgow</cell>
+                <cell>-</cell>
+                <cell>-</cell>
+            </row>
+            <row>
+                <cell>Other Providential Office</cell>
+                <cell>-</cell>
+                <cell>28</cell>
+            </row>
+        </table>
+        <p>- Delay due to faulty landlines.</p>
+    </div>
+    <div type="article">
+        <head>STOCKS AND SHARES</head>
+        <p>
+            <hi rend="italic">Closing Prices, to—day at 12,30 p.m.</hi>
+        </p>
+        <table cols="4">
+            <row role="label">
+                <cell>Shares</cell>
+                <cell/>
+                <cell>
+                    <hi rend="bold">BANKS.</hi>
+                </cell>
+                <cell/>
+            </row>
+            <row>
+                <cell>Lst.</cell>
+                <cell>25 5/16</cell>
+                <cell>National Bank of Egypt</cell>
+                <cell>—</cell>
+            </row>
+            <row>
+                <cell>"</cell>
+                <cell>24 13/16</cell>
+                <cell>New</cell>
+                <cell>—</cell>
+            </row>
+            <row>
+                <cell>Fcs.</cell>
+                <cell>426 —</cell>
+                <cell>National Bank of Greece</cell>
+                <cell>—</cell>
+            </row>
+            <row>
+                <cell>"</cell>
+                <cell>785</cell>
+                <cell>Credit Foncier Egyptien</cell>
+                <cell>9000</cell>
+            </row>
+            <row>
+                <cell>"</cell>
+                <cell>314 1/2</cell>
+                <cell>Lot. Bonds</cell>
+                <cell>—</cell>
+            </row>
+            <row>
+                <cell>Lst.</cell>
+                <cell>9 3/16</cell>
+                <cell>Agricul. Bank of Egypt</cell>
+                <cell>—</cell>
+            </row>
+            <row>
+                <cell>"</cell>
+                <cell>8 13/16</cell>
+                <cell>New</cell>
+                <cell>317</cell>
+            </row>
+            <row>
+                <cell>Fcs.</cell>
+                <cell>137 1/3</cell>
+                <cell>Bank of Athens</cell>
+                <cell>—</cell>
+            </row>
+            <row>
+                <cell>Lst.</cell>
+                <cell>8 ½</cell>
+                <cell>Land Bank of Egypt</cell>
+                <cell>80</cell>
+            </row>
+            <row>
+                <cell>"</cell>
+                <cell>7 1/8</cell>
+                <cell>Bank of Abyssinia</cell>
+                <cell>—</cell>
+            </row>
+            <row>
+                <cell>Fcs.</cell>
+                <cell>210</cell>
+                <cell>Cassa di Sconto</cell>
+                <cell>204</cell>
+            </row>
+            <row role="lable">
+                <cell/>
+                <cell/>
+                <cell>
+                    <hi rend="bold">LAND, &amp;;c.</hi>
+                </cell>
+                <cell/>
+            </row>
+            <row>
+                <cell>Fcs.</cell>
+                <cell>970 —</cell>
+                <cell>Agric.—Indust. Egypt...</cell>
+                <cell>520</cell>
+            </row>
+            <row>
+                <cell/>
+                <cell/>
+                <cell/>
+                <cell>950</cell>
+            </row>
+            <row>
+                <cell>L.E.</cell>
+                <cell>37 3/4</cell>
+                <cell>Behera Company</cell>
+                <cell>5 1/16</cell>
+            </row>
+            <row>
+                <cell>Lst.</cell>
+                <cell>4 1/8</cell>
+                <cell>Building Lands of Egypt</cell>
+                <cell>—</cell>
+            </row>
+            <row>
+                <cell>"</cell>
+                <cell>1 —</cell>
+                <cell>Corpor. of West Egypt</cell>
+                <cell>—</cell>
+            </row>
+            <row>
+                <cell>"</cell>
+                <cell>4 3/16</cell>
+                <cell>Comptoi Fin. &amp; Com.</cell>
+                <cell>23</cell>
+            </row>
+            <row>
+                <cell>"</cell>
+                <cell>17 3/8</cell>
+                <cell>Daira Sanieh Soc. Nile</cell>
+                <cell>106</cell>
+            </row>
+            <row>
+                <cell>"</cell>
+                <cell>1 1/8</cell>
+                <cell>Egypt. Invest. &amp; Agency</cell>
+                <cell>—</cell>
+            </row>
+            <row>
+                <cell>"</cell>
+                <cell>1 7/32</cell>
+                <cell>Trust &amp; Invest.</cell>
+                <cell>—</cell>
+            </row>
+            <row>
+                <cell>"</cell>
+                <cell>— 13/16</cell>
+                <cell>Land &amp; Gen. Trust</cell>
+                <cell>—</cell>
+            </row>
+            <row>
+                <cell>"</cell>
+                <cell>2 1/4</cell>
+                <cell>Delta Land</cell>
+                <cell>—</cell>
+            </row>
+            <row>
+                <cell>"</cell>
+                <cell>1 11/32</cell>
+                <cell>Estates Company</cell>
+                <cell>—</cell>
+            </row>
+            <row>
+                <cell>"</cell>
+                <cell>30/6</cell>
+                <cell>New Egyptian Co.</cell>
+                <cell>—</cell>
+            </row>
+            <row>
+                <cell>"</cell>
+                <cell>5 7/8</cell>
+                <cell>Union Fonciere d'Egypte</cell>
+                <cell>—</cell>
+            </row>
+            <row>
+                <cell>"</cell>
+                <cell>5 1/16</cell>
+                <cell>Urbaines &amp; Rurales</cell>
+                <cell>—</cell>
+            </row>
+            <row>
+                <cell>"</cell>
+                <cell>6 1/4</cell>
+                <cell>Warden Estate Company</cell>
+                <cell>4 1/2</cell>
+            </row>
+            <row>
+                <cell/>
+                <cell/>
+                <cell>
+                    <hi rend="bold">COMMERCIAL and INDUSTRIAL</hi>
+                </cell>
+                <cell/>
+            </row>
+            <row>
+                <cell>Lst.</cell>
+                <cell>40 —</cell>
+                <cell>Alexand. Bonded Stores Pref.</cell>
+                <cell>4 1/2</cell>
+            </row>
+            <row>
+                <cell>"</cell>
+                <cell>28 —</cell>
+                <cell>Bourse Khediviale</cell>
+                <cell>—</cell>
+            </row>
+            <row>
+                <cell>Fcs.</cell>
+                <cell>110 —</cell>
+                <cell>Brasserie des Pyramids</cell>
+                <cell>51</cell>
+            </row>
+            <row>
+                <cell>Lst.</cell>
+                <cell>75 —</cell>
+                <cell>pref. Cairo Sewage Transport Ord.</cell>
+                <cell>60</cell>
+            </row>
+            <row>
+                <cell>Fcs.</cell>
+                <cell>207 —</cell>
+                <cell>Crown Brewery Ibrah</cell>
+                <cell>114</cell>
+            </row>
+            <row>
+                <cell>"</cell>
+                <cell>62 —</cell>
+                <cell>Ciments d'Egypte</cell>
+                <cell>—</cell>
+            </row>
+            <row>
+                <cell>Lst.</cell>
+                <cell>— 29/32</cell>
+                <cell>Eg. Spinning &amp; Weaving</cell>
+                <cell>2 1/2</cell>
+            </row>
+            <row>
+                <cell>"</cell>
+                <cell>5/3 —</cell>
+                <cell>Egypt. Cotton Mills</cell>
+                <cell>—</cell>
+            </row>
+            <row>
+                <cell>"</cell>
+                <cell>26/6 —</cell>
+                <cell>Egyptian Markets Ltd.</cell>
+                <cell>—</cell>
+            </row>
+            <row>
+                <cell>"</cell>
+                <cell>21/6 —</cell>
+                <cell>Egyptian Salt and Soda</cell>
+                <cell>—</cell>
+            </row>
+            <row>
+                <cell>"</cell>
+                <cell>2 13/16</cell>
+                <cell>Egyptian Hotels Ltd.</cell>
+                <cell>—</cell>
+            </row>
+            <row>
+                <cell>"</cell>
+                <cell>10 7/16</cell>
+                <cell>Nungovich Hotels</cell>
+                <cell>101 1/2</cell>
+            </row>
+            <row>
+                <cell>"</cell>
+                <cell>— 13/16</cell>
+                <cell>Nile Cold Storage</cell>
+                <cell>—</cell>
+            </row>
+            <row>
+                <cell>"</cell>
+                <cell>29 3/4</cell>
+                <cell>Presses Libres Eg.</cell>
+                <cell>101</cell>
+            </row>
+            <row>
+                <cell>"</cell>
+                <cell>38</cell>
+                <cell>Pressages &amp; Depots</cell>
+                <cell>102</cell>
+            </row>
+            <row>
+                <cell>L.E.</cell>
+                <cell>5 3/16</cell>
+                <cell>Upper Egypt Hotels</cell>
+                <cell>98</cell>
+            </row>
+            <row>
+                <cell>Fcs.</cell>
+                <cell>29 —</cell>
+                <cell>Sucreries &amp; Raffinerie</cell>
+                <cell>—</cell>
+            </row>
+            <row>
+                <cell/>
+                <cell/>
+                <cell>
+                    <hi rend="bold">NAVIGATION &amp;; WATER WORKS.</hi>
+                </cell>
+                <cell/>
+            </row>
+            <row>
+                <cell>Lst.</cell>
+                <cell>5 7/8</cell>
+                <cell>nglo — American Nile</cell>
+                <cell>—</cell>
+            </row>
+            <row>
+                <cell>"</cell>
+                <cell>4 1/2</cell>
+                <cell>Khedivial Mail S.S. Co.</cell>
+                <cell>9/16</cell>
+            </row>
+            <row>
+                <cell>L.E.</cell>
+                <cell>4 1/8</cell>
+                <cell>Menzahleh Canal Co. P.T.</cell>
+                <cell>95</cell>
+            </row>
+            <row>
+                <cell>"</cell>
+                <cell>14 3/4</cell>
+                <cell>Alex. Water Ccompany</cell>
+                <cell>—</cell>
+            </row>
+            <row>
+                <cell>Fcs.</cell>
+                <cell>116 —</cell>
+                <cell>Cairo Water Company</cell>
+                <cell>—</cell>
+            </row>
+            <row>
+                <cell/>
+                <cell/>
+                <cell>
+                    <hi rend="bold">RAILWAYS &amp;; TRAMWAYS.</hi>
+                </cell>
+                <cell/>
+            </row>
+            <row>
+                <cell>Lst.</cell>
+                <cell>11 3/4</cell>
+                <cell>Delta Light Railway</cell>
+                <cell>12 1/2</cell>
+            </row>
+            <row>
+                <cell>"</cell>
+                <cell>27 —</cell>
+                <cell>Keneh Assouan Railway</cell>
+                <cell>—</cell>
+            </row>
+            <row>
+                <cell>"</cell>
+                <cell>6 7/8</cell>
+                <cell>Ramleh Railway Co. Ltd.</cell>
+                <cell>—</cell>
+            </row>
+            <row>
+                <cell>Fcs.</cell>
+                <cell>155 —</cell>
+                <cell>Alexandria Tramways</cell>
+                <cell>490</cell>
+            </row>
+            <row>
+                <cell/>
+                <cell/>
+                <cell>Div.</cell>
+                <cell>315</cell>
+            </row>
+        </table>
+    </div>
+    <div type="article">
+        <head>TELEGRAMME HAVAS</head>
+        <dateline>BOURSE du 30 novembre 1905</dateline>
+        <p>COURS DES VALEURS A TERMS, CLOTURE</p>
+        <table cols="3">
+            <row role="label"><cell>PARIS</cell></row>
+            <row>
+                <cell>Rente Française 3 %</cell>
+                <cell>Fr.</cell>
+                <cell>99 97</cell>
+            </row>
+            <row>
+                <cell>Actions de Suez</cell>
+                <cell>"</cell>
+                <cell>4320 -</cell>
+            </row>
+            <row>
+                <cell>Lots Turcs</cell>
+                <cell>"</cell>
+                <cell>137 50 </cell>
+            </row>
+            <row>
+                <cell>Turc Unifié</cell>
+                <cell>" </cell>
+                <cell>91 45</cell>
+            </row>
+            <row>
+                <cell>Dette Egyptienne Unifié</cell>
+                <cell>"</cell>
+                <cell>105 90</cell>
+            </row>
+            <row>
+                <cell>Daïra Sanieh</cell>
+                <cell>"</cell>
+                <cell>--- ---</cell>
+            </row>
+            <row>
+                <cell>Crédit Foncier Egyptien</cell>
+                <cell>"</cell>
+                <cell>775 ---</cell>
+            </row>
+            <row>
+                <cell>Extérieur espagnol</cell>
+                <cell>"</cell>
+                <cell>93 90</cell>
+            </row>
+            <row>
+                <cell>Obl. Banque Nat. de Grèce</cell>
+                <cell>"</cell>
+                <cell>450 --</cell>
+            </row>
+            <row>
+                <cell>Banque d’Athènes, actions</cell>
+                <cell>"</cell>
+                <cell>138 ---</cell>
+            </row>
+            <row>
+                <cell>Métropolitain</cell>
+                <cell>"</cell>
+                <cell>--- ---</cell>
+            </row>
+            <row>
+                <cell>Russe consolidé</cell>
+                <cell>"</cell>
+                <cell>85 55</cell>
+            </row>
+            <row>
+                <cell>Sosnowice</cell>
+                <cell>"</cell>
+                <cell>--- ---</cell>
+            </row>
+            <row>
+                <cell>Change sur Londres</cell>
+                <cell>"</cell>
+                <cell>25 14 ½</cell>
+            </row>
+            <row>
+                <cell>Sucre No 3 disponible</cell>
+                <cell>"</cell>
+                <cell>--- ---</cell>
+            </row>
+            <row>
+                <cell>Sucre No 3 livrable le 4 de mars</cell>
+                <cell>"</cell>
+                <cell>--- ---</cell>
+            </row>
+            <row role="label"><cell>LONDRES</cell>
+            </row>
+            <row>
+                <cell>Consolidés anglais</cell>
+                <cell>£</cell>
+                <cell>90 3/8</cell>
+            </row>
+        </table>
+        <p>Escomptes---Paris 3, Londres 4, Berlin 5 1/2% </p>
+    </div>
+    <div type="item">
+        <head>VLOTURE DE LA BOURSE KHEDIVIALE CONTRATS</head>
+        <p>Cours de l'Association des Courtiers en Merchandises</p>
+    </div>
+    <div type="article" scope="financial">
+        <head>COTONS</head>
+        <p>copie de la dépêche</p>
+        <p>DE L'ALEXANDRIA GENERAL PRODUCE ASSOCIATION</p>
+        <p>à la</p>
+        <p>LIVERPOOL COTTON ASSOCIATION</p>
+        <p>(Cours pratiques hier soir a 5h p.m. a la Bourse Khedviale.)</p>
+        <table rows="4" cols="3">
+            <row>
+                <cell>Tal.</cell>
+                <cell>5 1/2</cell>
+                <cell>Livraison Janvier</cell>
+            </row>
+            <row>
+                <cell>"</cell>
+                <cell>15 21/32</cell>
+                <cell>Mars</cell>
+            </row>
+            <row>
+                <cell>"</cell>
+                <cell>15 13/16</cell>
+                <cell>Mai</cell>
+            </row>
+            <row>
+                <cell>"</cell>
+                <cell>14 1/4</cell>
+                <cell>Novembre 1906</cell>
+            </row>
+        </table>
+        <p>Marche quiet</p>
+        <p>(Cours cloture d'hier soir a 6h p.m. affiches par l'Association des Courtiers en Marchan-
+            dises a la Bourse Khediviale). </p>
+        <table rows="4" cols="3">
+            <row>
+                <cell>Tal.</cell>
+                <cell>15 1/2</cell>
+                <cell>Livraison Janvier</cell>
+            </row>
+            <row>
+                <cell>"</cell>
+                <cell>15 11/16</cell>
+                <cell>Mars</cell>
+            </row>
+            <row>
+                <cell>"</cell>
+                <cell>15 27/32</cell>
+                <cell>Mai</cell>
+            </row>
+            <row>
+                <cell>"</cell>
+                <cell>14 9/32</cell>
+                <cell>Novembre 1906</cell>
+            </row>
+        </table>
+        <p>Marché steady</p>
+        <p>(Cours pratiqués ce jour à la Bourse Khédi- viale à 9h. 45 a.m.)</p>
+        <table rows="4" cols="3">
+            <row>
+                <cell>Tal.</cell>
+                <cell>15 1/2</cell>
+                <cell>Livraison Janvier</cell>
+            </row>
+            <row>
+                <cell>"</cell>
+                <cell>15 11/16</cell>
+                <cell>Mars</cell>
+            </row>
+            <row>
+                <cell>"</cell>
+                <cell>15 27/32</cell>
+                <cell>Mai</cell>
+            </row>
+            <row>
+                <cell>"</cell>
+                <cell>14 9/32</cell>
+                <cell>Novembre 1906</cell>
+            </row>
+        </table>
+        <p>Marché quiet</p>
+        <p>Arrivages is ce jour a Minet-alBassal, cantars 9,512</p>
+        <p>(Cours pratiques ce jour a la Bourse Khedi- viale a 12h 45 p.m.</p>
+        <table rows="4" cols="3">
+            <row>
+                <cell>Tal.</cell>
+                <cell>15 9/16</cell>
+                <cell>Livraison Janvier</cell>
+            </row>
+            <row>
+                <cell>"</cell>
+                <cell>15 3/4</cell>
+                <cell>Mars</cell>
+            </row>
+            <row>
+                <cell>"</cell>
+                <cell>15 29/32</cell>
+                <cell>Mai</cell>
+            </row>
+            <row>
+                <cell>"</cell>
+                <cell>14 11/32</cell>
+                <cell>Novembre 1906</cell>
+            </row>
+        </table>
+        <p>Marche steady</p>
+    </div>
+    <div type="section" scope="financial">
+        <head>MARCHE DE MINET-EL-BASSAL</head>
+        <dateline>1 december 1905.—(11h.55 a.m.)</dateline>
+        <p><hi rend="italic">Cotons</hi> —Clôture du marché du 30 novembre:
+            La cloture d'hier a ete soutenue, mais aux
+            memes prix.</p>
+        <p>BEURRES</p>
+        <p>Fair, Fully Fair, Good Fair, Fully Good
+            Fair et Good: Sans changement</p>
+        <p>HAUTE-EGYPTE ET FAYOUM</p>
+        <p>Fair, Fully Fair, Good Fair, Fully Good
+            Fair et Good: Sans changement</p>
+        <p>ABASSI</p>
+        <p>Fully Good Fair, Good, Extra: Sans chan-
+            gement</p>
+        <p>IANNOVICH</p>
+        <p>Fully Good Fair, Good, Extra: Sans chan-
+            gement</p>
+        <p>Etat du marché de ce jour, cot.</p>
+        <p>Les arrivages de ce jour se chiffrent
+            par cantars 120 contre même jour l’année
+            précédente cantars 33076 </p>
+        <p><hi rend="italic">Grains de coton</hi></p>
+        <p>Disponible Ticket</p>
+        <p>Mit-Afifi—5 Rien </p>
+        <p>Haute-Egypte.—5 Rien</p>
+        <p><hi rend="italic">Blés</hi>.—Très fermes</p>
+        <p><hi rend="italic">Qualité Saïdi</hi>.—Cond. Saha P.T. 138 à 147</p>
+        <p><hi rend="italic">" Béhéra</hi>: " " " 128 à 145</p>
+        <p><hi rend="italic">Feves</hi>.—Sans affaires</p>
+        <p><hi rend="italic">Saïdi</hi> : disponsible : -</p>
+        <p><hi rend="italic">Fayoum</hi> : disponible : -</p>
+        <p><hi rend="italic">Qualitè Saïdi</hi>. Cond. Saha P.T. 150 à 160</p>
+        <p><hi rend="italic">Lentilles</hi>.—Soutennes</p>
+        <p>Disponible: Rien</p>
+        <p> Cond. Saha P.T. 130 à 135</p>
+        <p><hi rend="italic">Orges</hi>.—Sans changement</p>
+        <p>" Cond.Saha P.T. 66 à 70</p>
+        <p><hi rend="italic">Maïs</hi>.—Calme</p>
+        <p>Disponible : Rien</p>
+        <p>" Cond. Saha P.T. 70 à 80</p>
+        <div type="item">
+            <p><hi rend="italic">Les prix suivants ont été pratiqués ce jour</hi></p>
+            <p>COTON
+                C.M.B.
+                (Basse-Egypte)</p>
+            <table cols="4">
+                <row role="label">
+                    <cell/>
+                    <cell>Province Béhéra</cell>
+                    <cell>Bal,</cell>
+                    <cell/>
+                    <cell>P.T.</cell>
+                </row>
+                <row>
+                    <cell>Damanhour. </cell>
+                    <cell>De P.T.</cell>
+                    <cell>180</cell>
+                    <cell>à</cell>
+                    <cell>290</cell>
+                </row>
+                <row role="label">
+                    <cell/>
+                    <cell>Provience Garbieh</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>Kafr-Zayat. </cell>
+                    <cell>De P.T.</cell>
+                    <cell>290</cell>
+                    <cell>à</cell>
+                    <cell>315</cell>
+                </row>
+                <row>
+                    <cell>Tantah. </cell>
+                    <cell>" "</cell>
+                    <cell>295</cell>
+                    <cell>"</cell>
+                    <cell>305</cell>
+                </row>
+                <row role="label">
+                    <cell>(Moyenne Egypt)</cell>
+                    <cell>Province Fayoum</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>Fayoum</cell>
+                    <cell> De P.T.</cell>
+                    <cell>230</cell>
+                    <cell>à</cell>
+                    <cell>235</cell>
+                </row>
+                <row role="label">
+                    <cell/>
+                    <cell>(Haute Egypt)</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>Beni-Souef</cell>
+                    <cell>De P.T.</cell>
+                    <cell>240</cell>
+                    <cell>a</cell>
+                    <cell>215</cell>
+                </row>
+            </table>
+        </div>
+        <div type="item">
+            <head>SECTION DES GRAINES ET CEREALES</head>
+            <table cols="3">
+                <row role="label">
+                    <cell>PRIX FEANCO-STATION :</cell>
+                    <cell>DISPONIBLE</cell>
+                    <cell>TICKET</cell>
+                </row>
+                <row>
+                    <cell>Graines de coton Afifi</cell>
+                    <cell>P.T. 55 1/2 —</cell>
+                    <cell>à P.T. —</cell>
+                </row>
+                <row>
+                    <cell>" Haute Egypte</cell>
+                    <cell>" 54 ½</cell>
+                    <cell>" " —</cell>
+                </row>
+                <row>
+                    <cell>Ble Saïdi</cell>
+                    <cell>" — —</cell>
+                    <cell>" " —</cell>
+                </row>
+                <row>
+                    <cell>Fevas Saidi</cell>
+                    <cell>" — —</cell>
+                    <cell>" " —</cell>
+                </row>
+                <row>
+                    <cell>" Fayoumi</cell>
+                    <cell>" — —</cell>
+                    <cell>" " —</cell>
+                </row>
+            </table>
+        </div>
+        <div type="item">
+            <head>ARRIVAGES</head>
+            <dateline>de vendredi 1 decembre 1905</dateline>
+            <p>Documents de l’ “Alexandria General
+                Produce Association.”</p>
+            <table rows="9" cols="3">
+                <row role="label">
+                    <cell/>
+                    <cell>CHEMINS DE FER</cell>
+                    <cell>BARQUES</cell>
+                </row>
+                <row>
+                    <cell>Cotons</cell>
+                    <cell>S/B 1189</cell>
+                    <cell>—</cell>
+                </row>
+                <row>
+                    <cell>Graines de coton</cell>
+                    <cell>sacs 11436</cell>
+                    <cell>—</cell>
+                </row>
+                <row>
+                    <cell>Blés Saïdi </cell>
+                    <cell>" —</cell>
+                    <cell>—</cell>
+                </row>
+                <row>
+                    <cell>" Béhéra</cell>
+                    <cell>" 60</cell>
+                    <cell>-</cell>
+                </row>
+                <row>
+                    <cell>Fèves Saidi</cell>
+                    <cell>" —</cell>
+                    <cell>—</cell>
+                </row>
+                <row>
+                    <cell>" Béhéra</cell>
+                    <cell>" —</cell>
+                    <cell>—</cell>
+                </row>
+                <row>
+                    <cell>Orges</cell>
+                    <cell>" —</cell>
+                    <cell>—</cell>
+                </row>
+                <row>
+                    <cell>Maïs</cell>
+                    <cell>" —</cell>
+                    <cell>—</cell>
+                </row>
+                <row>
+                    <cell>Lentilles</cell>
+                    <cell>" —</cell>
+                    <cell>—</cell>
+                </row>
+            </table>
+            <p><hi rend="italic">Cotons</hi>.-Total des arrivages depuis le 1er
+                septembre 1905 jusqu’à ce jour, cantars
+                2,595,621</p>
+            <p>Grains de coton.—Total des arrivages depuis
+                le 1er septembre 1905 jusqu’à ce jour, Ard.
+                1,486,416</p>
+            <p>Contre même jour en 1904 :</p>
+            <table rows="9" cols="2">
+                <row role="label">
+                    <cell/>
+                    <cell>BARQUES ET CHEMINS DE FER</cell>
+                </row>
+                <row>
+                    <cell>Cotons</cell>
+                    <cell>S/B 4261</cell>
+                </row>
+                <row>
+                    <cell>Graines de coton</cell>
+                    <cell>sacs 16636</cell>
+                </row>
+                <row>
+                    <cell>Blés Saïdi </cell>
+                    <cell>" 163</cell>
+                </row>
+                <row>
+                    <cell>" Béhéra</cell>
+                    <cell>" 52</cell>
+                </row>
+                <row>
+                    <cell>Fèves Saidi</cell>
+                    <cell>" 30</cell>
+                </row>
+                <row>
+                    <cell>" Béhéra</cell>
+                    <cell>" —</cell>
+                </row>
+                <row>
+                    <cell>Orges</cell>
+                    <cell>" —</cell>
+                </row>
+                <row>
+                    <cell>Maïs</cell>
+                    <cell>" —</cell>
+                </row>
+                <row>
+                    <cell>Lentilles</cell>
+                    <cell>" —</cell>
+                </row>
+            </table>
+            <p>Cotons.—Total des arrivages depuis le 1er
+                septembre 1904 jusqu’à ce jour, cantars
+                2,573,599</p>
+            <p>Graines de coton.—Total des arrivages depuis
+                le 1er septembre 1904 jusqu’à ce jour Ard.
+                1,424,254</p>
+        </div>
+        <div type="item">
+            <head>CONTRATS, (11h.55 a.m.)</head>
+            <p>Cours de la Bourse de Minet-el-Bassal </p>
+            <table cols="5"> <row role="label">
+                    <cell><hi rend="italic">Coton F.G.F.Br.</hi></cell>
+                </row>
+                <row>
+                    <cell>Novembre</cell>
+                    <cell>Tal.</cell>
+                    <cell>14 5/16</cell>
+                    <cell>à</cell>
+                    <cell>—</cell>
+                </row>
+                <row>
+                    <cell>Janvier</cell>
+                    <cell>"</cell>
+                    <cell>15 17/32</cell>
+                    <cell>"</cell>
+                    <cell>—</cell>
+                </row>
+                <row>
+                    <cell>Mars</cell>
+                    <cell>"</cell>
+                    <cell>15 23/32</cell>
+                    <cell>"</cell>
+                    <cell>—</cell>
+                </row>
+                <row>
+                    <cell>Mai</cell>
+                    <cell>"</cell>
+                    <cell>15 7/8</cell>
+                    <cell>"</cell>
+                    <cell>—</cell>
+                </row>
+                <row role="label">
+                    <cell><hi rend="italic">Grains de coton</hi></cell>
+                </row>
+                <row>
+                    <cell>N.-D.-J.</cell>
+                    <cell>P.T.</cell>
+                    <cell>57 15/40</cell>
+                    <cell>à</cell>
+                    <cell>—</cell>
+                </row>
+                <row>
+                    <cell>Fevrier-Mars</cell>
+                    <cell>"</cell>
+                    <cell>58 25/40</cell>
+                    <cell>"</cell>
+                    <cell>—</cell>
+                </row>
+                <row role="label">
+                    <cell><hi rend="italic">Fèves-Saïdi</hi></cell>
+                </row>
+                <row>
+                    <cell>Dec.-Jan.</cell>
+                    <cell>P.T.</cell>
+                    <cell>155 —</cell>
+                    <cell>à</cell>
+                    <cell>160—</cell>
+                </row>
+            </table>
+            <cb n="5"/>
+            <p>REMARQUES</p>
+            <p><hi rend="italic">Cotons</hi>: Nouvelle récolte.—Par suite du
+                manque de nouvelles, notre marche a ouvert
+                calme et indecis au cours de 15 1/2 pour le
+                janvier. Il y a peu de transactions.</p>
+            <p><hi rend="italic">Grains de coton</hi>: Nouvelle récolte.—
+                Pas d'affaires presque et premier cours des 3
+                mois P.T. 57 15/40.</p>
+            <p><hi rend="italic">Fèves-Saidi</hi>: Nouvelle récolte.—Marché nul.</p>
+        </div>
+    </div>
+    <div type="article">
+        <head>Exterieur</head>
+        <p>Dépêches particulières du 30 novembre 1905</p>
+        <p>PRODUITS EGYPTIENS</p>
+        <p>LIVERPOOL</p>
+        <p><hi rend="italic">Coton: Etat du Marché</hi>.—Calme </p>
+        <p><hi rend="italic">Disp</hi>..— F.G.F.: 8 1/4 (sans ohangement) </p>
+        <p><hi rend="italic">Futurs</hi> Nov. :8 10/64 (5/64 de baisse)</p>
+        <p>LIVERPOOL</p>
+        <p><hi rend="italic">Graines de coton</hi>.—Soutenues </p>
+        <p><hi rend="italic">Fèves</hi> — Sans affaires</p>
+        <p>HULL</p>
+        <p><hi rend="italic">Graines de coton</hi>.—Sans changement </p>
+        <p><hi rend="italic">Fèves</hi>.—Marchegul</p>
+    </div>
+    <div type="article">
+        <head>REUTER'S TELEGRAMS</head>
+        <head type="sub">CLOSING REPORTS</head>
+        
+        <table cols="2">
+            <row role="label">
+                <cell>Liverpool, Novembre 30, 12.55 p.m.</cell>
+            </row>
+            <row>
+                <cell>Sales of the day</cell>
+                <cell>bales 8,000</cell>
+            </row>
+            <row>
+                <cell>of which Egyptian</cell>
+                <cell>" 300</cell>
+            </row>
+            <row>
+                <cell>American (new crop) Maize Spot per cental</cell>
+                <cell>4/10 1/2</cell>
+            </row>
+            <row>
+                <cell>Amer. futures (Dec.-Jan.)</cell>
+                <cell>6.05</cell>
+            </row>
+            <row>
+                <cell> " " (April-May)</cell>
+                <cell>6.20</cell>
+            </row>
+            <row>
+                <cell>American Middling</cell>
+                <cell>6.17</cell>
+            </row>
+            <row>
+                <cell>Egypt. fully good fair, delivery (Nov.)</cell>
+                <cell>8 19/64</cell>
+            </row>
+            <row>
+                <cell>" " " " " (Dec.)</cell>
+                <cell>8 11/64</cell>
+            </row>
+            <row>
+                <cell>" " " " " (Jan.) </cell>
+                <cell>8 6/64</cell>
+            </row>
+            <row>
+                <cell>" " " " " (March)</cell>
+                <cell>8 4/64</cell>
+            </row>
+            <row>
+                <cell>Egypt. Brown fair per lb. d.</cell>
+                <cell>6 14/16</cell>
+            </row>
+            <row>
+                <cell> " " good fair</cell>
+                <cell>7 12/16</cell>
+            </row>
+            <row>
+                <cell> " " good</cell>
+                <cell>8 9/16</cell>
+            </row>
+            <row>
+                <cell> " fully good fair</cell>
+                <cell>8 4/16</cell>
+            </row>
+            <row>
+                <cell>Egyptian Saidi Beans new (per 480 lbs.)</cell>
+                <cell>33/-</cell>
+            </row>
+            <row role="label">
+                <cell>London, November 30.</cell>
+            </row>
+            <row>
+                <cell>Consols (December)</cell>
+                <cell>90 1/8</cell>
+            </row>
+            <row>
+                <cell>Egyptian Unified</cell>
+                <cell>104 1/2</cell>
+            </row>
+            <row>
+                <cell>Private Discount on bill</cell>
+                <cell>3 7/8%</cell>
+            </row>
+            <row role="label">
+                <cell>Liverpool, July 11</cell>
+            </row>
+            <row>
+                <cell>American futures (December-January)</cell>
+                <cell>6.08</cell>
+            </row>
+            <row role="label">
+                <cell>London, November 30.</cell>
+            </row>
+            <row>
+                <cell>Bar Silver (per oz d.)</cell>
+                <cell>30 5/16</cell>
+            </row>
+            <row>
+                <cell>Private discount (3 month bills)</cell>
+                <cell>3 3/4 %</cell>
+            </row>
+            <row>
+                <cell>Consols (December)</cell>
+                <cell>90 ¼</cell>
+            </row>
+            <row>
+                <cell>Egyptian Unified</cell>
+                <cell>104 1/2</cell>
+            </row>
+            <row>
+                <cell>Turkish Unified</cell>
+                <cell>90 --</cell>
+            </row>
+                <row>
+                    <cell>Rio Tinto</cell>
+                    <cell>66 5/8</cell>
+                </row>
+                <row>
+                    <cell>New Daira</cell>
+                    <cell>17 1/2</cell>
+                </row>
+                <row>
+                    <cell>Agricultural Bank</cell>
+                    <cell>9 1/8</cell>
+                </row>
+            <row>
+                <cell>National Bank of Egypt</cell>
+                <cell>25 -</cell>
+            </row>
+            <row>
+                <cell>Rand Mines New</cell>
+                <cell>7 3/4</cell>
+            </row>
+                <row>
+                    <cell>Chartereds of S. Africa</cell>
+                    <cell>1 14/16</cell>
+                </row>
+                <row>
+                    <cell>Nile Valley Gold Mine. New</cell>
+                    <cell>- 5/8</cell>
+                </row>
+                <row>
+                    <cell>New Egyptians</cell>
+                    <cell>1 5/8</cell>
+                </row>
+                <row>
+                    <cell>The Western Oasis Corporation 1/2 premium Delta Light (Bearer
+                        shares) </cell>
+                    <cell>12—</cell>
+                </row>
+            <row>
+                <cell>Egyptian Railway</cell>
+                <cell>102 1/4</cell>
+            </row>
+            <row>
+                <cell> " Domain</cell>
+                <cell> 105 —</cell>
+            </row>
+            <row>
+                <cell>Ottoman Defence</cell>
+                <cell>103 ½</cell>
+            </row>
+                <row>
+                    <cell>Italian Rents 4%</cell>
+                    <cell>105 -</cell>
+                </row>
+                <row>
+                    <cell>Greek Monopole</cell>
+                    <cell>54 -</cell>
+                </row>
+                <row>
+                    <cell>Greek Rent 4%</cell>
+                    <cell>41 ½</cell>
+                </row>
+            <row>
+                <cell>Ottoman Bank</cell>
+                <cell>14 1/8</cell>
+            </row>
+            <row>
+                <cell>Egypt, cot. seed to Hull (July)</cell>
+                <cell>5 9/16 quiet</cell>
+            </row>
+            <row>
+                <cell>German Beet Sugar (July) </cell>
+                <cell>8/2 1/2</cell>
+            </row>
+            <row role="label">
+                <cell>Paris, July 11</cell>
+            </row>
+            <row>
+                <cell>Banque d'Athenes</cell>
+                <cell>138</cell>
+            </row>
+            <row>
+                <cell>Credit Foncier Egyptian</cell>
+                <cell>772 —</cell>
+            </row>
+            <row>
+                <cell>Crédit Lyonnais</cell>
+                <cell>1110 —</cell>
+            </row>
+            <row>
+                <cell>Comptoir National d'Eecompte</cell>
+                <cell>— —</cell>
+            </row>
+            <row>
+                <cell>Land Bank of Egypt</cell>
+                <cell>202 —</cell>
+            </row>
+            <row>
+                <cell>Ottoman Bank</cell>
+                <cell>604 —</cell>
+            </row>
+            <row>
+                <cell>Lots Turos.</cell>
+                <cell>138 —</cell>
+            </row>
+            <row>
+                <cell>Cheques on London</cell>
+                <cell>25.14½</cell>
+            </row>
+            <row>
+                <cell>Sugar White No. 3 (July)</cell>
+                <cell>24 ½</cell>
+            </row>
+        </table>
+    </div>
+    <div type="article">
+        <head>CEREAL MARKET</head>
+        <p>ROD EL FARAG (National Bank’s Shoonah) </p>
+        
+        <table rows="17" cols="5"><head>Yesterday’s Prices </head>
+            <row>
+                <cell>Wheat, Tugari</cell>
+                <cell>Ard. P.T.</cell>
+                <cell>130</cell>
+                <cell>to P.T.</cell>
+                <cell>132</cell>
+            </row>
+            <row>
+                <cell>" Middling</cell>
+                <cell>" "</cell>
+                <cell>135</cell><cell>" "</cell>
+                <cell>138</cell>
+            </row>
+            <row>
+                <cell>" Mawani</cell><cell>" "</cell>
+                <cell>140</cell><cell>" "</cell>
+                <cell>145</cell>
+            </row>
+            <row>
+                <cell>" Shami</cell><cell>" "</cell>
+                <cell>118</cell><cell>" "</cell>
+                <cell>125</cell>
+            </row>
+            <row>
+                <cell>Beans, Tugari</cell><cell>" "</cell>
+                <cell>150</cell><cell>" "</cell>
+                <cell>155</cell>
+            </row>
+            <row>
+                <cell>" Zawati</cell><cell>" "</cell>
+                <cell>158</cell><cell>" "</cell>
+                <cell>164</cell>
+            </row>
+            <row>
+                <cell>" Old</cell><cell>" "</cell>
+                <cell>—</cell><cell>" "</cell>
+                <cell>—</cell>
+            </row>
+            <row>
+                <cell> Lentils, Tugari</cell><cell>" "</cell>
+                <cell>115</cell><cell>" "</cell>
+                <cell>118</cell>
+            </row>
+            <row>
+                <cell>" Zawati</cell><cell>" "</cell>
+                <cell>128</cell><cell>" "</cell>
+                <cell>135</cell>
+            </row>
+            <row>
+                <cell>Barley, Tugari</cell><cell>" "</cell>
+                <cell>80</cell><cell>" "</cell>
+                <cell>85</cell>
+            </row>
+            <row>
+                <cell>" Zawati</cell><cell>" "</cell>
+                <cell>88</cell><cell>" "</cell>
+                <cell>95</cell>
+            </row>
+            <row>
+                <cell>" Shami</cell><cell>" "</cell>
+                <cell>88</cell><cell>" "</cell>
+                <cell>85</cell>
+            </row>
+            <row>
+                <cell>" Marluti</cell><cell>" "</cell>
+                <cell>—</cell><cell>" "</cell>
+                <cell>—</cell>
+            </row>
+            <row>
+                <cell>Dura Shami</cell><cell>" "</cell>
+                <cell>—</cell><cell>" "</cell>
+                <cell>—</cell>
+            </row>
+            <row>
+                <cell> " Rafia</cell><cell>" "</cell>
+                <cell>95</cell><cell>" "</cell>
+                <cell>100</cell>
+            </row>
+            <row>
+                <cell>Helba</cell><cell>" "</cell>
+                <cell>185</cell><cell>" "</cell>
+                <cell>210</cell>
+            </row>
+            <row>
+                <cell>Termis</cell><cell>" "</cell>
+                <cell>65</cell><cell>" "</cell>
+                <cell>68</cell>
+            </row>
+            <row>
+                <cell>Hummos</cell><cell>" "</cell>
+                <cell>150</cell><cell>" "</cell>
+                <cell>165</cell>
+            </row>
+            <row>
+                <cell>Simsim</cell><cell>" "</cell>
+                <cell>—</cell><cell>" "</cell>
+                <cell>—</cell>
+            </row>
+        </table>
+        <table rows="9" cols="2"><head> Cereals in Boat at Sahel</head>
+            <row>
+                <cell>Wheat Ard.</cell>
+                <cell>7000</cell>
+            </row>
+            <row>
+                <cell>Beans "</cell>
+                <cell>5500</cell>
+            </row>
+            <row>
+                <cell>Lentils "</cell>
+                <cell>1500</cell>
+            </row>
+            <row>
+                <cell>Barley "</cell>
+                <cell>1000</cell>
+            </row>
+            <row>
+                <cell> " Mariuti "</cell>
+                <cell>—</cell>
+            </row>
+            <row>
+                <cell> " Shami "</cell>
+                <cell>2000</cell>
+            </row>
+            <row>
+                <cell> " Hamawi "</cell>
+                <cell>—</cell>
+            </row>
+            <row>
+                <cell>Dura Shami " </cell>
+                <cell>150</cell>
+            </row>
+            <row>
+                <cell> " Rafia "</cell>
+                <cell>2000</cell>
+            </row>
+            <row>
+                <cell> Helba "</cell>
+                <cell>500</cell>
+            </row>
+        </table>
+    </div>
+    <div type="article">
+        <head>TO-DAY’S EXCHANGE QUOTATIONS</head>
+        <table rows="14" cols="3">
+            <row role="label">
+                <cell> </cell>
+                <cell>Banks' buying</cell>
+                <cell>Banks' selling* </cell>
+            </row>
+            <row>
+                <cell>London cheque</cell>
+                <cell>97 3/8</cell>
+                <cell>97 3/4</cell>
+            </row>
+            <row>
+                <cell>" 3m. bank paper</cell>
+                <cell>96 3/8</cell>
+                <cell>96 11/16</cell>
+            </row>
+            <row>
+                <cell>" 3m. house paper</cell>
+                <cell>96 1/4</cell>
+                <cell>— —</cell>
+            </row>
+            <row>
+                <cell>Paris cheque</cell>
+                <cell>387 1/4</cell>
+                <cell>388 ½</cell>
+            </row>
+            <row>
+                <cell>" 3m. bank paper</cell>
+                <cell>384 ¼</cell>
+                <cell>385 ½</cell>
+            </row>
+            <row>
+                <cell>" 3m. house paper</cell>
+                <cell>385 —</cell>
+                <cell>— —</cell>
+            </row>
+            <row>
+                <cell>Switzerland cheque</cell>
+                <cell>386 3/4</cell>
+                <cell>388 1/2</cell>
+            </row>
+            <row>
+                <cell>3m. bank paper</cell>
+                <cell>382 1/4 </cell>
+                <cell> — —</cell>
+            </row>
+            <row>
+                <cell>Germany cheque</cell>
+                <cell>476 ¼</cell>
+                <cell>478 1/2</cell>
+            </row>
+            <row>
+                <cell>" 3m bank paper </cell>
+                <cell>470 3/4</cell>
+                <cell>— — </cell>
+            </row>
+            <row>
+                <cell>Italian cheque</cell>
+                <cell>387 1/4 </cell>
+                <cell>389 1/4  </cell>
+            </row>
+            <row>
+                <cell>Vienna &amp; Trieste cheque</cell>
+                <cell>405 1/2 </cell>
+                <cell>406 3/4</cell>
+            </row>
+            <row>
+                <cell>Constantinople cheque</cell>
+                <cell>88 1/2</cell>
+                <cell>89 3/16</cell>
+            </row>
+        </table>
+        <p> *Less one per mille brokerage.</p>
+    </div>
+    <div type="item">
+        <head>ASSCOIATION
+        DES
+        COURTIERS EN MERCHANDISES</head>
+    </div>
+    <div type="article">
+        <head>SHARE LIST</head>
+        <p>Issued by the “Association des Courtiers en
+            Valeurs d'Alexandrie”.</p>
+        <p>Clôture d’aujourd'hui à 12h.30 p.m.</p>
+        <table rows="39" cols="5">
+            <row>
+                <cell>Agric. Bank of Egypt</cell>
+                <cell>Lst.</cell>
+                <cell>9 3/16 à 1/4  </cell><cell>à</cell>
+                <cell>8 13/16 à 7/8</cell>
+            </row>
+            <row>
+                <cell>Nat. Bank of Egypt</cell>
+                <cell>"</cell>
+                <cell> 25 5/16 </cell><cell>"</cell>
+                <cell> 24 3/4</cell>
+            </row>
+            <row>
+                <cell>Ramleh Railway</cell>
+                <cell>"</cell>
+                <cell> 6 7/8</cell><cell>"</cell>
+                <cell>— —</cell>
+            </row>
+            <row>
+                <cell>Egyptian Delta Railway ex.-c.</cell>
+                <cell>"</cell>
+                <cell>11 3/4</cell><cell>"</cell>
+                <cell>— 15/16</cell>
+            </row>
+            <row>
+                <cell>Tram. d’Alexandrie</cell>
+                <cell>Fos.</cell>
+                <cell>155 —</cell><cell>"</cell>
+                <cell>156 —</cell>
+            </row>
+            <row>
+                <cell>" " div.</cell>
+                <cell>"</cell>
+                <cell>310 —</cell><cell>"</cell>
+                <cell>315 —</cell>
+            </row>
+            <row>
+                <cell>Alexandria Water</cell>
+                <cell>Lst.</cell>
+                <cell>14 3/4</cell><cell>"</cell>
+                <cell>— —</cell>
+            </row>
+            <row>
+                <cell>Eaux du Cairo</cell>
+                <cell>Fcs.</cell>
+                <cell>116 —</cell><cell>"</cell>
+                <cell>250 — </cell>
+            </row>
+            <row>
+                <cell>Daira Sanieh</cell>
+                <cell>Lst.</cell>
+                <cell>17 3/8</cell><cell>"</cell>
+                <cell> — —</cell>
+            </row>
+            <row>
+                <cell>Béhéra</cell>
+                <cell>L.E.</cell>
+                <cell>37 1/4</cell><cell>"</cell>
+                <cell>37 3/4</cell>
+            </row>
+            <row>
+                <cell>Bourse Khédiviale</cell>
+                <cell>Lst.</cell>
+                <cell>— —</cell><cell>"</cell>
+                <cell>— —</cell>
+            </row>
+            <row>
+                <cell>Egyptian Markets</cell>
+                <cell>"</cell>
+                <cell>26/6</cell><cell>"</cell>
+                <cell>26/9 —</cell>
+            </row>
+            <row>
+                <cell>Anglo-Egyptian Spinning</cell>
+                <cell>"</cell>
+                <cell>—7/8</cell><cell>"</cell>
+                <cell> — 15/16</cell>
+            </row>
+            <row>
+                <cell>Bière d’Alex. Priv.</cell>
+                <cell>Fos.</cell>
+                <cell>205 —</cell><cell>"</cell>
+                <cell>206 —</cell>
+            </row>
+            <row>
+                <cell> " " Div.</cell>
+                <cell>"</cell>
+                <cell>112 —</cell><cell>"</cell>
+                <cell>113 —</cell>
+            </row>
+            <row>
+                <cell>" du Cairo Priv.</cell>
+                <cell>"</cell>
+                <cell>110 —</cell><cell>"</cell>
+                <cell>111 —</cell>
+            </row>
+            <row>
+                <cell>" " Div.</cell>
+                <cell>"</cell>
+                <cell>51 —</cell><cell>"</cell>
+                <cell>52 —</cell>
+            </row>
+            <row>
+                <cell>Egypt Cotton Mills</cell>
+                <cell>Lst.</cell>
+                <cell>5/ — </cell><cell>"</cell>
+                <cell>5/3 —</cell>
+            </row>
+            <row>
+                <cell>" Salt &amp; Soda</cell>
+                <cell>"</cell>
+                <cell>21/6 — </cell><cell>"</cell>
+                <cell>— —</cell>
+            </row>
+            <row>
+                <cell>Pressage</cell>
+                <cell>"</cell>
+                <cell>— —</cell><cell>"</cell>
+                <cell>— —</cell>
+            </row>
+            <row>
+                <cell>Presses Libres</cell>
+                <cell>"</cell>
+                <cell>— —</cell><cell>"</cell>
+                <cell>— —</cell>
+            </row>
+            <row>
+                <cell>Oblig. Credit Foncier Egyptien 3 %</cell>
+                <cell>Fcs.</cell>
+                <cell>314 — </cell><cell>"</cell>
+                <cell>271 ½</cell>
+            </row>
+            <row>
+                <cell>Lots Turcs</cell>
+                <cell>"</cell>
+                <cell> — —</cell><cell>"</cell>
+                <cell>— —</cell>
+            </row>
+            <row>
+                <cell>Banque Nationale de Grèce</cell>
+                <cell>"</cell>
+                <cell>— —</cell><cell>"</cell>
+                <cell>— —</cell>
+            </row>
+            <row>
+                <cell>Banque Industrielle</cell>
+                <cell>L.E.</cell>
+                <cell>— —</cell><cell>"</cell>
+                <cell>— —</cell>
+            </row>
+            <row>
+                <cell>Cassa di Sconto</cell>
+                <cell>Fcs.</cell>
+                <cell>210 — </cell><cell>"</cell>
+                <cell>207 —</cell>
+            </row>
+            <row>
+                <cell>Anglo-American Nile</cell>
+                <cell>Lst.</cell>
+                <cell>5 7/8 </cell><cell>"</cell>
+                <cell>— 15/16</cell>
+            </row>
+            <row>
+                <cell>Banque d’Athènes </cell>
+                <cell>Fcs.</cell>
+                <cell>137 ¼</cell><cell>"</cell>
+                <cell>— ½</cell>
+            </row>
+            <row>
+                <cell>Deferred Delta</cell>
+                <cell>Lst.</cell>
+                <cell>12 1/4 </cell><cell>"</cell>
+                <cell>— —</cell>
+            </row>
+            <row>
+                <cell>Nungovich Hotels</cell>
+                <cell>"</cell>
+                <cell>10 7/16</cell><cell>"</cell>
+                <cell>— ½</cell>
+            </row>
+            <row>
+                <cell>Delta Land</cell>
+                <cell>"</cell>
+                <cell> 2 3/16</cell><cell>"</cell>
+                <cell>— 1/4</cell>
+            </row>
+            <row>
+                <cell> Egyptian Invest. &amp; Agency Ld.</cell>
+                <cell>"</cell>
+                <cell>1 1/16 </cell><cell>"</cell>
+                <cell>— 1/4</cell>
+            </row>
+            <row>
+                <cell>Land Bank</cell>
+                <cell>"</cell>
+                <cell>8 1/2 </cell><cell>"</cell>
+                <cell>— 1/8</cell>
+            </row>
+            <row>
+                <cell>Trust Investment</cell>
+                <cell>"</cell>
+                <cell>1 3/16</cell><cell>"</cell>
+                <cell>— —</cell>
+            </row>
+            <row>
+                <cell>Estates</cell>
+                <cell>"</cell>
+                <cell>1 11/32</cell><cell>"</cell>
+                <cell>— —</cell>
+            </row>
+            <row>
+                <cell>Splendid Hôtels</cell>
+                <cell>"</cell>
+                <cell>4 1/8</cell><cell>"</cell>
+                <cell>— —</cell>
+            </row>
+            <row>
+                <cell>Cheik Fadl </cell>
+                <cell>"</cell>
+                <cell>117 —</cell><cell>"</cell>
+                <cell>119 —</cell>
+            </row>
+            <row>
+                <cell>Entreprises Urbaines</cell>
+                <cell>"</cell>
+                <cell>5 —</cell><cell>"</cell>
+                <cell>— —</cell>
+            </row>
+            <row>
+                <cell>Comptoir Financier</cell>
+                <cell>"</cell>
+                <cell>4 5/32</cell><cell>"</cell>
+                <cell>— —</cell>
+            </row>
+            <row>
+                <cell>Buildings Lands</cell>
+                <cell>"</cell>
+                <cell>4 1/8</cell><cell>"</cell>
+                <cell>— —</cell>
+            </row>
+            <row>
+                <cell>Delta and Upper Egypt</cell>
+                <cell>"</cell>
+                <cell>5 —</cell><cell>"</cell>
+                <cell>— —</cell>
+            </row>
+        </table>
+    </div>
+    <div type="item">
+        <head>ASSOCIATION
+        DES COURTIERS EN MARCHANDISES
+        (Service Special)</head>
+    </div>
+    <div type="article">
+        <head>DERNIERE HEURE</head>
+        <p>(Clôture de la Bourse Khédiviale 1h. p.m.)</p>
+        <p>Cours de l’Association des Courtiers en
+            Marchandises </p>
+        <table cols="5">
+            <row role="label">
+                <cell>Coton F.G.F.Br.</cell>
+            </row>
+            <row>
+                <cell>Novembre</cell>
+                <cell>Tal.</cell>
+                <cell>14 9/32 </cell>
+                <cell>à</cell>
+                <cell>— 5/16</cell>
+            </row>
+            <row>
+                <cell>Janvier</cell>
+                <cell>"</cell>
+                <cell>15 17/32</cell>
+                <cell>"</cell>
+                <cell> — 9/16</cell>
+            </row>
+            <row>
+                <cell>Mars</cell>
+                <cell>"</cell>
+                <cell>15 23/32</cell>
+                <cell>"</cell>
+                <cell>— —</cell>
+            </row>
+            <row>
+                <cell>Mai</cell>
+                <cell>"</cell>
+                <cell>15 7/8</cell>
+                <cell>"</cell>
+                <cell> — 29/32</cell>
+            </row>
+            <row role="label">
+                <cell>Graines de coton</cell>
+            </row>
+            <row>
+                <cell>D.-J. </cell>
+                <cell>"</cell>
+                <cell>57 15/40 </cell>
+                <cell>à</cell>
+                <cell>— —</cell>
+            </row>
+            <row>
+                <cell>Fevrier-Mars.</cell>
+                <cell>"</cell>
+                <cell>58 25/40</cell>
+                <cell>"</cell>
+                <cell>— —</cell>
+            </row>
+            <row role="label">
+                <cell>Fèves-Saïdi</cell>
+            </row>
+            <row>
+                <cell>Dec.-Jan.</cell>
+                <cell>P.T.</cell>
+                <cell>155 —</cell>
+                <cell>à</cell>
+                <cell>160 —</cell>
+            </row>
+        </table>
+    </div>
+</div>
