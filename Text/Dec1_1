@@ -1,0 +1,195 @@
+<?xml-model
+href="http://myweb.fsu.edu/whanley/eg/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title level="m" type="main">Egyptian Gazette</title>
+		<title level="m" type="sub">An encoded transcription</title>
+		<principal>Samantha Lappin</principal>
+	    </titleStmt>
+	    <editionStmt>
+		<edition>
+		    <date when="2016-10-3">October 2016</date>
+		</edition>
+	    </editionStmt>
+	    <publicationStmt>
+		<publisher>FSU University Libraries</publisher>
+		<pubPlace>Tallahassee, FL</pubPlace>
+	    </publicationStmt>
+	    <sourceDesc>
+		<bibl>
+		    <title>Egyptian Gazette</title>
+		    <date when="1905-12-1">1 December 1905</date>
+		</bibl>
+	    </sourceDesc>
+	</fileDesc>
+    </teiHeader>
+    <text>
+	<body>
+	    <div type="page" n="1">
+		<head>THE EGYPTIAN GAZETTE, </head>
+		<head type="sub">
+		    No. 7359 ALEXANDRIA, FRIDAY, DECEMBER 1, 1905. EIGHT PAGES P.T. 1
+		</head>
+		<div type="section" scope="advertisement">
+		    <div type="item" scope="advertisement">
+            <head>The Eastern Telegraph Company, Limited.</head>
+        </div>
+        <div type="item" scope="advertisement">
+            <head>whitehead, Morris &amp Co.</head>
+        </div>
+        <div type="item" scope="advertisement">
+                <head>Peninsular and Oriental S. N. Company.</head>
+                <p>Berths can be definitely engaged as if the vayoage were commencing at Port Said. Plans
+                can be seen at the Offices of the Company's Agents.</p>
+                <p>The through Steamers for Marseilles, Gibralter, Plymouth, and London are intended to leave
+                Port Said after the arrival of the 11 a.m. train from Cairo, every Monday. A steam tender will
+                meet the train to convey passengers to the ship. </p>
+                <p>The Brindisi Express Steamer leaves Port Said directly the Indian Mails arrive.
+                Passengers can go on board the evening before.</p>
+                <p>The express steamer usually reaches Brindisi on Wednesday afternoon, the special train
+                starting at 8 p.m. and arriving in London at the very convenient hour of 4.56 p.m. On Friday.</p>
+                <p>The combined Sea and special train fare is £22.9.11 Port Said to London via Brindisi
+                or via Marseilles:</p>
+                <p>The Sea fares are:-</p>
+                <table cols="3">
+                    <row>
+                        <cell/>
+                        <cell>First</cell>
+                        <cell>Second</cell>
+                    </row>
+                    <row>
+                        <cell>Brindisi</cell>
+                        <cell>£9</cell>
+                        <cell>N/A</cell>
+                    </row>
+                    <row>
+                        <cell>Marseilles</cell>
+                        <cell>£13</cell>
+                        <cell>£9</cell>
+                    </row>
+                    <row>
+                        <cell>London</cell>
+                        <cell>£19</cell>
+                        <cell>£12</cell>
+                    </row>
+                </table>
+                <p>In addition to the above regular weekly service there are sailing about twice a fortnight
+                of 5,000 to 7,000 tons steamers to London, calling at Malta or Marseilles.</p>
+                <head>TO THE EAST</head>
+                <p>The Mail Steamers leave Suez for Adem and Bombay every Wednesday, and for Australia
+                and China every alternate Wednesday. A steamer leaves for Calcutta, fortnightly, and another
+                for Japan. Passengers can embark at Port Said.</p>
+                <p>For all further information apply to the Company's Agents,</p>
+                <table cols="2">
+                    <row>
+                        <cell>Messrs. Thos. Cook &amp Son (Egypt) Ltd.</cell>
+                        <cell>Cairo</cell>
+                    </row>
+                    <row>
+                        <cell>George Royle Esq.</cell>
+                        <cell>Port Said</cell>
+                    </row>
+                    <row>
+                        <cell>Messrs. Haselden &amp Co.</cell>
+                        <cell>Alexandria</cell>
+                    </row>
+                    <row>
+                        <cell>F.G. Davidson, Superintendent P. &amp O.S.N. Company in Egypt</cell>
+                        <cell>Suez</cell>
+                </table>
+            </div>
+            <div type="item" scope="advertisement">
+                <head>Orient-Pacific Line of Royal Mail Steamers.</head>
+                <p>OUTWARDS to AUSTRALIA.</p>
+                <p>R.M.S. “Ormuz" will leave Suez about December 1 | R.M.S "Oroya will leave Suez
+                    about December 15. </p>
+                <p>HOMEWARDS to NAPLES MARSEILLES, GIBRALTAR, PLYMOUTH, LONDON, TILBURY</p>
+                <p>R.M.S. "Ophir" will leave Port Said about December 4 | R.M.S. “Omrah" will leave
+                    Port Said about December 18</p>
+                <table>
+                    <row>
+                        <cell rows="4">Fares</cell>
+                        <cell>Port-Said to Naples</cell>
+                        <cell>1st Class</cell>
+                        <cell>£ 2</cell>
+                        <cell>2nd Class</cell>
+                        <cell>£ 7</cell>
+                        <cell>3rd Class</cell>
+                        <cell>£ 4</cell>
+                    </row>
+                    <row>
+                        <cell>Port-Said to Marseilles</cell>
+                        <cell>1st Class</cell>
+                        <cell>£ 13</cell>
+                        <cell>2nd Class</cell>
+                        <cell>£ 9</cell>
+                        <cell>3rd Class</cell>
+                        <cell>£ 5</cell>
+                    </row>
+                    <row>
+                        <cell>Port-Said to Gibraltar</cell>
+                        <cell>1st Class</cell>
+                        <cell>£ 15</cell>
+                        <cell>2nd Class</cell>
+                        <cell>£ 9</cell>
+                        <cell>3rd Class</cell>
+                        <cell>£ 5</cell>
+                    </row>
+                    <row>
+                        <cell>Port-Said to Plymouth or Tilbury</cell>
+                        <cell>1st Class</cell>
+                        <cell>£ 19</cell>
+                        <cell>2nd Class</cell>
+                        <cell>£ 12</cell>
+                        <cell>3rd Class</cell>
+                        <cell>£ 9</cell>
+                    </row>
+                </table>
+                <p>Egyptian Government Officials allowed a rebate of 15% off the above fares.</p>
+                <p>Return tickets no longer issued, but passengers paying full fare in one direction
+                    allowed abatement of 1/3 fare back if return voyage be made within 4 months of
+                    arrival, or abatement of 20 o/o if return voyage be made within 6 months of
+                    arrival. </p>
+                <p>Agents. Cairo:—Thos. Cook &amp; Son. Alexandria : —R. J. Moss &amp; Co.—For all
+                    information apply </p>
+                <p>Wm. STAPLEDON &amp; Sons, PORT-SAID &amp; PORT-TEWFIK (Suez) 31-12-905 </p>
+            </div>
+            <div type="item" scope="advertisement">
+                <head>BIBBY LINE MAIL STEAMERS.</head>
+                <p>Special Reduced Rates During Summer Season,</p>
+                <p>OUTWARDS to COLOMBO, TUTICORIN, etc., and RANGOON. Departures from Suez.</p>
+                <p>S.S. Staffordshire 6,005 tons, leaves about December 7.</p>
+                <p>S.S. Shropshire 5,785 tons, leaves about December 21.</p>
+                <p>HOMEWARDS to MARSEILLES and LONDON. Departures from Port Said.</p>
+                <p>S.S. Derbyshire 6,636 tons, leaves about December 21.</p>
+                <p>S.S. Wercestshire 7,160 tons leaves about December 25.</p>
+                <p>FARES from Port Said to Marseilles £12.0.0, London £17.0.0, Colombo £32.10.0,
+                    Rangoon £37.10.0. </p>
+                <p>Agents Cairo: THOS. COOK &amp; SON. Suez &amp; Port Said : WM. STAPLEDON &amp; SONS,
+                    31-12-905</p>
+            </div>
+            <div type="item" scope="advertisement">
+                <head>KHEDIVIAL MAIL LINE.</head>
+                <head type="sub">FAST BRITISH PASSENGER STEAMERS</head>
+                <head type="sub">GREECE - TURKEY LINE.</head>
+                <p>Express Steamers leave Alexandria every Wednesday at 4 p.m. for PIRAEUS, SMYRNA,
+                    MITYLENE, and CONSTANTINOPLE, in connection with Orient Express train-de-luxe
+                    for Vienna, Paris, and London.</p>
+                <head type="sub">PALESTINE - SYRIA LINE.</head>
+                <p>Fast steamers leave Alexandria every Saturday at 6 p.m., and Port Said every
+                    Sunday at 6 p.m., for JAFFA (for Jerusalem), CAIFFA (for Nazareth), BEYROUT (for
+                    Damascus), TRIPOLI, ALEXANDRETTA, MESSINA, continuing in alternate weeks to
+                    LARNACA and LIMASSOL (Cyprus).</p>
+                <head type="sub">RED SEA LINE.</head>
+                <p>Steamers leave Suez fortnightly on Wednesday at 6 p.m. for JEDDAH, SUAKIN,
+                    MASSOWAH, HODBIDAH, and ADEN ; and in the intervening weeks for PORT SUDAN and
+                    SUAKIN direct. Calls will be made at TOR (for Mount Sinai) as required.</p>
+                <p>N.B.—Deck chairs provided for the use of passengers, excellent cuisine and table
+                    wine free.</p>
+                <p>Steamer plans may be seen and passages booked at the Company’s Agencies at
+                    Alexandria, Cairo, Port Said, and Suez, or at THOS. COOK &amp; SON or other
+                    Tourist Agency. 31-12-904</p>
+            </div>
