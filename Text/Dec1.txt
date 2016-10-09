@@ -35,7 +35,7 @@
                     <head>The Eastern Telegraph Company, Limited.(ad)</head>
                 </div>
                 <div type="item">
-                    <head>whitehead, Morris &amp;; Co. (ad)</head>
+                    <head>whitehead, Morris &amp;amp;; Co. (ad)</head>
                 </div>
                 <div type="item">
                     <head>Peninsular and Oriental S. N. Company.</head>
@@ -85,7 +85,7 @@
                     <div type="item">
                         <table cols="2">
                             <row>
-                                <cell>Messrs. Thos. Cook &amp; Son (Egypt) Ltd.</cell>
+                                <cell>Messrs. Thos. Cook &amp;amp; Son (Egypt) Ltd.</cell>
                                 <cell>Cairo</cell>
                             </row>
                             <row>
@@ -93,11 +93,11 @@
                                 <cell>Port Said</cell>
                             </row>
                             <row>
-                                <cell>Messrs. Haselden &amp; Co.</cell>
+                                <cell>Messrs. Haselden &amp;amp; Co.</cell>
                                 <cell>Alexandria</cell>
                             </row>
                             <row>
-                                <cell>F.G. Davidson, Superintendent P. &amp; O.S.N. Company in Egypt</cell>
+                                <cell>F.G. Davidson, Superintendent P. &amp;amp; O.S.N. Company in Egypt</cell>
                                 <cell>Suez</cell>
                             </row>
                         </table>
@@ -155,9 +155,9 @@
                         allowed abatement of 1/3 fare back if return voyage be made within 4 months of
                         arrival, or abatement of 20 o/o if return voyage be made within 6 months of
                         arrival. </p>
-                    <p>Agents. Cairo:—Thos. Cook &amp;; Son. Alexandria : —R. J. Moss &amp;; Co.—For all
+                    <p>Agents. Cairo:—Thos. Cook &amp;amp;; Son. Alexandria : —R. J. Moss &amp;amp;; Co.—For all
                         information apply </p>
-                    <p>Wm. STAPLEDON &amp;; Sons, PORT-SAID &amp;; PORT-TEWFIK (Suez) 31-12-905 </p>
+                    <p>Wm. STAPLEDON &amp;amp;; Sons, PORT-SAID &amp;amp;; PORT-TEWFIK (Suez) 31-12-905 </p>
                 </div>
                 <div type="item">
                     <head>BIBBY LINE MAIL STEAMERS.</head>
@@ -170,7 +170,7 @@
                     <p>S.S. Wercestshire 7,160 tons leaves about December 25.</p>
                     <p>FARES from Port Said to Marseilles £12.0.0, London £17.0.0, Colombo £32.10.0,
                         Rangoon £37.10.0. </p>
-                    <p>Agents Cairo: THOS. COOK &amp;; SON. Suez &amp;; Port Said : WM. STAPLEDON &amp;; SONS,
+                    <p>Agents Cairo: THOS. COOK &amp;amp;; SON. Suez &amp;amp;; Port Said : WM. STAPLEDON &amp;amp;; SONS,
                         31-12-905</p>
                 </div>
                 <div type="item">
@@ -195,13 +195,13 @@
                         <p>N.B.—Deck chairs provided for the use of passengers, excellent cuisine and table
                             wine free.</p>
                         <p>Steamer plans may be seen and passages booked at the Company’s Agencies at
-                            Alexandria, Cairo, Port Said, and Suez, or at THOS. COOK &amp;; SON or other
+                            Alexandria, Cairo, Port Said, and Suez, or at THOS. COOK &amp;amp;; SON or other
                             Tourist Agency. 31-12-904</p>
                     </div>
                 </div>
                 <div type="item">
                     <head>The Moss S.S. Company, Ltd.</head>
-                    <p>For LIVERPOOL calling at MALTA (Messrs. JAMES MOSS &amp;; Co. 31, James St,
+                    <p>For LIVERPOOL calling at MALTA (Messrs. JAMES MOSS &amp;amp;; Co. 31, James St,
                         Liverpool, Managers.)</p>
                     <table rows="3" cols="8">
                         <row>
@@ -245,35 +245,35 @@
                         agreement only. </p>
                     <p> Passenger Tickets also issued inclusive of Railway fare through to and from
                         Ciaro. Partiuclars on application to </p>
-                    <p> R. J. MOSS &amp;; Co,, Alexandria, Agenta. 26-12-905</p>
+                    <p> R. J. MOSS &amp;amp;; Co,, Alexandria, Agenta. 26-12-905</p>
                 </div>
                 <div type="item">
                     <head>MARINE INSURANCE COMPANY, LIMITED.</head>
                     <p>Established 1836. Capital £1,000,000. Reserve Fund £650,000. </p>
                     <p>THE IMPERIAL FIRE OFFICE united with THE ALLIANCE ASSURANCE, Co., Ltd.</p>
                     <p>1, Old Broad Street, LONDON—Estabished 1806.—Total Funds exceed £10,000,000.</p>
-                    <p>31-12-905. Policies issued at SUEZ by G. BEYTS &amp;; Co., Agents.</p>
+                    <p>31-12-905. Policies issued at SUEZ by G. BEYTS &amp;amp;; Co., Agents.</p>
                 </div>
                 <div type="item">
-                    <head>P. HENDERSON &amp;; CO’s LINE.</head>
+                    <head>P. HENDERSON &amp;amp;; CO’s LINE.</head>
                     <p>Steamers leave SUEZ and PORT SAID fortnightly for LONDON or LIVERPOOL direct.</p>
                     <p>(Electric Light.) SALOON (Amidships) FARE £12. (Latest improvements.)</p>
                     <p>S.S. ARRACAN 6600 Tons will leave PORT SAID about Nov. 24 for Liverpool.</p>
                     <p>S.S. MANDALAY 6000 Tons will leave PORT SAID about Dec. 8</p>
                     <p>S.S. TENASSERIM 7100 Tons will leave PORT SAID about 21</p>
                     <p>Due in LONDON or LIVERPOOL 12 days thereafter.</p>
-                    <p>Apply WORMS &amp;; Co., Port Said and Suez. THOS. COOK &amp;; SON, (EGYPT) LD.,
+                    <p>Apply WORMS &amp;amp;; Co., Port Said and Suez. THOS. COOK &amp;amp;; SON, (EGYPT) LD.,
                         CAIRO ;</p>
-                    <p>G. J. GRACE &amp;; CO., ALEXANDRIA.</p>
+                    <p>G. J. GRACE &amp;amp;; CO., ALEXANDRIA.</p>
                 </div>
                 <div type="item">
-                    <head>Thos. Cook &amp;; Son,</head>
+                    <head>Thos. Cook &amp;amp;; Son,</head>
                     <p>(EGYPT), LIMITED.</p>
                     <p>CHIEF EGYPTIAN OFFICE — near SHEPHEARD'S HOTEL. </p>
                     <p>Alexandria, Port-Said, Luxor, Assuan, and Khartum.</p>
                     <p>TOURIST AND GENERAL PASSENGER AGENTS. BANKERS.</p>
                     <p>BAGGAGE AND FORWARDING AGENTS.</p>
-                    <p>Officially appointed &amp;; Sole Agents in Cairo to the P.&amp;;O. S.N. Co.</p>
+                    <p>Officially appointed &amp;amp;; Sole Agents in Cairo to the P.&amp;amp;;O. S.N. Co.</p>
                     <p>TOURIST SERVICE.- The large and splendidly appointed
                         S.S. Rameses the Third, will leave Cairo on Tuesday, December
                         5th, for Luxor, Assuan and Philae.</p>
@@ -282,7 +282,7 @@
                     <p>Special combines rail and steamer Nile Tours at greatly reduced fares.</p>
                     <p>Bi-Weekly Service to Halfa, Khatoum and the Sudan.</p>
                     <p>Special Steamers and Dahabeahs for private parties.</p>
-                    <p>Regular Service of freight steamers between Cairo &amp; Halfa.</p>
+                    <p>Regular Service of freight steamers between Cairo &amp;amp; Halfa.</p>
                     <p>Cook's Interpreters in uniform are present at the principal Railway Stations and leading
                         places in Europe to assit passengers holding their tickets.</p>
                     <p>Tours to Palestine, Syria, and Desert. Best Equipment. Lowest charges.</p>
@@ -326,22 +326,22 @@
                     <p>From Port-Said £2 less Homeward, and £2 more Outward. Second class, two thirds of
                         1st Class Fares. </p>
                     <p>Agents at PORT SAID, for the London, Calcutta and Persian Gulf Lines, Messrs.
-                        Worms &amp;; Co. </p>
-                    <p>Agents at PORT SAID, for the London and Queensland Line, Messrs. Wills &amp;; Co.,
+                        Worms &amp;amp;; Co. </p>
+                    <p>Agents at PORT SAID, for the London and Queensland Line, Messrs. Wills &amp;amp;; Co.,
                         Limited. </p>
-                    <p>Messrs. Thos. Cook &amp;; Son and the Anglo-American Hotel &amp;; Steamer Company,
-                        CAIRO &amp;; ALEXANDRIA. </p>
-                    <p>For further particulars. Freight and Passage apply to G. BEYTS &amp;; Co. Agenta,
+                    <p>Messrs. Thos. Cook &amp;amp;; Son and the Anglo-American Hotel &amp;amp;; Steamer Company,
+                        CAIRO &amp;amp;; ALEXANDRIA. </p>
+                    <p>For further particulars. Freight and Passage apply to G. BEYTS &amp;amp;; Co. Agenta,
                         Suez. 31-12-905 </p>
                 </div>
                 <div type="item">
                     <head>ANCHOR LINE, LIMITED.</head>
                     <p>(HENDERSON BROTHERS,) LONDON, LIVERPOOL AND GLASGOW.</p>
-                    <p>Booking Passengers and Cargo through to Ports in India, Europe &amp;; America</p>
+                    <p>Booking Passengers and Cargo through to Ports in India, Europe &amp;amp;; America</p>
                     <p>First class passengers steamers. Sailing fortnightly from Suez.</p>
                     <table rows="2" cols="6">
                         <row>
-                            <cell>For MARSEILLES &amp;; LIVERPOOL</cell>
+                            <cell>For MARSEILLES &amp;amp;; LIVERPOOL</cell>
                             <cell>S.S. “Olympia”</cell>
                             <cell>Dec. 15</cell>
                             <cell>For CALCUTTA</cell>
@@ -362,15 +362,15 @@
                         Passengers embarking at Suez £2 more, 10 % reduction for officers of army of
                         Occupation and Government employés. Through tickets issued to New-York (via
                         Glasgow). Fares on application. </p>
-                    <p> Agents in Cairo, Messrs. Thos. Cook &amp;; Son. Port-Said, Messrs. Cory Brothers
-                        &amp;; Co., Ltd.</p>
-                    <p>For further partienlan of Freight or Passage apply to G. BEYTS &amp;; Co., Suez.
+                    <p> Agents in Cairo, Messrs. Thos. Cook &amp;amp;; Son. Port-Said, Messrs. Cory Brothers
+                        &amp;amp;; Co., Ltd.</p>
+                    <p>For further partienlan of Freight or Passage apply to G. BEYTS &amp;amp;; Co., Suez.
                         31-12-905</p>
                 </div>
                 <div type="item">
                     <head>Deutsche Levante-Linie.</head>
                     <p>Mail and Passenger Steamships. Regular three-weekly Service from <lb/> HAMBURG,
-                        via ANTWERP &amp;; MALTA, to ALEXANDRIA and vice-versa, admitting<lb/> goods from
+                        via ANTWERP &amp;amp;; MALTA, to ALEXANDRIA and vice-versa, admitting<lb/> goods from
                         all chief German Railway Stations on direct Bill of Landing to<lb/> ALEXANDRIA
                         and all chief ports of Egypt, Syria, etc., at favourable through<lb/> rates of
                         DEUTSCHE <lb/> VERKEHR (traffic).</p>
@@ -379,7 +379,7 @@
                         <row>
                             <cell>Dec. 3</cell>
                             <cell>S.S. Andros</cell>
-                            <cell>from Hamburg bound for Rotterdam &amp; Hamburg.</cell>
+                            <cell>from Hamburg bound for Rotterdam &amp;amp; Hamburg.</cell>
                         </row>
                         <row>
                             <cell>10</cell>
@@ -408,7 +408,7 @@
                     <p>Splendid accommodation for passengars of all classes.—First-class steamers,
                         fitted with all recent improvements. stewardesses and doctor carried—Low passage
                         rates.</p>
-                    <p>For all particulars, apply to FIX &amp;; DAVID, CAIRO, Sharia Mansour Pacha</p>
+                    <p>For all particulars, apply to FIX &amp;amp;; DAVID, CAIRO, Sharia Mansour Pacha</p>
                 </div>
                 <div type="item">
                     <head>Guardian Assurance Company, Limited,(ad)</head>
@@ -455,7 +455,7 @@
                         fraction of 3 minutes; P.T. 10 for over 3 up to 8 minutes communication.</p>
                     <p>PUBLIC CALL-OFFICES : Cairo, Central Office, Opera Square, and New Bar; Helouan,
                         Central Office, Maison Purvis ; Alexandria, St Mark’s Buildings, Egyptian Bar,
-                        I. Castelli &amp;; Co.; Ramleh, Central Office. San Stefano Casino 30.4.906</p>
+                        I. Castelli &amp;amp;; Co.; Ramleh, Central Office. San Stefano Casino 30.4.906</p>
                 </div>
                 <div type="item">
                     <head>ALEXANDRIA BONDED WAREHOUSE COMPANY, LTD.</head>
@@ -539,9 +539,9 @@
                         morning.</p>
                 </div>
                 <div type="item">
-                    <head>Anglo-American Nile Steamer &amp;; Hotel Coy.</head>
+                    <head>Anglo-American Nile Steamer &amp;amp;; Hotel Coy.</head>
                     <p>Weekly departure during Winter Season by the<lb/> Luxurious First Class Tourist
-                        Steamers VICTORIA, PURITAN &amp;; MAYFLOWER.<lb/> Regular weekly Departures to
+                        Steamers VICTORIA, PURITAN &amp;amp;; MAYFLOWER.<lb/> Regular weekly Departures to
                         the SECOND CATARACT by the S.S. INDIANA.<lb/> THROUGH BOOKINGS TO KHARTOUM,
                         GONDOKORO AND THE WHITE NILE.<lb/> Steamers and Dahabeahs for private charter.
                         Steam Tugs and Steam Launches for hire.<lb/> FREIGHT SERVICE BY STEAM BARGES
@@ -554,8 +554,8 @@
                 <div type="item">
                     <head>NORDDEUTSCHER LLOYD.</head>
                     <p>Regular Service from ALEXANDRIA (Passenger and Freight) to NAPLES-MARSEILLES.</p>
-                    <p> SCHLESWIG leave ALEXANDRIA at 4 p.m. Dec. 6 &amp; 27, Jan. 10 &amp; 24, Feb. 7 &amp; 21, April 4. </p>
-                    <p>Hohensollern Dec. 13, Jan. 3,17 &amp; 31, Feb. 14 &amp; 28, March 14 &amp; 28, April 11.</p>
+                    <p> SCHLESWIG leave ALEXANDRIA at 4 p.m. Dec. 6 &amp;amp; 27, Jan. 10 &amp;amp; 24, Feb. 7 &amp;amp; 21, April 4. </p>
+                    <p>Hohensollern Dec. 13, Jan. 3,17 &amp;amp; 31, Feb. 14 &amp;amp; 28, March 14 &amp;amp; 28, April 11.</p>
                     <p>The following steamers are intended to leave PORT-SAID: </p>
                     <table rows="14" cols="3">
                         <row>
@@ -632,7 +632,7 @@
                     <p>NORDDEUTSCHER LLOYD at Cairo, Alexandria, Port-Said and Suez. </p>
                     <p>OTTO STERZING, Agent In Cairo, Opera Square. </p>
                     <p>C. H. SCHOELLER, Agent In Alexandria, Cleopatra Lane.</p>
-                    <p>Messrs. THOS. COOK &amp;; SON (Egypt) LTD., and CARL STANGENS REISEBUREAN are
+                    <p>Messrs. THOS. COOK &amp;amp;; SON (Egypt) LTD., and CARL STANGENS REISEBUREAN are
                         anthorised to sell tickets in CAIRO and ALEXANDRIA, 31-8-905</p>
                 </div>
                 <div type="item">
@@ -691,7 +691,7 @@
                         </row>
                     </table>
                     <p>All steamers fitted with Marconi's wireless telegraphy. For through tickets from
-                        Egypt, and particulars aply to the Agents Rodacanachi &amp; Co., Alexandria;
+                        Egypt, and particulars aply to the Agents Rodacanachi &amp;amp; Co., Alexandria;
                         Nic. Kerzis, Cairo; R. Broadbent, Port Said. 19-1-905</p>
                 </div>
                 <div type="item">
@@ -706,7 +706,7 @@
                         4 p.m.</p>
                     <p>CARGO taken by special agreement only. Through Freights quoted for the UNITED
                         STATES and INLAND TOWNS in GREAT BRITAIN.</p>
-                    <p>For passage or freight apply to the Agents, BARKER &amp; Co., Alexandria.
+                    <p>For passage or freight apply to the Agents, BARKER &amp;amp; Co., Alexandria.
                         17-4-906 </p>
                 </div>
                 <div type="item">
@@ -748,9 +748,9 @@
                 <div type="item">
                     <head>IMPERIAL OTTOMAN BANK.</head>
                     <p>CAPITAL: £10,000,000.</p>
-                    <p>HEAD OFFIOE IN CONSTANTINOPLE. CHIEF AGENCIES: LONDON &amp; PARIS.</p>
+                    <p>HEAD OFFIOE IN CONSTANTINOPLE. CHIEF AGENCIES: LONDON &amp;amp; PARIS.</p>
                     <p>BRANCHES IN ALL THE PRINCIPAL TOWNS IN TURKEY.</p>
-                    <p>Agencies in Egypt : ALEXANDRIA, CAIRO, &amp; PORT SAID.</p>
+                    <p>Agencies in Egypt : ALEXANDRIA, CAIRO, &amp;amp; PORT SAID.</p>
                     <p>Advances on Merchandise and Securities in current account and for fixed periods.
                         Purchase and sale of stocks and Shares on the London and Continental exchanges,
                         letters of credit issued, valuables reoeived in safe custody. Drafts, cheques
@@ -772,7 +772,7 @@
                         toutes opérations de Banque. 31-12-904</p>
                 </div>
                 <div type="item">
-                    <head>SUDAN DEVELOPMENT &amp; EXPLORATION COMPANY, LIMITED</head>
+                    <head>SUDAN DEVELOPMENT &amp;amp; EXPLORATION COMPANY, LIMITED</head>
                     <p>KHARTOUM: CAIRO Office, Sharia Kasr-el-Nil.</p>
                     <p>TRANSPORT DEPARTMENT. Six days White Nile Tourist Trip dep. Khartoum Tuesdays.
                         Steamer plans may be seen and passages booked at all Cairo Tourist Agents. -
@@ -788,9 +788,9 @@
                     <head>INSURANCE</head>
                     <p>LIFE: The Edinburgh Life Assurance Company.</p>
                     <p>MARINE: Union Insurance Society of Canton (lImited).</p>
-                    <p>FIDELITY: National Guarantee &amp; Suretyship Association (Limited).</p>
+                    <p>FIDELITY: National Guarantee &amp;amp; Suretyship Association (Limited).</p>
                     <p>Risks accepted at Tarrif rates. - Claims liberally and promptly settled.
-                    Agents for Egypt: HEWAT &amp; Co. Alexandria.</p>
+                        Agents for Egypt: HEWAT &amp;amp; Co. Alexandria.</p>
                 </div>
             </div>
             <div type="page" n="2">
@@ -798,12 +798,12 @@
                     <head>Royal Insurance Coy</head>
                     <p>FIRE AND LIFE.</p>
                     <p>Largest Fire Office in the World.</p>
-                    <p>HASELDEN &amp; CO., Agents, Alexandria.</p>
-                    <p>R. VITERBO &amp; CO., Agents, Cairo.</p>
+                    <p>HASELDEN &amp;amp; CO., Agents, Alexandria.</p>
+                    <p>R. VITERBO &amp;amp; CO., Agents, Cairo.</p>
                     <p>PHOENIX ASSURANCE COMPANY, LIMITED.</p>
                     <p>(ESTABLISHED 1782); </p>
-                    <p>HASELDEN &amp; CO., Agents, Alexandria. </p>
-                    <p>31-3-906 FRED. OTT &amp; CO., Sub-Agents, Cairo.</p>
+                    <p>HASELDEN &amp;amp; CO., Agents, Alexandria. </p>
+                    <p>31-3-906 FRED. OTT &amp;amp; CO., Sub-Agents, Cairo.</p>
                 </div>
                 <div type="item">
                     <head>(JBC2)(ad)
@@ -991,7 +991,7 @@
                     <head>Lancaster House, Cairo.(ad)</head>
                 </div>
                 <div type="item">
-                    <head>Thomas &amp; Sons(ad)</head>
+                    <head>Thomas &amp;amp; Sons(ad)</head>
                 </div>
                 <div type="item">
                     <head>Calvert's Carbolic Toilet Soap(ad)</head>
@@ -1316,7 +1316,7 @@
                             <cell>Mon</cell>
                             <cell>4</cell>
                             <cell>St. Andrew's High School. A.L.M.
-                                &amp; D.S. Lecture by Dr. Ruffer,
+                                &amp;amp; D.S. Lecture by Dr. Ruffer,
                                 C.M.G., on "The Desert of Sinai."</cell>
                             <cell>9</cell>
                         </row>
@@ -1405,7 +1405,7 @@
                         <row>
                             <cell>Tues.</cell>
                             <cell>26</cell>
-                            <cell>Meeting Salt &amp; Soda Co.</cell>
+                            <cell>Meeting Salt &amp;amp; Soda Co.</cell>
                             <cell>3</cell>
                         </row>
                     </table>
@@ -1458,7 +1458,7 @@
                             great demand for lessons; Cairo, 1, Sharia
                             Kamel; Alexandria, 26, Rue de l'Eglise Copse.</p></div>
                     <div type="item"><head>New Commission House.</head>
-                        <p>Messrs. Missak Moronkian &amp; Co., brokers,
+                        <p>Messrs. Missak Moronkian &amp;amp; Co., brokers,
                             of Smyrna, have opened a branch at
                             Alexandria, at 3, rue Mehmoud Pashareal Falaki,
                             which will undertake business in American
@@ -1948,7 +1948,7 @@
                         Michel Delines, etc.</p>
                 </div>
                 <div type="item">
-                    <head>NATIONAL HOTELS &amp; RESIDENCES</head>
+                    <head>NATIONAL HOTELS &amp;amp; RESIDENCES</head>
                     <p>Nous publions aujourd'hui le prospectus
                         d'emission de la "National Hotels and Resi-
                         dences Co" Societe Anonyme recemment cons-
@@ -1960,7 +1960,7 @@
                         qui ont ete inangures le mois dernier et qui
                         sont en pleine exploitation, sinsi que du Grand
                         Hotel Casino d'Ain-Sofar (Mont Liban).</p>
-                    <p>Comme on le voit, The National &amp; Resi-
+                    <p>Comme on le voit, The National &amp;amp; Resi-
                         dences Company, sa presente comme une tres
                         belle affaire qui semble promettre des resultats
                         brillants. Il suffit, du reste, de voir a quels
@@ -2407,8 +2407,8 @@
                 </div>
                 <div type="item">
                     <head>Marseille
-                        Grand Hotel du Louvre &amp; Paix
-                        La Reserve &amp; Palace Hotel(ad)</head>
+                        Grand Hotel du Louvre &amp;amp; Paix
+                        La Reserve &amp;amp; Palace Hotel(ad)</head>
                 </div>
                 <div type="item">
                     <head>LES LISTES DE SOUSCRIPTION SERONT OUVERTES POUR 2 JOURS SEULEMENT.</head>
@@ -2491,13 +2491,13 @@
                     <head>N. SPATHIS (ad)</head>
                 </div>
                 <div type="item">
-                    <head>H.&amp;C. Flick, (ad)</head>
+                    <head>H.&amp;amp;C. Flick, (ad)</head>
                 </div>
                 <div type="item">
-                    <head>T.A. SPARTALI &amp; CO (ad)</head>
+                    <head>T.A. SPARTALI &amp;amp; CO (ad)</head>
                 </div>
                 <div type="item">
-                    <head>Walker &amp; Meimarachi, Limited.(ad)</head>
+                    <head>Walker &amp;amp; Meimarachi, Limited.(ad)</head>
                 </div>
                 <div type="item">
                     <head>GRAND CONTINENTAL MOTEL(ad)</head>
@@ -2505,7 +2505,7 @@
                         <head>CAIRO -- SAVOY HOTEL(ad)</head>
                     </div>
                     <div type="item">
-                        <head>G. G. Drossos &amp; Co.(ad)</head>
+                        <head>G. G. Drossos &amp;amp; Co.(ad)</head>
                     </div>
                     <div type="item">
                         <head>The
@@ -2571,7 +2571,7 @@
                 <div type="item">
                     <head>HOTEL DU NIL(ad)</head>
                 </div>
-                <div>
+                <div type="item">
                     <head>Picture Post Cards(ad)</head>
                 </div>
                 <div type="item">
@@ -2724,7 +2724,7 @@
                             <cell>7</cell>
                         </row>
                     </table>
-                    <p>The steamers, of the P.&amp;0. North German
+                    <p>The steamers, of the P.&amp;amp;0. North German
                         Lloyd, Orient and Messageriea Maritimes
                         are the largest. The Anchor, British India,
                         and Bibby Lines are also excellent, and their
@@ -2740,7 +2740,7 @@
                         The German Levant line has also good steamers
                         from Alexandria to Hamburg.</p>
                     <p>The most expensive but quickest through
-                        Continental routes are by P.&amp;O. Brindisi
+                        Continental routes are by P.&amp;amp;O. Brindisi
                         express from Port 8aid, and the Austrian
                         Lloyd Trieste Vienna express from Alexandria.</p>
                     <p>As regards heavy luggage, it must be borne
@@ -3065,8 +3065,8 @@
                     </div>
                     <div type="item">
                         <head>LAKE OF COMO (Cernobble.)
-                        GRAND HOTEL
-                        VILLA D'ESTE(ad)</head>
+                            GRAND HOTEL
+                            VILLA D'ESTE(ad)</head>
                     </div>
                     <div type="item">
                         <head>COMO
@@ -3074,8 +3074,8 @@
                     </div>
                     <div type="item">
                         <head>LUGANO (Lake of Lugane)
-                        GRAND HOTEL METROPOLE ET
-                        MONOPOLE.(ad)</head>
+                            GRAND HOTEL METROPOLE ET
+                            MONOPOLE.(ad)</head>
                     </div>
                     <div type="item">
                         <head>LOCARNO
@@ -3143,11 +3143,11 @@
                                 <cell>116</cell>
                             </row>
                             <row>
-                                <cell>Carver Bros. &amp; Co. Ltd,</cell>
+                                <cell>Carver Bros. &amp;amp; Co. Ltd,</cell>
                                 <cell>362</cell>
                             </row>
                             <row>
-                                <cell>J. Planta&amp; Co.,</cell>
+                                <cell>J. Planta&amp;amp; Co.,</cell>
                                 <cell>165</cell>
                             </row>
                             <row>
@@ -3155,15 +3155,15 @@
                                 <cell>232</cell>
                             </row>
                             <row>
-                                <cell>Choremi, Benachi &amp; Co.,</cell>
+                                <cell>Choremi, Benachi &amp;amp; Co.,</cell>
                                 <cell>100</cell>
                             </row>
                             <row>
-                                <cell>Mohr &amp; Fenderl,</cell>
+                                <cell>Mohr &amp;amp; Fenderl,</cell>
                                 <cell>32</cell>
                             </row>
                             <row>
-                                <cell>Behrend &amp; Co.,</cell>
+                                <cell>Behrend &amp;amp; Co.,</cell>
                                 <cell>100</cell>
                             </row>
                             <row>
@@ -3180,27 +3180,27 @@
                                 <cell>Bales cotton</cell>
                             </row>
                             <row>
-                                <cell>E. Mallison &amp; Co.,</cell>
+                                <cell>E. Mallison &amp;amp; Co.,</cell>
                                 <cell>31</cell>
                             </row>
                             <row>
-                                <cell>R. &amp; O. Lindemann,</cell>
+                                <cell>R. &amp;amp; O. Lindemann,</cell>
                                 <cell>260</cell>
                             </row>
                             <row>
-                                <cell>Choremi, Benachi &amp; Co.,</cell>
+                                <cell>Choremi, Benachi &amp;amp; Co.,</cell>
                                 <cell>5</cell>
                             </row>
                             <row>
-                                <cell>Carver Bros. &amp; Co..,</cell>
+                                <cell>Carver Bros. &amp;amp; Co..,</cell>
                                 <cell>191</cell>
                             </row>
                             <row>
-                                <cell>J. PLanta &amp; Co.,</cell>
+                                <cell>J. PLanta &amp;amp; Co.,</cell>
                                 <cell>100</cell>
                             </row>
                             <row>
-                                <cell>Peel &amp; Co.,</cell>
+                                <cell>Peel &amp;amp; Co.,</cell>
                                 <cell>160</cell>
                             </row>
                             <row>
@@ -3221,7 +3221,7 @@
                                 <cell>Bales coton</cell>
                             </row>
                             <row>
-                                <cell>E. Mallison &amp; Co.</cell>
+                                <cell>E. Mallison &amp;amp; Co.</cell>
                                 <cell>465</cell>
                             </row>
                             <row>
@@ -3229,23 +3229,23 @@
                                 <cell>300</cell>
                             </row>
                             <row>
-                                <cell>Choremi, Benschi &amp; Co.,</cell>
+                                <cell>Choremi, Benschi &amp;amp; Co.,</cell>
                                 <cell>455</cell>
                             </row>
                             <row>
-                                <cell>Mohr &amp; Fenderl,</cell>
+                                <cell>Mohr &amp;amp; Fenderl,</cell>
                                 <cell>150</cell>
                             </row>
                             <row>
-                                <cell>W. Getty &amp; Co.</cell>
+                                <cell>W. Getty &amp;amp; Co.</cell>
                                 <cell>30</cell>
                             </row>
                             <row>
-                                <cell>Carver Bros. &amp; Co. Ltd.,</cell>
+                                <cell>Carver Bros. &amp;amp; Co. Ltd.,</cell>
                                 <cell>300</cell>
                             </row>
                             <row>
-                                <cell>Schmid &amp; Co.</cell>
+                                <cell>Schmid &amp;amp; Co.</cell>
                                 <cell>35</cell>
                             </row>
                             <row>
@@ -3266,7 +3266,7 @@
                                 <cell>100</cell>
                             </row>
                             <row>
-                                <cell>Barker &amp; Co.,</cell>
+                                <cell>Barker &amp;amp; Co.,</cell>
                                 <cell>202</cell>
                             </row>
                             <row role="label">
@@ -3274,7 +3274,7 @@
                                 <cell>Bales coton</cell>
                             </row>
                             <row>
-                                <cell>Peel &amp; Co.,</cell>
+                                <cell>Peel &amp;amp; Co.,</cell>
                                 <cell>456</cell>
                             </row>
                             <row>
@@ -3282,7 +3282,7 @@
                                 <cell>175</cell>
                             </row>
                             <row>
-                                <cell>E. Mallison &amp; Co.,</cell>
+                                <cell>E. Mallison &amp;amp; Co.,</cell>
                                 <cell>100</cell>
                             </row>
                             <row>
@@ -3290,15 +3290,15 @@
                                 <cell>150</cell>
                             </row>
                             <row>
-                                <cell>F.C. Baines &amp; Co.,</cell>
+                                <cell>F.C. Baines &amp;amp; Co.,</cell>
                                 <cell>100</cell>
                             </row>
                             <row>
-                                <cell>C. Laredo &amp; Co.,</cell>
+                                <cell>C. Laredo &amp;amp; Co.,</cell>
                                 <cell>155</cell>
                             </row>
                             <row>
-                                <cell>Bustros &amp; Co.,</cell>
+                                <cell>Bustros &amp;amp; Co.,</cell>
                                 <cell>44</cell>
                             </row>
                             <row>
@@ -3306,31 +3306,31 @@
                                 <cell>81</cell>
                             </row>
                             <row>
-                                <cell>G. Frauger &amp; Co.,</cell>
+                                <cell>G. Frauger &amp;amp; Co.,</cell>
                                 <cell>1,016</cell>
                             </row>
                             <row>
-                                <cell>R.&amp;O. Lindemann,</cell>
+                                <cell>R.&amp;amp;O. Lindemann,</cell>
                                 <cell>100</cell>
                             </row>
                             <row>
-                                <cell>W. Getty &amp; Co.,</cell>
+                                <cell>W. Getty &amp;amp; Co.,</cell>
                                 <cell>277</cell>
                             </row>
                             <row>
-                                <cell>Mohr &amp; Fenderl,</cell>
+                                <cell>Mohr &amp;amp; Fenderl,</cell>
                                 <cell>77</cell>
                             </row>
                             <row>
-                                <cell>Carver Bros. &amp; Co. Ltd.,</cell>
+                                <cell>Carver Bros. &amp;amp; Co. Ltd.,</cell>
                                 <cell>225</cell>
                             </row>
                             <row>
-                                <cell>Choremi, Benachi &amp; Co.,</cell>
+                                <cell>Choremi, Benachi &amp;amp; Co.,</cell>
                                 <cell>513</cell>
                             </row>
                             <row>
-                                <cell>J. Planta &amp; Co.,</cell>
+                                <cell>J. Planta &amp;amp; Co.,</cell>
                                 <cell>150</cell>
                             </row>
                             <row>
@@ -3350,7 +3350,7 @@
                     </div>
                     <div type="item">
                         <p>For ENGLAND, by the S.S. Headlands, sailed on the 27th November :</p>
-                        <p>Carver Bros. &amp; Co. Ltd, 3,470 tons cotton seed</p>
+                        <p>Carver Bros. &amp;amp; Co. Ltd, 3,470 tons cotton seed</p>
                     </div>
                     <div type="item">
                         <p>For CONSTANTINOPLE, by the S.S. Vassi lissa Olgs,” sailed on the 27th Nov :</p>
@@ -3368,7 +3368,7 @@
                                 <cell>100</cell>
                             </row>
                             <row>
-                                <cell>T. Ghirghis &amp; Son,</cell>
+                                <cell>T. Ghirghis &amp;amp; Son,</cell>
                                 <cell>250</cell>
                             </row>
                             <row role="label">
@@ -3376,7 +3376,7 @@
                                 <cell>Bales cotton</cell>
                             </row>
                             <row>
-                                <cell>T. Ghirghis &amp; Son,</cell>
+                                <cell>T. Ghirghis &amp;amp; Son,</cell>
                                 <cell>394</cell>
                             </row>
                             <row>
@@ -3384,7 +3384,7 @@
                                 <cell>10</cell>
                             </row>
                             <row>
-                                <cell>Peel &amp; Co.,</cell>
+                                <cell>Peel &amp;amp; Co.,</cell>
                                 <cell>69</cell>
                             </row>
                             <row>
@@ -3396,7 +3396,7 @@
                                 <cell>175</cell>
                             </row>
                             <row>
-                                <cell>C.G. Zervudachi &amp; Son,</cell>
+                                <cell>C.G. Zervudachi &amp;amp; Son,</cell>
                                 <cell>24</cell>
                             </row>
                             <row>
@@ -3408,27 +3408,27 @@
                                 <cell>178</cell>
                             </row>
                             <row>
-                                <cell>Mohr &amp; Fenderl,</cell>
+                                <cell>Mohr &amp;amp; Fenderl,</cell>
                                 <cell>193</cell>
                             </row>
                             <row>
-                                <cell>G. Frauger &amp; Co.,</cell>
+                                <cell>G. Frauger &amp;amp; Co.,</cell>
                                 <cell>108</cell>
                             </row>
                             <row>
-                                <cell>R. Rolo figli &amp; Co.,</cell>
+                                <cell>R. Rolo figli &amp;amp; Co.,</cell>
                                 <cell>185</cell>
                             </row>
                             <row>
-                                <cell>Carver Bros. &amp; Co. Ltd.,</cell>
+                                <cell>Carver Bros. &amp;amp; Co. Ltd.,</cell>
                                 <cell>469</cell>
                             </row>
                             <row>
-                                <cell>Choremi, Benschi &amp; Co.,</cell>
+                                <cell>Choremi, Benschi &amp;amp; Co.,</cell>
                                 <cell>1,371</cell>
                             </row>
                             <row>
-                                <cell>J. Planta,\ &amp; Co.,</cell>
+                                <cell>J. Planta,\ &amp;amp; Co.,</cell>
                                 <cell>530</cell>
                             </row>
                             <row>
@@ -3436,11 +3436,11 @@
                                 <cell>71</cell>
                             </row>
                             <row>
-                                <cell>W. Getti &amp; Co.,</cell>
+                                <cell>W. Getti &amp;amp; Co.,</cell>
                                 <cell>100</cell>
                             </row>
                             <row>
-                                <cell>F.C. Baines &amp; Co.,</cell>
+                                <cell>F.C. Baines &amp;amp; Co.,</cell>
                                 <cell>50</cell>
                             </row>
                             <row>
@@ -3456,7 +3456,7 @@
                                 <cell>Bales wool</cell>
                             </row>
                             <row>
-                                <cell>Holz &amp; Co.,</cell>
+                                <cell>Holz &amp;amp; Co.,</cell>
                                 <cell>69</cell>
                             </row>
                             <row>
@@ -3464,17 +3464,17 @@
                                 <cell>60</cell>
                             </row>
                             <row>
-                                <cell>G. Brach &amp; Co.,</cell>
+                                <cell>G. Brach &amp;amp; Co.,</cell>
                                 <cell>150</cell>
                             </row>
                             <row>
-                                <cell>A. Tarpinian &amp; Co.,</cell>
+                                <cell>A. Tarpinian &amp;amp; Co.,</cell>
                                 <cell>15</cell>
                             </row>
                         </table>
                     </div>
                     <div type="item">
-                        <p>Kraft &amp; Nagiar, 50 bales senna</p>
+                        <p>Kraft &amp;amp; Nagiar, 50 bales senna</p>
                     </div>
                     <div type="item">
                         <table cols="2">
@@ -3483,7 +3483,7 @@
                                 <cell>Cases eggs</cell>
                             </row>
                             <row>
-                                <cell>Hadjes &amp; Co.,</cell>
+                                <cell>Hadjes &amp;amp; Co.,</cell>
                                 <cell>67</cell>
                             </row>
                             <row>
@@ -3491,7 +3491,7 @@
                                 <cell>75</cell>
                             </row>
                             <row>
-                                <cell>Fix &amp; David,</cell>
+                                <cell>Fix &amp;amp; David,</cell>
                                 <cell>54</cell>
                             </row>
                             <row>
@@ -3513,9 +3513,9 @@
                         </table>
                     </div>
                     <div type="item">
-                        <p>Hadjes &amp; Co., 100 bags bones, 62 bales old bags</p>
+                        <p>Hadjes &amp;amp; Co., 100 bags bones, 62 bales old bags</p>
                         <p>L. Heller, 2,000 barrels molasses</p>
-                        <p>B. Hazan &amp; Co., 2 cases cigarettes</p>
+                        <p>B. Hazan &amp;amp; Co., 2 cases cigarettes</p>
                         <p>Various, 2 packages sundries</p>
                     </div>
                     <div type="item">
@@ -3530,7 +3530,7 @@
                                 <cell>Tons cotton seed</cell>
                             </row>
                             <row>
-                                <cell>COury &amp; Co.,</cell>
+                                <cell>COury &amp;amp; Co.,</cell>
                                 <cell>503</cell>
                             </row>
                             <row>
@@ -3538,7 +3538,7 @@
                                 <cell>495</cell>
                             </row>
                             <row>
-                                <cell>Behrend &amp; Co.,</cell>
+                                <cell>Behrend &amp;amp; Co.,</cell>
                                 <cell>1,020</cell>
                             </row>
                             <row>
@@ -3546,11 +3546,11 @@
                                 <cell>379</cell>
                             </row>
                             <row>
-                                <cell>Carver Bros. &amp; Co. Ltd.</cell>
+                                <cell>Carver Bros. &amp;amp; Co. Ltd.</cell>
                                 <cell>2,595</cell>
                             </row>
                         </table>
-                        <p>Eg. Salt &amp; Soda Co., 2,501 bags oil cake</p>
+                        <p>Eg. Salt &amp;amp; Soda Co., 2,501 bags oil cake</p>
                     </div>
                 </div>
                 <div type="item">
@@ -3558,14 +3558,14 @@
                     <head>ARRIVALS.</head>
                     <div type="item">
                         <head>Nov. 30.</head>
-                        <p>Clio, Brit. s. Hull, Barker &amp; Co.</p>
+                        <p>Clio, Brit. s. Hull, Barker &amp;amp; Co.</p>
                         <p>Senegal, French s. Beyrouth and Port Said, Messageries Maritimes.</p>
                         <p>Sigyn, Swed. s. Hudikswall, J. Ross.</p>
                         <p>Eleni, Ott. s. Calipoli and Rhodes, lsmiridi.</p>
                     </div>
                     <div type="item">
                         <head>Dec. 1.</head>
-                        <p>Ch. Christenson, Dan. s. West Hartlepool, Barber &amp; Son.</p>
+                        <p>Ch. Christenson, Dan. s. West Hartlepool, Barber &amp;amp; Son.</p>
                         <p>Byzantion, Greek s. Piraes and Crete, Kechsyas,</p>
                         <p>Ros, Swed. s. Newcastle.</p>
                     </div>
@@ -3632,8 +3632,8 @@
                     <p>Le Caire le 35 Novembre 1905.</p>
                 </div>
                 <div type="item">
-                    <head>Alexandria &amp; Ramleh Railway, Cy, Limited. AVIS</head>
-                    <p>L’Alexandria &amp; Ramleh Railway Cy, Ltd. a l’honneUr de rappeler an Public que le
+                    <head>Alexandria &amp;amp; Ramleh Railway, Cy, Limited. AVIS</head>
+                    <p>L’Alexandria &amp;amp; Ramleh Railway Cy, Ltd. a l’honneUr de rappeler an Public que le
                         dernier delai pour l’echange des anciens carnets de 50 billets qui ont ete supprimes
                         depuis le ler Novembre, expire le 30 du meme mois.</p>
                     <p>Par consequent, les detenteurs des anciens carnets sont pries de vouloir bien se
@@ -3651,7 +3651,7 @@
                     <p>{F.T. Rowlatt A.G.M. Dickson} Liquidators</p>
                 </div>
                 <div type="item">
-                    <head>The Khedivial Mail Steamship &amp; Graving Dock Company, Limited.</head>
+                    <head>The Khedivial Mail Steamship &amp;amp; Graving Dock Company, Limited.</head>
                     <p>NOTICE IS HEREBY GIVEN that the Eighth Ordinary General Meeting of the above Company will
                         be held at Winchester House, Old Broad Street, London, E.C., on Friday, 15th day of
                         December 1905, at noon, to receive and pass the Direotors’ Report and Accounts, to eleot
@@ -3786,7 +3786,7 @@
                             <cell/>
                             <cell/>
                             <cell>
-                                <hi rend="bold">LAND, &amp;;c.</hi>
+                                <hi rend="bold">LAND, &amp;amp;;c.</hi>
                             </cell>
                             <cell/>
                         </row>
@@ -3823,7 +3823,7 @@
                         <row>
                             <cell>"</cell>
                             <cell>4 3/16</cell>
-                            <cell>Comptoi Fin. &amp; Com.</cell>
+                            <cell>Comptoi Fin. &amp;amp; Com.</cell>
                             <cell>23</cell>
                         </row>
                         <row>
@@ -3835,19 +3835,19 @@
                         <row>
                             <cell>"</cell>
                             <cell>1 1/8</cell>
-                            <cell>Egypt. Invest. &amp; Agency</cell>
+                            <cell>Egypt. Invest. &amp;amp; Agency</cell>
                             <cell>—</cell>
                         </row>
                         <row>
                             <cell>"</cell>
                             <cell>1 7/32</cell>
-                            <cell>Trust &amp; Invest.</cell>
+                            <cell>Trust &amp;amp; Invest.</cell>
                             <cell>—</cell>
                         </row>
                         <row>
                             <cell>"</cell>
                             <cell>— 13/16</cell>
-                            <cell>Land &amp; Gen. Trust</cell>
+                            <cell>Land &amp;amp; Gen. Trust</cell>
                             <cell>—</cell>
                         </row>
                         <row>
@@ -3877,7 +3877,7 @@
                         <row>
                             <cell>"</cell>
                             <cell>5 1/16</cell>
-                            <cell>Urbaines &amp; Rurales</cell>
+                            <cell>Urbaines &amp;amp; Rurales</cell>
                             <cell>—</cell>
                         </row>
                         <row>
@@ -3933,7 +3933,7 @@
                         <row>
                             <cell>Lst.</cell>
                             <cell>— 29/32</cell>
-                            <cell>Eg. Spinning &amp; Weaving</cell>
+                            <cell>Eg. Spinning &amp;amp; Weaving</cell>
                             <cell>2 1/2</cell>
                         </row>
                         <row>
@@ -3981,7 +3981,7 @@
                         <row>
                             <cell>"</cell>
                             <cell>38</cell>
-                            <cell>Pressages &amp; Depots</cell>
+                            <cell>Pressages &amp;amp; Depots</cell>
                             <cell>102</cell>
                         </row>
                         <row>
@@ -3993,14 +3993,14 @@
                         <row>
                             <cell>Fcs.</cell>
                             <cell>29 —</cell>
-                            <cell>Sucreries &amp; Raffinerie</cell>
+                            <cell>Sucreries &amp;amp; Raffinerie</cell>
                             <cell>—</cell>
                         </row>
                         <row>
                             <cell/>
                             <cell/>
                             <cell>
-                                <hi rend="bold">NAVIGATION &amp;; WATER WORKS.</hi>
+                                <hi rend="bold">NAVIGATION &amp;amp;; WATER WORKS.</hi>
                             </cell>
                             <cell/>
                         </row>
@@ -4038,7 +4038,7 @@
                             <cell/>
                             <cell/>
                             <cell>
-                                <hi rend="bold">RAILWAYS &amp;; TRAMWAYS.</hi>
+                                <hi rend="bold">RAILWAYS &amp;amp;; TRAMWAYS.</hi>
                             </cell>
                             <cell/>
                         </row>
@@ -5066,7 +5066,7 @@
                             <cell>389 1/4  </cell>
                         </row>
                         <row>
-                            <cell>Vienna &amp; Trieste cheque</cell>
+                            <cell>Vienna &amp;amp; Trieste cheque</cell>
                             <cell>405 1/2 </cell>
                             <cell>406 3/4</cell>
                         </row>
@@ -5198,7 +5198,7 @@
                             <cell>5/3 —</cell>
                         </row>
                         <row>
-                            <cell>" Salt &amp; Soda</cell>
+                            <cell>" Salt &amp;amp; Soda</cell>
                             <cell>"</cell>
                             <cell>21/6 — </cell><cell>"</cell>
                             <cell>— —</cell>
@@ -5276,7 +5276,7 @@
                             <cell>— 1/4</cell>
                         </row>
                         <row>
-                            <cell> Egyptian Invest. &amp; Agency Ld.</cell>
+                            <cell> Egyptian Invest. &amp;amp; Agency Ld.</cell>
                             <cell>"</cell>
                             <cell>1 1/16 </cell><cell>"</cell>
                             <cell>— 1/4</cell>
@@ -5413,15 +5413,14 @@
                 <head>THE EGYPTIAN GAZETTE, FRIDAY, DECEMBER 1 1905.</head>
                 <div type="item">
                     <head>IRRIGATION ENGINEERING.</head>
-                    <p>By Sir Hanburt Brown, K.C.M.G., late Inspector General of
-                    Irrigation in Lower Egypt, and formerly in Upper Egypt.</p>
-                    <div type="item">
-                        <head>V.</head>
-                        <p>The Assouan reservoir of the Nile supple-
-                        ments a summer discharge in the river; but
+                    <p>By, Sir Hanburt Brown, K.C.M.G.. late Inspector-General of
+                        Irrigation in Lower Egypt, and formerly in Upper Egypt.</p>
+                    <p>v.</p>
+                    <p>The Assouan reservoir of the Nile supple-
+                        ments a summer discharge in the river ; but
                         in India there are storage reservoirs formed by
-                        dams constructed across gorges in the hills
-                        which entirely furnish the summer supply of
+                        dams constructed across, gorges in the hills
+                        which entirely, furnish, the summer supply of
                         the tracts depending on them without help
                         from any associated river. In the preparation
                         of the projects for such works as these, careful
@@ -5432,18 +5431,866 @@
                         into the reservoir. In the case of the Nile
                         storage the river discharges at the very site
                         of the reservoir, for all seasons and for all
-                        years of varying levels, were knwon, so that
+                        years of varying levels, were known, so that
                         the quantity of water available in any year for
                         filling the reservoir could be calculated with
                         much greater precision than is possible when
                         the calculation has to be based on rainfall
                         statistics and on an assumed proportion of
-                        "flow off."</p>
+                        “flow off.”</p>
+                    <p>There is one more source of water supply
+                        deserving of mention in connection with irri-
+                        gation, namely, wells. It is estimated that in
+                        British India no less than 13 million acres are
+                        watered from wells, or more than 25 per cent
+                        of the whole irrigated area of India. So that
+                        this source has its importance, but from an
+                        agricultural point of view rather than from
+                        that of the engineer.</p>
+                    <p>Mention has been made above of pumps as
+                        a means of artificially raising water tor irriga-
+                        tion on a comparatively small scale. In India
+                        pumping stations have hitherto taken no part
+                        in the irrigation of the country. But in Egypt
+                        pumps play an important part; and, at one
+                        time, 1883, it was proposed by the then Direc
+                        tor-General of Public Works to abandon all
+                        attempts to make the Delta Barrage do the
+                        work of artificially raising the water level of
+                        the Nile to the extent necessary for the irriga-
+                        tion of the Delta, and to erect powerful pump-
+                        ing stations as a substitute. The cost of work-
+                        ing these stations was estimated at £250,000 a
+                        year. At this critical moment of Egyptian irri-
+                        gation Sir Colin Scott Monecrieff was given
+                        charge of it, and the question whether the
+                        Delta should depend for its irrigation on the
+                        barrage restored or on pumping stations, prac-
+                        tically rested with him to decide. Fortunately
+                        for Egypt he preferred the barrage, add forth-
+                        with took steps to make it do its work, and
+                        with complete success. The barrage costs less
+                        than £10.000 a year to maintain and regulate,
+                        and without any farther expense is capable of
+                        distributing any increased supply that may be
+                        provided to meet the growing area of cultiva-
+                        tion ; whereas the cost of lifting the water by
+                        pumps—estimated at £250,000 a year in 1883,
+                        before the development of the Delta that has
+                        taken place during the past twenty years—
+                        would increase with the quantity of water to
+                        be lifted, and fluctuate with the price of coal.
+                        Moreover, a war might at some time have cut
+                        off the coal supply, and Egypt's cotton, now
+                        worth £5,000,000 a year, would have been
+                        lost. The barrage was undoubtedly the best
+                        servant to engage in the interests of Egypt. It
+                        has, since its restoration, become so efficient,
+                        and so unmistakably the proper instrument
+                        for the water distribution of the Delta, that
+                        one large pumping station, that had already
+                        been erected before Sir Colin's time, has since
+                        been dismantled and its engines and pumps
+                        transferred to another station which provides
+                        for the drainage of certain lands below sea
+                        level.</p>
+                    <p>This instance is given to show that the
+                        merits of pumping stations, as an alternative
+                        method of raising water, have sometimes to
+                        be considered in working out a project of
+                        irrigation. At the present moment there is a
+                        scheme under construction in Madras for the
+                        irrigation of 50,000 acres by pumping, the lift
+                        being from 10ft. to 12ft.</p>
+                    <p>Though the Government scheme of irriga-
+                        tion in Egypt dispenses with the aid of pumps
+                        —with the exception of an unimportant sur-
+                        vival at one point of the Delta-still a con-
+                        siderable area of its cultivation depends for
+                        its irrigation on pumping stations owned by
+                        private estates and individuals, as there is a
+                        large proportion of the cultivated area which
+                        is above the reach of “free flow" from the
+                        canals.</p>
+                    <p>As a conclusion to the consideration of the
+                        points which affect the drawing up of a canal
+                        scheme, a few words more concerning drainage
+                        may be added to what has already been said
+                        about its importance. The subject must not
+                        be set on one side to receive consideration
+                        after the canals have been made, and until it
+                        forces itself into prominence by the evils that
+                        result from its neglect The natural drainage
+                        lines, as has been said, should not be obstructed.
+                        They follow, as a rule, the depressions which
+                        lie between the ridges on which the canals
+                        should be run. But if there be no decided
+                        depressions, or if the land is flat, drains should
+                        be dug on the most convenient alignment
+                        between the canals, and, in such a case, it is
+                        the distribution of the canals rather than the
+                        physical features of the ground which de-
+                        termines the position of the drains.</p>
+                    <p>It is not an easy matter to decide what
+                        dimensions should be given to the drains. It
+                        is desirable, if the outfall allows, to keep the
+                        water surface in the drains 2ft. or 8ft. below
+                        soil. The maximum discharge which should
+                        be provided for will be proportional to the
+                        area to be drained and will depend on the
+                        rainfall as well as on the description of irriga-
+                        tion practiced. Rice land will discharge at
+                        least double the amount that ordinary crops
+                        do. In Egypt it was at one time assumed that
+                        one third of the water used for the irrigation
+                        of such crops as cotton and maize found its
+                        way into the drains, and 8 cubic metres a day
+                        per acre of area commanded was considered to
+                        be the quantity that represented this third.
+                        But, though this allowance may be sufficient
+                        for the main drains, it is not enough for the
+                        branches. For on the main drains a fairly
+                        constant discharge is maintained as the
+                        average drainage of a large extent of country,
+                        as some branch drains may be discharging one
+                        day and some another, the ones that are dis-
+                        charging being balanced by those that have
+                        ceased discharging. But the branch drains dis-
+                        charge under different conditions, flowing and
+                        not flowing alternately for let us assume, equal
+                        periods. Consequently, as the maximum flow
+                        must be that which determines the drain sec-
+                        tion, and, accepting 8 cubic metres a day per
+                        acre served by the drain as the average run
+                        off, we must allow a section that will carry the
+                        same allowance in half time, that is, we must
+                        allow for a discharge at the rate of 16 cubic
+                        metres a day per acre. On the minor branches
+                        the discharge is still more fitful, and the allow-
+                        ance of section most be still greater. Now the
+                        maximum discharge allowed in the canals for
+                        purposes of irrigation has been usually calcu-
+                        lated at the rate of 25 cubic metres a day per
+                        acres of gross area, the drainage maximum in
+                        any drain should, therefore, be something less
+                        than this, and it would seem to be sufficient to
+                        make the main drain below the inflow of the
+                        lowest branch drain capable of carrying a
+                        discharge calculated at the rate of 8 cubic
+                        metres a day per acre of land draining into it;
+                        and to make the minor branches, at the other
+                        or upper extremity of the drained area, capable
+                        of carrying 18 cubic metres a day per acre,
+                        while the intermediate drains would be given a
+                        discharging capacity at the rate of 15, 12, and
+                        10 cubic metres a day per acre according to
+                        their position on the drainage system to which
+                        they belonged. This example is given merely
+                        as a general illustration of the principle on
+                        which a drainage system should be designed,
+                        and not as laying down any details as to the
+                        amount of drainage which should be provided
+                        for, as different countries have different condi-
+                        tions which require to be met in each case.</p>
+                </div>
+                <div type="item">
+                    <head>NEW MILLS FOR EGYPTIAN COTTON.</head>
+                    <p>A return has been prepared by Mr W.
+                        Tattersal giving the number of new ootton
+                        -spinning mills erected, or about to be erected,
+                        in Lancashire by limited liability companies.
+                        From this it appears that seven mills contain-
+                        ing 540,000 spindles using Egyptian cotton
+                        have got fully to work within the last few
+                        months, and an equal number of Egyptian
+                        yarn mills with 610,000 spindles have partly
+                        commenced. In addition to these, 16 mills, to
+                        contain 1,605,000 spindles, all of which will
+                        spin Egyptian cotton, are in course of erection,
+                        making a total of 30 mills and 2,755,000
+                        spindles.</p>
+                    <p>The number of new mills just commenced
+                        spinning American cotton is three, with 240.000
+                        spindles, and there are in course of erection
+                        24 additional mills for American yarn, which
+                        will hold 1,960,000 spindles, a total of 27
+                        mills, and 2,200,000 spindles.</p>
+                    <p>Summarised, the totals are as follows:—</p>
+                    <table cols="3">
+                        <row role="label">
+                            <cell/>
+                            <cell/>
+                            <cell>Spindles.</cell>
+                        </row>
+                        <row>
+                            <cell>30</cell>
+                            <cell>Egyptian Yarn Mills</cell>
+                            <cell>2,755,000</cell>
+                        </row>
+                        <row>
+                            <cell>27</cell>
+                            <cell>American Yarn Mills</cell>
+                            <cell>2,200,000</cell>
+                        </row>
+                        <row>
+                            <cell>Total 57</cell>
+                            <cell/>
+                            <cell>Total 4,955,000.</cell>
+                        </row>
+                    </table>
+                    <p>The circular also points out that the increas-
+                        ed yam exports this year so far on the same
+                        ten months of 1904 are equal to the production
+                        of 12 average large sized factories (1,200,000
+                        spindles) working full hours during the period
+                        named.</p>
+                </div>
+                <div type="item">
+                    <head>EGYPTIAN BANKS.</head>
+                    <p>In a leaderette on the subject of Egyptian
+                        Banks, the “Financial Times" says: Although
+                        movements in the shares of Egyptian banks
+                        play rather a prominent part in the market for
+                        Egyptian securities, it must be understood that
+                        the decline recently seen in no way reflects
+                        upon the working of these concerns. Owing to
+                        the fact that a large Continental interest is
+                        attached to the development of Egypt, several
+                        of the newer banks, such as the National of
+                        Egypt and the Agricultural Bank of Egypt,
+                        have their capital in the form of "bearer"
+                        shares, which, of course, lenders speculation in
+                        them easier than in the English form of re-
+                        gistered shares. Speculators in Cairo and on the
+                        Continent would seem to have been dazzled by
+                        the great prosperity shown by Egypt of late
+                        years, and have pushed up the price of these
+                        shares to such a pitch that those well con-
+                        versant with business in the country have for
+                        a long time past considered that they were
+                        above the level which ordinary conditions
+                        should warrant their reaching. In consequence,
+                        many of the shares have been lifted from
+                        Europe, and have gone to Egypt, where the
+                        operators, relying upon loans from some of the
+                        purely local banks, have been carrying them as
+                        a speculation. When the usual pinch for money
+                        occasioned by the moving of the cotton crop
+                        was felt in the country, these speculators have
+                        found themselves in a rather awkward position,
+                        and, no doubt, they have had to throw over-
+                        board some of their holdings. This is the history
+                        of the present depression in the shares, and it
+                        does not in any way reflect upon the manage-
+                        ment of the concerns themselves.</p>
+                </div>
+                <div type="item">
+                    <head>EVERY SENSIBLE WOMAN NOW USES
+                        POMPPOY'S SKIN FOOD.(ad)</head>
+                </div>
+                <div type="item">
+                    <head>ARMY AND NAVY.
+                        (From our Correspondent).</head>
+                    <div type="item">
+                        <head>London, Nov. 21.</head>
+                        <p>Major D. K. E. Hall, A S.C., from service
+                            with the Egyptian Army, has been appointed
+                            second-in-command of the A.S.C. at Woolwich,
+                            in succession to Major A. E. Bramhall.</p>
                     </div>
+                    <div type="item">
+                        <p>Among recent changes in the Sudan Ad-
+                            ministration, Major C. K. Hawker, Cold-
+                            stream Guards, and Captain A. Sutherland,
+                            Argyll and Sutherland Highlanders, have been
+                            appointed Governors of the Provinces of
+                            Suakin and Bahr-el-Ghazal, respectively.</p>
+                    </div>
+                    <div type="item">
+                        <p>As already intimated in these notes, Major
+                            C. L. Armitage, Royal Inniskilling Fusiliers,
+                            second in command of the 1st Battalion at
+                            Victoria Barracks, Belfast, will shortly vacate
+                            that appointment under the age rules, to the
+                            regret of all ranks. Major H. O. D. Hickman,
+                            2nd Battalion at Cairo, has been ordered
+                            home to join the 1st Battalion in anticipa-
+                            tion of taking up the appointment of second
+                            in command. Major Hickman joined the 19th
+                            Yorkshire Regiment in 1880, and was trans-
+                            ferred ten years later to the Inniskillings, in
+                            which he obtained his majority in February,
+                            1900, whilst on active service. He saw ser-
+                            vice in the Nile Expedition of 1884-5 with
+                            the “Green Howards" (medal with clasp,
+                            and Khedive’s star), and whilst attached to
+                            the Egyptian Army, participated in the opera-
+                            tions of 1888 in the Sudan, including the
+                            action of Gemaizah (4th class Medjidieh, clasp)
+                            and he was with the 1st Battalion in its
+                            campaigning after the relief of Ladysmith,
+                            including the actions of Belfast and Lyden-
+                            berg and the operations in the Transvaal
+                            (medal with two clasps).</p>
+                    </div>
+                    <div type="item">
+                        <p>Lieutenant Colonel F.D.V. Wing, C.B.,
+                            Royal Horse Artillery, who commanded the
+                            69th Battery Royal Field Artillery at Talana
+                            Hill, the opening action of the Boer War,
+                            and in the defence of Ladysmith, has been
+                            selected for the command of the Lancashire
+                            Royal Field Artillery Militia.</p>
+                    </div>
+                    <div type="item">
+                        <p>Lieutenant R J. Collins, who has taken up
+                            the duties of aide-de-camp to the Sirdar,
+                            is a smart young officer of the Royal Berk-
+                            shire Regiment with a future. As an intelli-
+                            gence officer, and with the 2nd Battalion of
+                            his regiment, he did good work in the South
+                            African War, particularly in the arduous work
+                            near its close. He has been doing duty with
+                            the Khedive’s Army for some time.</p>
+                    </div>
+                    <div type="item">
+                        <p>The  S.S. Sicilia will leave Southampton
+                            on Saturday next with about 1,000 troops—
+                            principally artillery and infantry drafts for
+                            batteries, companies, and battalion in the Pun-
+                            jab—on board for the port of Karachi, where
+                            the liner is due about the l8th prox.</p>
+                    </div>
+                    <div type="item">
+                        <p>The 5th Battalion Royal Garrison Regiment
+                            arrived at Liverpool today from Halifax,
+                            N.S., for disbandment</p>
+                    </div>
+                    <div type="item">
+                        <p>Captain the Hon. R F. Boyle will hoist his
+                            pennant as flag captain of the cruiser Levia-
+                            than at Portsmouth on the 5th prox., on
+                            which date the cruiser will be re-commis-
+                            sioned to carry the flag of Rear-Admiral the
+                            Hon. Hedworth Lambton, C.V.O., C.B. com-
+                            manding the Third Cruiser Squadron attached
+                            to the Mediterranean Fleet</p>
+                    </div>
+                    <div type="item">
+                        <p>It is reported from New York that when
+                            Prince Louis of Battenburg was ready to leave
+                            with the Second Cruiser Squadron for Gibral-
+                            tar, some one thousand of his handymen
+                            were missing—the temptations of New York
+                            being too much for them.</p>
+                    </div>
+                    <div type="item">
+                        <p>Doctors have differed since the science of
+                            medicine was first invented, and we might
+                            leave them to fall out, to the end of the chapter,
+                            were it not for the mischievous results that
+                            sometimes follow. There is a controversy rag-
+                            ing at this moment between the champions and
+                            opponents of a new scheme for minimising, if
+                            not eliminating, enteric fever from troops both
+                            in peace and war. An eminent civil doctor, Dr.
+                            Leigh Canney, of Assouan, has established a
+                            theory that with a proper system of sterilising
+                            drinking water the terrible outbreaks of disease
+                            might be practically avoided. It only needs
+                            organisation, a little elaborate; perhaps, but
+                            perfectly feasible, by means of which pure
+                            water can always be within reach of the
+                            soldiers, in camp and quarters, on the march,
+                            and in the fighting line. Carts with water on
+                            the boil are to be perpetually available, and
+                            their presence near the front is deemed of im-
+                            portance  only second to that of bringing up
+                            ammunition. The principle was, as a matter of
+                            fact, accepted soon after it was propounded,
+                            and the system seemed likely to be introduced
+                            in our Army a couple of years ago. But the
+                            proposal has hung fire ever since, mainly
+                            because it did not commend itself to our Army
+                            Medical Advisory Board. The only reason
+                            given is that the authorities contend that the
+                            enteric bacillus is not invariably water-borne.
+                            There are other avenues of infection, such as
+                            air, dust, and flies, although it is not denied
+                            that water is the principal. In other words,
+                            because opinions an not quite agreed on the
+                            sources of the disease no steps are to be taken
+                            to combat it when it appears, and we shall
+                            assuredly he overtaken by a similar epidemic
+                            as in the Boer War, with the same lethal con-
+                            sequences . It must be accepted as a reproach
+                            to us that the Japanese have shown a more
+                            enlightened spirit and carried out the essentials
+                            of the sterilising scheme in their recent great
+                            campaign.</p>
+                    </div>
+                    <div type="item">
+                        <p>A good deal of fun has been poked at the
+                            Army Council for their late order with regard
+                            to polo playing. It can hardly be possible that
+                            the game is so little understood by the rulers
+                            of the British Army that it is found necessary
+                            to forbid officers to ride their chargers when
+                            playing it. A polo pony might and has been
+                            need as a charger, but the contrary is hardly
+                            possible. We shall hear next that the automo-
+                            bile, of which there are some now on public
+                            charge, or the elephant, is tabooed. The atti-
+                            tude of the authorities towards polo is rather
+                            strange. This last order grew out of a humble
+                            request from those interested in the game that
+                            the War Office should express its wishes and
+                            lay down rules and regulations for polo. The
+                            answer was a contemptuous repudiation of the
+                            game entirely; it did not care for polo or
+                            recognise it in any way. It did not quite like
+                            to forbid it—that would have been too retro-
+                            grade in regard to a sport which is universally
+                            admitted to have its uses far beyond mere
+                            amusement. The game develops high qualities,
+                            skill, and readiness of hand and eye, great
+                            promptitude in action, and encourages fine
+                            horsemanship. It may, of course, lead to 
+                            extravagance—prohibitory prices are sometimes
+                            paid for ponies - but this could be regulat-
+                            ed by authority, and the advantages gained
+                            are far in excess of the possible drawbacks.</p>
+                    </div>
+                </div>
+                <div type="item">
+                    <head>C. BRANDAUER &amp; Co’s.(ad)</head>
+                </div>
+                <div type="item">
+                    <head>CALENDAR OF THE WEEK.
+                        (Coptic and Mohamedan.)</head>
+                    <div type="item">
+                        <head>Nov.</head>
+                        <table cols="3">
+                            <row>
+                                <cell>Sun.</cell>
+                                <cell>26</cell>
+                                <cell>Season for navigation in the Indian
+                                    Ocean.</cell>
+                            </row>
+                            <row>
+                                <cell>Mon.</cell>
+                                <cell>27</cell>
+                                <cell>Sow fenugreek (helbeh).</cell>
+                            </row>
+                            <row>
+                                <cell>Tues.</cell>
+                                <cell>28</cell>
+                                <cell>Avoid voyaging in the Mediterra-
+                                    nean Sea.</cell>
+                            </row>
+                            <row>
+                                <cell>Wed.</cell>
+                                <cell>29</cell>
+                                <cell>Food taken from the water is
+                                    reoommended.</cell>
+                            </row>
+                            <row>
+                                <cell>Thurs.</cell>
+                                <cell>30</cell>
+                                <cell>Abundance of clouds. The close
+                                    of night is cold.</cell>
+                            </row>
+                        </table>
+                    </div>
+                    <div type="item">
+                        <head>Dec.</head>
+                        <table cols="3">
+                            <row>
+                                <cell>Fri.</cell>
+                                <cell>1</cell>
+                                <cell>Ripening of chestnuts. Appearance
+                                    of winter vegetables.</cell>
+                            </row>
+                            <row>
+                                <cell>Sat.</cell>
+                                <cell>2</cell>
+                                <cell>Disturbance of the bile. Avoid
+                                    drinking stater at night</cell>
+                            </row>
+                        </table>
+                    </div>
+                </div>
+                <div type="item">
+                    <head>Laxatine(ad)</head>
+                </div>
+                <div type="item">
+                    <head>INSTITUTE OF MASSAGE.</head>
+                    <p>As practised in the Faculty of the Royal
+                        University of Berlin. Under the management of
+                        Sister H. Zandt.</p>
+                    <p>Telephone No. 667. Alexandria: 9, Rue
+                        Toussoun Pasha.</p>
+                    <p>Consultations: 7—12 a.m. for ladies and
+                        children. 2—5 p.m for gentlemen.</p>
+                    <p>Following Maladies are treated :</p>
+                    <p>Diseases of Abdominal Organs : Dyspepsis,
+                        Catarrh, Dilatation of stomach, Diarrhea, etc.</p>
+                    <p>Affections of the nervous system and their
+                        complications: Anesthesia, Hyperaesthesia,
+                        Neuralgia, Nearasthenia, Paralysis, Insomnia,
+                        Sciatica, etc.</p>
+                    <p>Constitutional Diseases: Anaemia, Obesity,
+                        Gout, Diabetes, etc.</p>
+                    <p>Diseases of the Muscles: Contracture, Rheuma-
+                        tisms, Contusions (bruise) Atrophies, etc.</p>
+                    <p>Diseases of Joints and bones: Arthritis, Dis-
+                        articulations, Sprains, Fractures, Ankyloses,etc.</p>
+                    <p>Special diseases of women: Abdominal fix-
+                        ations and Displacements of the Genital Organs.</p>
+                    <p>Deviations of the vertebral column: Scoliosis,-
+                        Hunch-back, Lordosis, etc.</p>
+                    <p>Cosmetic massage: Beautifying the face and-
+                        body. Wrinkles, enlarged pores and all facial-
+                        blemishes removed.</p>
+                    <p>Vibratory and Thure-Brandt massage.</p>
+                    <p>Electricity in all its forms.</p>
+                </div>
+                <div type="item">
+                    <head>NOTICE.</head>
+                    <p>Merchants, Tradesmen and others in Cairo
+                        wishing to do business with British firms are
+                        requested to send their names, addresses and
+                        particulars of their businesses to Mr. Peter
+                        Black, "The Commercial Bureau,” P. O. Box</p>
+                    <p>c.50, Cairo.	26716-12</p>
+                </div>
+                <div type="item">
+                    <head>Cheap Prepaid Advertisements</head>
+                    <p>Under this heading advertisements are inserted at the following rates :—</p>
+                    <table>
+                        <row>
+                            <cell/>
+                            <cell>once</cell>
+                            <cell>3 times</cell>
+                            <cell>6 times</cell>
+                        </row>
+                        <row>
+                            <cell>15 words</cell>
+                            <cell>P.T. 5</cell>
+                            <cell>P.T. 10</cell>
+                            <cell>P.T. 15</cell>
+                        </row>
+                        <row>
+                            <cell>30 words</cell>
+                            <cell>8</cell>
+                            <cell>16</cell>
+                            <cell>24</cell>
+                        </row>
+                        <row>
+                            <cell>Every 10 words,
+                                beyond 30 words</cell>
+                            <cell>2</cell>
+                            <cell>4</cell>
+                            <cell>6</cell>
+                        </row>
+                    </table>
+                    <p>The address is counted. The advertisement
+                        must appear on consecutive days for above
+                        rates to be obtained. 50% extra is charged
+                        the advertisements not appearing consecutively</p>
+                    <p>All such advertisements must be prepaid, and
+                        to this rule no exception whatever will
+                        be made. Letters in reply to advertise-
+                        ments will be posted to any address is a
+                        few stamps are sent by the advertiser to
+                        cover postage.</p>
+                </div>
+                <div type="item">
+                    <head>A GARD'S INTERNATIONAL INDUSTRIES
+                        AND TRADE MARKS REGISTER.-</head>
+                    <p>A useful business directory containing addresses
+                        of all important business firms of Great Britain
+                        the Continent, and Egypt. Circulating all over
+                        Europe and America. Price-One pound Sterling
+                        Post Free.</p>
+                    <p>AGARD'S INTERNATIONAL HOTEL
+                        GUIDEsent post free to all first class Hotels
+                        throughout Europe, America, the Colonies and
+                        Egypt. The bust reference book for travellers.</p>
+                </div>
+                <div type="item">
+                    <p>ALEXANDRIA. — German Lessons given.
+                        Apply, No. 26,792, “Bgyptian Gazette” offices.</p>
+                </div>
+                <div type="item">
+                    <p>ADVERTISING AGENTS.—The best public
+                        Advertising sites in Alexandria belong to
+                        G. Vestri &amp; Co., Advt Agents, St. Catherine's
+                        Square. Special rates for permanent clients.
+                        Moderate-terms. Prompt despatch.</p>
+                </div>
+                <div type="item">
+                    <p>ANGLO-AMERICAN Typewriting Agency,
+                        19, Boulevard de Ramleh. Only English
+                        typewriting office in Alexandria. Typewriting
+                        by copy or by dictation. Densmore Typewriter,
+                        (Official Typewriter of the St. Louis Exhi-
+                        bition). “Success” Typewriter Supplies at
+                        London prices. Cleaning and refitting of all
+                        typewriters.</p>
+                </div>
+                <div type="item">
+                    <p>AN ENGLISH OR GERMAN NURSE
+                        GOVERNESS for two children of 6 and 2
+                        years is wanted ; good references required.
+                        Call between 10-2 o'clock. Mme Back, Villa
+                        Herz Bey, Kasr -el Doubara, near Kasr el Nil
+                        Bridge.</p>
+                </div>
+                <div type="item">
+                    <p>BLICK TYPEWRITERS, No. 5 £9, No. 7
+                        £11- W.T. Emmens, 99 Rue Attarine,
+                        Alexandria, Address, Post Office Box 35.</p>
+                </div>
+                <div type="item">
+                    <p>CHEF. — First-class European Chef required
+                        for the Union Club. Apply, Secretary,
+                        Union Club, Alexandria.</p>
+                </div>
+                <div type="item">
+                    <p>ENGLISHMAN, 36, Accountant, now with
+                        leading British firm, wishes post in Egypt.
+                        Strong, active, thoroughly experienced. Excel-
+                        lent references present employers. Offers to
+                        "Accountant," 7, Great Winchester Street,
+                        London, EC.</p>
+                </div>
+                <div type="item">
+                    <p>GENTLEMAN would go as teacher of Eng-
+                        lish. Meabank, c/o G. P. 0., Cairo.</p>
+                </div>
+                <div type="item">
+                    <p>LIFE ASSURANCE AGENCY.- Applica-
+                        tions are invited for the Chief Agency
+                        for Alexandria of the Standard Life Assur-
+                        ance Company, which will shortly become
+                        vacant Liberal terms will be granted to a
+                        respectable firm, with influential connections.
+                        Apply, in first instance, by letter only, to the
+                        Secretary, Standard Life Office, Standard
+                        Buildings, Cairo.</p>
+                </div>
+                <div type="item">
+                    <p>LADY having no further use for her Nurse
+                        (for children) can highly recomment her
+                        for any such vacancy. Apply between 2 and 3
+                        o'clock, Mrs. Rom, Shepheard's, Cairo.</p>
+                </div>
+                <div type="item">
+                    <p>ON DEMAND 3 chambres non-meublees
+                        avec service pour deux messieurs. Ecrire
+                        No. 26,811, bureau du journal.</p>
+                </div>
+                <div type="item">
+                    <p>TO LET.—House at Bulkeley, one minute
+                        from the station, six rooms, bath-room,
+                        kitchen, cellars, electric light, telephone,
+                        garden, and every convenience. Apply to
+                        Miss Baker, Hotel du Nil, Alexandria.</p>
+                </div>
+                <div type="item">
+                    <p>TO LET. - From1st December to 1st March.
+                        A Furnished Flat in Kasr-el-Nil District
+                        Apply to Messrs. Cougdon and Co:, Cairo.</p>
+                </div>
+                <div type="item">
+                    <p>YOUNG GENTLEMAN having few honrs
+                        to spare daily, is open to undertake
+                        secretarial or clerical work. Perfect English,
+                        French, Spanish, and fair Arabic. Highest
+                        References. Address, No. 26,808, "Egyptian
+                        Garette’ offices.</p>
+                </div>
+                <div type="item">
+                    <head>DAVIES
+                        BRYAN &amp; Co.</head>
+                    <p>Continental Hotel Buildings
+                        Cairo.
+                        St. David's Buildings,
+                        Alexandria.
+                        and 35-37 Noble Street
+                        London, E.C.</p>
+                    <p>English Tailors,
+                        Drapers
+                        and Outfitters.</p>
+                    <p>TRAVELLING REQUISITES :
+                        COMPRESSED CANE TRUNKS. SOLID LEATHER OVERLAND
+                        TRUNKS.
+                        GLADSTONE &amp; KIT BAGS.
+                        SUIT CASES, RUGS, &amp;c.</p>
+                    <p>ATHLETIC GOODS:
+                        A VARIED STOCK, INCLUDING
+                        Slazenger’s Doherty
+                        “E.G.M ” Demon;
+                        AND
+                        Ayre’s Central
+                        Strung Racquets.</p>
+                    <p>TENNIS BALLS
+                        FRESH SUPPLY WEEKLY.</p>
+                    <p>BOOTS &amp; SHOES.</p>
+                    <p>All the newest shapes in the best
+                        English makes:—
+                        BUCKSKIN TENNIS BOOT AT £1
+                        A SPECIALITY.
+                        Owing to the increased business
+                        in this Department a new Show-
+                        room hats been fitted up where better
+                        attention can be given to Customers.</p>
+                    <p>CLOTHS:
+                        The largest Stock in Egypt of
+                        Cloths of the best British Manu-
+                        facture :
+                        TROPICAL TWEEDS,
+                        FLANNELS, DRILLS,
+                        &amp;c., &amp;c.
+                        All garments cut by experienced
+                        English cutters. Fit and style gua-
+                        ranteed.</p>
+                    <p>GENTS’ OUTFITTING:
+                        The newest Shades in
+                        Crepe de Chene Ties.
+                        Cellular. Oxford, Zephyr
+                        Shirts and Pyjamas in great
+                        variety.</p>
+                    <p>Special Attention paid to Shirts
+                        Made to Measure.
+                        HOSIERY AND UNDERCLOTHING
+                        IN THE BEST MAKES.
+                        PANAMA, STRAW, &amp; FELT HATS
+                        CORK, &amp; PITH HELMETS.
+                        CAPS.</p>
+                    <p>HOUSEHOLD LINEN AT SPECIALLY
+                        CHEAP PRICES.
+                        TABLE CLOTHS, NAPKINS, SHEETS,
+                        AND PILLOW CASES.
+                        FLANNELETTES, VIYELLAS AND
+                        CEYLON FLANNELS.</p>
+                    <p>SOAP, PERFUMERY,
+                        RUBBER SPONGES, BRUSHES,
+                        STUDS, MIRROS (hand &amp; shaving)
+                        FOUNTAIN PENS, &amp;c., &amp;c.</p>
+                    <p>Davies Bryan &amp; Co.,
+                        Cairo &amp; Alexandria.</p>
                 </div>
             </div>
             <div type="page" n="8">
-                
+                <head>THE EGYPTIAN GAZETTE; FRIDAY, DECEMBER 1, 1905</head>
+                <div type="item">
+                    <div type="item">
+                        <head>LONDON STOCK EXCHANGE. (table)</head>
+                    </div>
+                    <div type="item">
+                        <head>ARRIVAGES A MINET-EL-BASSAL (table)</head>
+                    </div>
+                    <div type="item">
+                        <head>NOLIS (table)</head>
+                    </div>
+                    <div type="item">
+                        <head>RAMLEH RAILWAY CO. ALEXANDRIA TRAMWAY CO. (table)</head>
+                    </div>
+                    <div type="item">
+                        <head>PRIMES DES CONTRATS (table)</head>
+                    </div>
+                    <div type="item">
+                        <head>EGYPTIAN MINING MARKET. (table)</head>
+                    </div>
+                    <div type="item">
+                        <head>DELTA LIGHT RAILWAYS, ltd. (table)</head>
+                    </div>
+                    <div type="item">
+                        <head>GENERAL PRODUCE ASSOCIATION (table)</head>
+                    </div>
+                    <div type="item">
+                        <head>EGYPTIAN MARKETS, LIMITED (table)</head>
+                    </div>
+                    <div type="item">
+                        <p>Allen, Alderson &amp; Co. Limited.</p>
+                        <p>SOLE AND EXCLUSIVE AGENTS FOR</p>
+                        <p>Messrs. RUSTON, PROCTOR &amp; CO., LIMITED, Lincoln. Fixed and Portable Steam
+                            and Oil Engines, Corn Mills. Paten Tibben-making Thrashing Machines.</p>
+                        <p>Messrs. PLATT BROTHERS &amp; CO., LIMITED, Oldham. Cotton Ginning
+                            Machinery.</p>
+                        <p>Messrs. JOHN FOWLER &amp; CO., LIMITED, Leeds. Steam Ploughing Machinery aad
+                            Sundries.</p>
+                        <p>THE CENTRAL CYCLONE CO., LIMITED, London. Grinding and Pulverising
+                            Machinery.</p>
+                        <p>Messrs. CAMMELL, LAIRD &amp; CO., LD.. of Sheffield. Steel Ralls, springs,
+                            buffers, &amp;c. — Patent sand blast files.</p>
+                        <p>Messrs. MERRYWEATHER &amp; SONS, London. Steam and Manual Fire Engines.</p>
+                        <p>Messrs. F. REDDAWAY &amp; CO., LD., Pendleton, Manchester. The Camel Brand
+                            Belting, etc., etc.</p>
+                        <p>Ratner’s Safes.</p>
+                        <p>THE ENGELBERG RICE HULLER. Gilkes Vortex Turbines.</p>
+                        <p>Messrs. A. RANSOME &amp; Co., LIMITED, Newark-on-Trent. Wood Working
+                            Machinery and Appliances.</p>
+                        <p>McCORMICK’S REAPERS &amp; MOWERS.</p>
+                        <p>PLANET JUNIOR AGRICULTURAL IMPLEMENTS. Horse Hoes, Seed, Drills, etc.,
+                            etc.</p>
+                        <p>OLIVER PLOUGHS.</p>
+                        <p>Agent in Cairo: M. A. FATTUCCI.</p>
+                        <p>Agent In Khartoum: RIETI &amp; BERTELLI.</p>
+                        <p>Chatwood's Safes in Stock.</p>
+                        <p>Agents for Green's Economisers.</p>
+                    </div>
+                    <div type="item">
+                        <head>Milner's Safes (ad)</head>
+                    </div>                    
+                    <div type="item">
+                        <head>NOUVEAU REMEDE PURGATIF IDEAL (ad)</head>
+                    </div>
+                    <div type="item">
+                        <head>CAIRO SEWAGE TRANSPORT Cy., Ld. (ad)</head>
+                    </div>
+                    <div type="item">
+                        <head>COALS (table)</head>
+                    </div>
+                    <div type="item">
+                        <head>RESUME
+                            DE LA
+                            SITUATION COTONNIERE (table)</head>
+                    </div>
+                    <div type="item">
+                        <head>TARIF D’ EXPORTATION (table)</head>
+                    </div>
+                    <div type="item">
+                        <head>CREDIT LYONNAIS (table)</head>
+                    </div>
+                    <div type="item">
+                        <p>L’EGYPTIAN GAZETTE est en vent
+                            dans les rues du Caire tous les soirs a
+                            h.80, excepte les dimanches et jours feries.
+                            Le journal est aussi en cente aux gares du
+                            Caire, d'Alexandrie, de Tantah, de Du
+                            manhour de Kafr-Zayat et de Zugarig. Pris
+                            numeric du jour, 1 P.T.</p>
+                    </div>
+                    <div type="item">
+                        <head>STEINEMANN, MABARDI &amp; Co (ad)</head>
+                    </div>
+                    <div type="item">
+                        <head>Egyptian Delta Light Railways Co., Limited. (table)</head>
+                    </div>
+                    <div type="item">
+                        <head>THE UNDERWRITERS' FIRE EXTINGUISHER
+                            THOS. HINSHELWOOD &amp; Co. (ad)</head>
+                    </div>
+                    <div type="item">
+                        <head>ORENSTEIN &amp; KOPPEL, LTD. (ad)</head>
+                    </div>
+                    <div type="item">
+                        <head>Thos. Cook &amp; Son (Egypt), Ltd. (ad)</head>
+                    </div>
+                </div>
             </div>
         </body>
     </text>
