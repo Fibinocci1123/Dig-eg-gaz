@@ -116,10 +116,10 @@
                             <head>London, December 1.</head>
                             <p>It is believed that to-day the Cabinet decid-
                                 ed upon resigning without dissolving.</p>
-                            <p>It is understood that Mr. Balfour will see
-                                the King early next week, The Radical papers
-                                now intimate that Sir Henry Campbell-Banner-
-                                man is prepared to accept office if the King
+                            <p>It is understood that <persName ref="https://www.wikidata.org/wiki/Q19008">Mr. Balfour</persName> will see
+                                <persName ref="https://www.wikidata.org/wiki/Q20875">the King</persName> early next week, The Radical papers
+                                now intimate that <persName ref="https://www.wikidata.org/wiki/Q106618">Sir Henry Campbell-Banner-
+                                man</persName> is prepared to accept office if <persName ref="https://www.wikidata.org/wiki/Q20875">the King</persName>
                                 desires him so to do.</p>
                             <p>(Reuter)</p>
                         </div>
@@ -138,7 +138,7 @@
                         <div type="item">
                             <head>Paris, December 1.</head>
                             <p>The Assize Court has acquitted the prisoners
-                                accused of the attempt made on King Alfonso's
+                                accused of the attempt made on <persName ref="https://www.wikidata.org/wiki/Q18363">King Alfonso</persName>'s
                                 life on May 31.</p>
                             <p>(Havas)</p>
                         </div>
@@ -147,7 +147,7 @@
                         <head>M. JALUZOT'S TRIAL</head>
                         <div type="item">
                             <head>Paris, December 1.</head>
-                            <p>M. Jaluzot will appear before the Correc-
+                            <p><persName ref="https://www.wikidata.org/wiki/Q1266110">M. Jaluzot</persName> will appear before the Correc-
                                 tional Court on the 28th inst.</p>
                             <p>(Havas)</p>
                         </div>
