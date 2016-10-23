@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main" level="m">Egyptian Gazette</title>
-                <title type="sub" level="m">An encoded transcription</title>
-                <principal>Samantha Lappin</principal>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Samantha Lappin</editor>
+                <principal>Will Hanley</principal>
             </titleStmt>
             <editionStmt>
                 <edition>
-                    <date>2016</date>
+                    <date when="2016-09-19">2016-10-23</date>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -20,7 +22,7 @@
             <sourceDesc>
                 <bibl>
                     <title>Egyptian Gazette</title>
-                    <date>2 December 1905</date>
+                    <date when="1905-01-01">1905-11-29</date>
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -28,6 +30,8 @@
     <text>
         <body>
             <div type="page" n="1">
+                <head>THE EGYPTIAN GAZETTE</head>
+                <head type="sub">No. 7360] ALEXANDRIA, SATURDAY, DECEMBER 2, 1905. [EIGHT PAGES P.T. 1. </head>
             </div>
             <div type="page" n="2">
             </div>
@@ -876,4 +880,3 @@
         </body>
     </text>
 </TEI>
-
