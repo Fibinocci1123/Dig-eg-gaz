@@ -38,7 +38,8 @@
                 
             </div>
             <div type="page" n="3">
-                <head>The Egyptian Gazette, Monday, November 27, 1905.</head>
+                <dateline>The Egyptian Gazette, Monday, November 27, 1905.</dateline>
+                <cb n="1"/>
                 <div type="item">
                     <head>SITUATON IN RUSSIA.</head>
                     <div type="item">
@@ -46,7 +47,7 @@
                             MUTINY AT SEVASTOPOL.
                             AN ADMIRABLE SHOT.</head>
                         <div type="item">
-                            <head>St. Petersburg, November 25.</head>
+                            <dateline>St. Petersburg, November 25.</dateline>
                             <p>Reports from the provinces show that serious
                                 risings of peasants in many country districts,
                                 and of strikers in the towns, continue. The
@@ -61,7 +62,7 @@
                                 character.</p>
                         </div>
                         <div type="item">
-                            <head>Sevastopol, November 25.</head>
+                            <dateline>Sevastopol, November 25.</dateline>
                             <p>The sailors and a regiment of troops have
                                 mutinied. Rear Admiral Pessrevaki was shot
                                 and seriously wounded while haranguing the
@@ -73,7 +74,7 @@
                             <p>(Reuter)</p>
                         </div>
                         <div type="item">
-                            <head>St. Petersburg, November 26.</head>
+                            <dateline>St. Petersburg, November 26.</dateline>
                             <p>An official communique ascribes the mutiny
                                 at Sevastopol to the Socialist propoganda. The
                                 gravity of the situation is admitted, though it
@@ -99,13 +100,13 @@
                             <p>(Reuter)</p>
                         </div>
                         <div type="item">
-                            <head>Moscow, November 25.</head>
+                            <dateline>Moscow, November 25.</dateline>
                             <p>The strike is spreading and strikers are
                                 looting indiscriminately.</p>
                             <p>(Reuter)</p>
                         </div>
                         <div type="item">
-                            <head>Sevastopol, November 26.</head>
+                            <dateline>Sevastopol, November 26.</dateline>
                             <p>The sailors have mutinied. Admiral Pesa-
                                 revaki has been wounded and an officer kill-
                                 ed. The mutiny has partly spread to the gar-
@@ -179,6 +180,7 @@
                         Banadetti, M.D. Chiesa and 63 third class
                         passengers.</p>
                 </div>
+                <cb n="2"/>
                 <div type="item">
                     <head>LOCAL AND GENERAL.</head>
                     <div type="item">
@@ -331,6 +333,7 @@
                         general holiday, the Egyptian Gazette will no
                         be published.</p>
                 </div>
+                <cb n="3"/>
                 <div type="item">
                     <head>1906 BUDGET ESTIMATES.
                         REDUCTION IN TAXATION.</head>
@@ -502,12 +505,13 @@
                         tion of the Mahmoudieh Canal, which will be
                         kept at a level sufficient for navigation only.</p>
                 </div>
+                <cb n="4"/>
                 <div type="item">
                     <head>LORD CURZON'S VISIT.
                         MUCH IMPROVED IN HEALTH.</head>
                     <div type="item">
                         <head>(FROM OUR CORRESPONDENT.)</head>
-                        <p>Suez, Sunday.</p>
+                        <dateline>Suez, Sunday.</dateline>
                         <p>As I wired you yesterday, the R.I.M.S.
                             Dufferin arrived at Suez in the afternoon
                             flying the Viceroy's flag. As soon as she drop-
@@ -627,6 +631,7 @@
                     <p>Table d’Hote Luncheons &amp; Dinners Served on the Terrace.</p>
                     <p>DELIGHTFUL SITUATION - SEA BREEZES.</p>
                 </div>
+                <cb n="5"/>
                 <div type="item">
                     <head>DAIRA SANIEH COMPANY.
                         LAST STEP IN LIQUIDATION.</head>
@@ -750,6 +755,7 @@
                     <p> ALEXANDRIA: 7 Rue de la Poste. </p>
                     <p>CAIRO opposite the Tramways Co. Works, Sharia Sahal, Kasr-el-Nil</p>
                 </div>
+                <cb n="6"/>
                 <div type="item">
                     <head>THE SUCRERIES COMPANY.
                         MEETING OF SHAREHOLDERS.</head>
