@@ -38,27 +38,27 @@
                 
             </div>
             <div type="page" n="3">
-                <head>THE EGYPTIAN GAZETTE, WEDNESDAY, NOVEMBER 29 1905</head>
+                <dateline>THE EGYPTIAN GAZETTE, WEDNESDAY, NOVEMBER 29 1905</dateline>
                 <cb n="1"/>
                 <div type="item">
                     <head>RUSSIAN REVOLUTION.
                         SERIOUS SITUATION AT SEVASTOPOL.
                         ARMY IN REVOLT.</head>
                     <div type="item">
-                        <head>St. Petersburg, November 27.</head>
+                        <dateline>St. Petersburg, November 27.</dateline>
                         <p>The latest accounts from Sevastopol vary as
                             regards details, but they seem to indicate that
                             the mutiny is subsiding.</p>
                         <p>(Reuter)</p>
                     </div>
                     <div type="item">
-                        <head>St. Petersburg, November 27.</head>
+                        <dateline>St. Petersburg, November 27.</dateline>
                         <p>The events at Sevastopol exceed in gravity
                             all recent events.</p>
                         <p>(Havas)</p>
                     </div>
                     <div type="item">
-                        <head>St. Petersburg, November 28.</head>
+                        <dateline>St. Petersburg, November 28.</dateline>
                         <p>The situation at Sevastopol is very obscure,
                             but it appears that the mutiny is of a revolu-
                             tionary character. It began by the rews of the
@@ -78,7 +78,7 @@
                         <p>(Reuter)</p>
                     </div>
                     <div type="item">
-                        <head>Sevastopol, November 28.</head>
+                        <dateline>Sevastopol, November 28.</dateline>
                         <p>The Panteleimon is now in the hands of the
                             authorities, but the mutinied crew and soldiers
                             have shut themselves up in one of the bar-
@@ -89,7 +89,7 @@
                         <p>(Reuter)</p>
                     </div>
                     <div type="item">
-                        <head>Moscow, November 28.</head>
+                        <dateline>Moscow, November 28.</dateline>
                         <p>The president and numerous members of
                             the peasants congress here have been arrested
                             owing to incendiary speeches. The governor-
@@ -97,7 +97,7 @@
                         <p>(Reuter)</p>
                     </div>
                     <div type="item">
-                        <head>St. Petersburg, November 28.</head>
+                        <dateline>St. Petersburg, November 28.</dateline>
                         <p>The attitude of the army is the most serious
                             feature in the situation. It is admitted here
                             that a spirit of revolt pervades the whole army
@@ -110,7 +110,7 @@
                         <p>(Reuter)</p>
                     </div>
                     <div type="item">
-                        <head>Vladivostok, November 27.</head>
+                        <dateline>Vladivostok, November 27.</dateline>
                         <p>Thousands of Russian prisoners who have
                             arrived from Japan have mutinied. They at-
                             tacked the Officers' Club yesterday, killing and
@@ -123,7 +123,7 @@
                     <head>UNIVERSAL SUFFRAGE IN AUSTRIA
                         HUGE DEMONSTRATION.</head>
                     <div type="item">
-                        <head>Vienna, November 28.</head>
+                        <dateline>Vienna, November 28.</dateline>
                         <p>To-day the Socialists organised a huge or-
                             derly universal suffrage demonstration on the
                             occasion of the opening of the Reichsrath.
@@ -133,7 +133,7 @@
                         <p>(Reuter)</p>
                     </div>
                     <div type="item">
-                        <head>Vienna, November 28.</head>
+                        <dateline>Vienna, November 28.</dateline>
                         <p>A demonstration, in which, it is estimated,
                             200.000 persons took part, has been held
                             here in favor of universal suffrage. A similar
@@ -145,7 +145,7 @@
                     <head>HOME POLITICS.
                     "NO GOVERNMENT CRISIS."</head>
                     <div type="item">
-                        <head>London, November 28.</head>
+                        <dateline>London, November 28.</dateline>
                         <p>Mr. Austin Chamberlan, speaking at Red-
                         ditch, said that, so far as his experiences went,
                         there had been no Government crisis, neither
@@ -153,7 +153,7 @@
                         <p>(Reuter)</p>
                     </div>
                     <div type="item">
-                        <head>London, November 28.</head>
+                        <dateline>London, November 28.</dateline>
                         <p>Speaking at Newcastle under Lyne, Sir E.
                         Grey said that there would be no substantial
                         difference between the Irish policy of Sir
@@ -165,7 +165,7 @@
                         <p>(Reuter)</p>
                     </div>
                     <div type="item">
-                        <head>London, November 28.</head>
+                        <dateline>London, November 28.</dateline>
                         <p>The "Daily News" is confident concerning
                         the situation, and delcares that it is relieved
                         because of Lord Rosebery's declaration, as it
@@ -179,7 +179,7 @@
                     <head>GERMAN WEST AFRICA.
                     HOTTENTOT LEADER SURRANDERS.</head>
                     <div type="item">
-                        <head>Cape Town, November 27.</head>
+                        <dateline>Cape Town, November 27.</dateline>
                         <p>The Hottentot leader Isask Witboi and 17
                         chiefs have surrendered to the Germans.</p>
                         <p>(Reuter)</p>
@@ -188,7 +188,7 @@
                 <div type="item">
                     <head>KING GEORGE LEAVES LONDON.</head>
                     <div type="item">
-                        <head>London, November 27.</head>
+                        <dateline>London, November 27.</dateline>
                         <p>The King of Greece has started for home.</p>
                         <p>(Reuter)</p>
                     </div>
@@ -200,13 +200,13 @@
                     AT MITYLENE.
                     CUSTOM HOUSE SEIZED.</head>
                     <div type="item">
-                        <head>Smyrna, November 27.</head>
+                        <dateline>Smyrna, November 27.</dateline>
                         <p>The International Squadron has arrived at
                         Mitylene.</p>
                         <p>(Reuter)</p>
                     </div>
                     <div type="item">
-                        <head>Mitylene, November 27.</head>
+                        <dateline>Mitylene, November 27.</dateline>
                         <p>The International Squadron has entered the
                         port. 400 men landed and occupied the Cus-
                         tom house. The Turkish garrison retired to the
@@ -214,14 +214,14 @@
                         <p>(Havas)</p>
                     </div>
                     <div type="item">
-                        <head>Mitylene, November 28.</head>
+                        <dateline>Mitylene, November 28.</dateline>
                         <p>The International Fleet has disembarked
                         detachments which have seized the Custom
                         House.</p>
                         <p>(Reuter)</p>
                     </div>
                     <div type="item">
-                        <head>Mitylene, November 28.</head>
+                        <dateline>Mitylene, November 28.</dateline>
                         <p>The International Fleet will not take any
                         further action pending the Beyrem festival,
                         which is ending on Thursday evening. Then it
@@ -235,7 +235,7 @@
                     <head>THE KAISER AND PEACE.
                     SPEECH AT THE PEICHSTAG.</head>
                     <div type="item">
-                        <head>Berlin, November 28.</head>
+                        <dateline>Berlin, November 28.</dateline>
                         <p>The significant passage of the Emperor
                         William's speech at the opening of the Reich-
                         stag, was that the relations with all the
@@ -253,7 +253,7 @@
                         <p>(Reuter)</p>
                     </div>
                     <div type="item">
-                        <head>Berlin, November 28.</head>
+                        <dateline>Berlin, November 28.</dateline>
                         <p>In his speech at the opening of the Reich-
                         stag, the Emperor William said that he was
                         pleased over the Moroccan agreement, which
@@ -355,6 +355,7 @@
                         8,252,010.43.</p>
                     </div>
                 </div>
+                <cb n="3"/>
                 <div type="item">
                     <head>THE BEYRAM FESTIVAL.
                     CELEBRATIONS IN CAIRO.</head>
@@ -480,6 +481,7 @@
                 <div type="item">
                     <head>JOSEPH COMAS. (ad)</head>
                 </div>
+                <cb n="4"/>
                 <div type="item">
                     <head>TRAIN TRAFFIC INTERRUPTED
                     WASH-OUT ON UPPER EGYPT LINE.</head>
@@ -554,7 +556,7 @@
                 <div type="item">
                     <head>NOTES FROM SUAKIN.
                     (FROM OUR CORRESPONDENT.)</head>
-                    <p>Suakin, Nov. 22.</p>
+                    <dateline>Suakin, Nov. 22.</dateline>
                     <p>The British S.S. Afganistan (namesake of
                     the ill fated vessel which was wrecked about
                     two years ago with the Suskin condensors)
@@ -610,6 +612,7 @@
                     Monday from Liverpool, Lisbon, Gibralter,
                     and Malta.</p>
                 </div>
+                <cb n="5"/>
                 <div type="item">
                     <head>SHEPHEARD'S SMALL DANCE.
                     OPENING OF THE SEASON.</head>
@@ -660,6 +663,7 @@
                     <head>BULLETIN DE LA BOURSE</head>
                     <p>Lots o' French</p>
                 </div>
+                <cb n="6"/>
                 <div type="item">
                     <head>PERSONAL AND SOCIAL.</head>
                     <div type="item">
