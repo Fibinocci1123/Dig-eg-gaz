@@ -36,7 +36,7 @@
             <div type="page" n="2">
             </div>
             <div type="page" n="3">
-                <head>The Egyptian Gazette, Saturday, December 2, 1905</head>
+                <dateline>The Egyptian Gazette, Saturday, December 2, 1905</dateline>
                 <cb n="1"/>
                     <div type="item">
                         <head>COUP D'ETAT IN RUSSIA.
@@ -46,7 +46,7 @@
                             (Gazette's Special Service)</head>
                         <div type="item">
                             <div type="item">
-                                <head>London, Saturday, Dec. 2.</head>
+                                <dateline>London, Saturday, Dec. 2.</dateline>
                                 <p>Things in Russia are undoubtedly going
                                     from bad to worse. There are rumours to-day
                                     that a great coup d’etat has taken place at
@@ -57,7 +57,7 @@
                                     exists a general financial panic.</p>
                             </div>
                             <div type="item">
-                                <head>London, December 1.</head>
+                                <dateline>London, December 1.</dateline>
                                 <p>Reuter's Agency learns from St. Petersburg
                                     that the attitude of the Government is consi-
                                     dered as suicidal, playing into the hands of
@@ -70,7 +70,7 @@
                                 <p>(Reuter)</p>
                             </div>
                             <div type="item">
-                                <head>St. Petersburg, December 1.</head>
+                                <dateline>St. Petersburg, December 1.</dateline>
                                 <p>When the garrison of Fort Peter and Paul
                                     assembled for roll call, the artillery demanded
                                     the immediate release of the electrical students
@@ -91,7 +91,7 @@
                                 <p>(Reuter)</p>
                             </div>
                             <div type="item">
-                                <head>St. Petersburg, December 1.</head>
+                                <dateline>St. Petersburg, December 1.</dateline>
                                 <p>It is rumoured that a Grand Duke partici-
                                     pated in a plot against the Tsar. There are
                                     some indications of conspiracy of the officers
@@ -104,12 +104,12 @@
                                 <p>(Reuter)</p>
                             </div>
                             <div type="item">
-                                <head>Warsaw, December 1.</head>
+                                <dateline>Warsaw, December 1.</dateline>
                                 <p>Martial law has been abolished in Poland.</p>
                                 <p>(Reuter)</p>
                             </div>
                             <div type="item">
-                                <head>St. Petersburg, December 1.</head>
+                                <dateline>St. Petersburg, December 1.</dateline>
                                 <p>Martial law in Poland has been removed.</p>
                                 <p>(Havas)</p>
                             </div>
@@ -118,7 +118,7 @@
                             <head>CABINAT TO RESIGN.
                                 NO DISSOLUTION.</head>
                             <div type="item">
-                                <head>London, December 1.</head>
+                                <dateline>London, December 1.</dateline>
                                 <p>It is believed that to-day the Cabinet decid-
                                     ed upon resigning without dissolving.</p>
                                 <p>It is understood that <persName ref="https://www.wikidata.org/wiki/Q19008">Mr. Balfour</persName> will see
@@ -132,7 +132,7 @@
                         <div type="item">
                             <head>THE MOROCCO CONFERENCE.</head>
                             <div type="item">
-                                <head>Paris, December 1.</head>
+                                <dateline>Paris, December 1.</dateline>
                                 <p>The Algesiras conference has been put off
                                     till January.</p>
                                 <p>(Havas)</p>
@@ -141,7 +141,7 @@
                         <div type="item">
                             <head>THE PARIS BOMB OUTRAGE.</head>
                             <div type="item">
-                                <head>Paris, December 1.</head>
+                                <dateline>Paris, December 1.</dateline>
                                 <p>The Assize Court has acquitted the prisoners
                                     accused of the attempt made on <persName ref="https://www.wikidata.org/wiki/Q18363">King Alfonso</persName>'s
                                     life on May 31.</p>
@@ -151,7 +151,7 @@
                         <div type="item">
                             <head>M. JALUZOT'S TRIAL</head>
                             <div type="item">
-                                <head>Paris, December 1.</head>
+                                <dateline>Paris, December 1.</dateline>
                                 <p><persName ref="https://www.wikidata.org/wiki/Q1266110">M. Jaluzot</persName> will appear before the Correc-
                                     tional Court on the 28th inst.</p>
                                 <p>(Havas)</p>
@@ -547,7 +547,7 @@
                 <div type="item">
                     <head>GLOBE-TROTTER AT LUXOR.
                         (From our Correspondent)</head>
-                    <p>Luxor, Nov. 30</p>
+                    <dateline>Luxor, Nov. 30</dateline>
                     <p><persName>A.W. Crawford</persName>, the globe-trotter, has pass-
                         ed by this town on his way to Khartoum and
                         Abyssinia. In the latter place, he does not
@@ -579,7 +579,7 @@
                 <div type="item">
                     <head>NOTES FROM PORT SAID.
                         (FROM OUR CORRESPONDENT).</head>
-                    <p>Port Said, Friday.</p>
+                    <dateline>Port Said, Friday.</dateline>
                     <p>On the evening of Wednesday a grand
                         concert was given by the band from an Austrian
                         first-class cruiser in the little garden adjoining
