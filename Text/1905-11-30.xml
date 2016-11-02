@@ -1420,8 +1420,240 @@
                 </div>
                 <cb n="2"/>
                 <div type="item" scope="advertisement">
-                    <head>Walker &amp; Meimarachi, Limited.</head>
+                    <head>Walker &amp; Meimarachi, Limited. (ad)</head>
                 </div>
+                <div type="item" scope="advertisement">
+                    <head>The National Residence (ad)</head>
+                </div>
+                <div type="item" scope="advertisement">
+                    <head>Ghezireh Palace Hotel (ad)</head>
+                </div>
+                <div type="item" scope="advertisement">
+                    <head>Hotel du Nil, Cairo (ad)</head>
+                </div>
+                <div type="item" scope="advertisement">
+                    <head>Cairo - Savoy Hotel (ad)</head>
+                </div>
+                <div type="item" scope="advertisement">
+                    <head>Grand Continental Hotel (ad)</head>
+                </div>
+                <div type="item" scope="advertisement">
+                    <head>H. &amp; C. Flick, Cigar Importers (ad)</head>
+                </div>
+                <div type="item" scope="advertisement">
+                    <head>American Manufacturers Agency (ad)</head>
+                </div>
+                <div type="item" scope="advertisement">
+                    <head>Lancaster House, Cairo. (ad)</head>
+                </div>
+                <div type="item" scope="advertisement">
+                <head>Spathi's Grill Room.</head>
+                <p>Old Bourse St., Alexandria.</p>
+                <p>Greatly enlarged and improved. New Chef. Unrivalled cooking. English specially
+                    catered for</p>
+                <p>2063-14-1-906</p>
+            </div>
+                <div type="item" scope="advertisement">
+                <p>Embossing Press for Stamping Own Paper with Address Crest &amp; c. </p>
+                <p>Engraving Office</p>
+                <p>J. Margosches</p>
+                <p>Cairo Bulac Road </p>
+            </div>
+                <div type="item" scope="advertisement">
+                <head>The Old Established and Favorite "PELICAN” BRAND.</head>
+                <p>Established 1856. </p>
+                <p>GUINNESS’S Foreign Extra STOUT.</p>
+                <p>BASS’S First Quality ALES.</p>
+                <p>LIGHT SPARKLING PALE ALE.</p>
+                <p>MACHEN &amp; Co., Norfolk St, Liverpool.</p>
+                <p>Sole Importer for Egypt and the Sudan :</p>
+                <p>S. di M. RISO, Cairo. </p>
+                <p>x4578</p>
+            </div>
+                <div type="item" scope="advertisement">
+                    <head>IMPORTANT NOTICE.</head>
+                    <head>MARTELL COGNAC.</head>
+                    <p>M. H. DEMIRGIAN BEY, General Agent for this important House, warns the public
+                        to beware of Imitations, and to examine the labels, corks, and capsules.</p>
+                    <p>The principal importers of this well-known Brand are </p>
+                    <p>At Alexandria: MM. G. Attard &amp; Co. Christo C. Solea, Costi H. Georgiou,
+                        N. Pappa, A. &amp; G. Monferato, John B. Caffari, Frangini Mitzos &amp; Co.
+                        Cokinos Freres, P, J. Zombos.</p>
+                    <p>At Cairo: MM. S. di M. Riso, A. Jeronymidis &amp; John B.Caffari.</p>
+                    <p>Where customers will find the genuine MARTELLI, which cannot be sold below
+                        the minimum price given below for each quality: </p>
+                    <table cols="6">
+                        <row>
+                            <cell>*</cell>
+                            <cell>35/- per case</cell>
+                            <cell>P.T. 170.5.</cell>
+                            <cell>VO</cell>
+                            <cell>53/- per case</cell>
+                            <cell>P.T. 256.</cell>
+                        </row>
+                        <row>
+                            <cell>**</cell>
+                            <cell>40/6</cell>
+                            <cell>197.5.</cell>
+                            <cell>VSO</cell>
+                            <cell>60/-</cell>
+                            <cell>292.</cell>
+                        </row>
+                        <row>
+                            <cell>***</cell>
+                            <cell>47/-</cell>
+                            <cell>229</cell>
+                            <cell>VSOP</cell>
+                            <cell>80/-</cell>
+                            <cell>390.</cell>
+                        </row>
+                    </table>
+                    <p>All so-called MARTELL Cognacs sold below these prices cannot be genuine.</p>
+                    <p>25912.7-8-9)</p>
+                </div>
+                <cb n="3"/>
+                <div type="section" scope="weather">
+                        <head>DAILY WEATHER REPORT</head>
+                        <p>OBSERVATIONS BY THE SURVEY DEPARTMENT.</p>
+                        <div type="subsection">
+                            <table rend="frame" xml:id="AlexandriaWeather">
+                                <head>ALEXANDRIA</head>
+                                <row>
+                                    <cell cols="2">Direction of wind</cell>
+                                    <cell>-</cell>
+                                </row>
+                                <row>
+                                    <cell cols="2">Force of wind</cell>
+                                    <cell>-</cell>
+                                </row>
+                                <row>
+                                    <cell cols="2">State of Sea</cell>
+                                    <cell>Calm</cell>
+                                </row>
+                                <row>
+                                    <cell cols="2">Barometer corrected</cell>
+                                    <cell>63.1</cell>
+                                </row>
+                                <row>
+                                    <cell cols="2">Evaporation</cell>
+                                    <cell>3.0</cell>
+                                </row>
+                                <row>
+                                    <cell cols="2">State of Clouds</cell>
+                                    <cell>1/4 clouded</cell>
+                                </row>
+                                <row>
+                                    <cell rows="4">During 24 hours ending ? a.m.</cell>
+                                    <cell>Max. Temp in the shade</cell>
+                                    <cell><measure unit="degC">23.5</measure></cell>
+                                </row>
+                                <row>
+                                    <cell>Min. Temp in the shade</cell>
+                                    <cell><measure unit="degC">17</measure></cell>
+                                </row>
+                                <row>
+                                    <cell>Humidity</cell>
+                                    <cell><measure type="percentage">79</measure></cell>
+                                </row>
+                                <row>
+                                    <cell>Rainfall</cell>
+                                    <cell><measure unit="mm">—</measure></cell>
+                                </row>
+                            </table>
+                        </div>
+                        <div type="subsection">
+                            <head>REMARKS.</head>
+                            <p>The weather is improving, with a rising barometer.</p>
+                        </div>
+                          <div type="subsection">
+                            <table rend="frame" xml:id="PhasesoftheMoontheSun">
+                                <row role="label">
+                                    <cell cols="3" rows="2">PHASES OF THE MOON</cell>
+                                    <cell cols="2">THE SUN</cell>
+                                </row>
+                                <row>
+                                    <cell>Rises a.m.</cell>
+                                    <cell>Sets p.m.</cell>
+                                </row>
+                                <row>
+                                    <cell>Nov. 4</cell>
+                                    <cell>First Quarter</cell>
+                                    <cell>3.39 p.m.</cell>
+                                    <cell>6.11</cell>
+                                    <cell>5. 7</cell>
+                                </row>
+                                <row>
+                                    <cell>12</cell>
+                                    <cell>Full Moon</cell>
+                                    <cell>7.11 p.m.</cell>
+                                    <cell>6.17</cell>
+                                    <cell>5. 1</cell>
+                                </row>
+                                <row>
+                                    <cell>20</cell>
+                                    <cell>Last Quarter</cell>
+                                    <cell>3.33 p.m.</cell>
+                                    <cell>6.24</cell>
+                                    <cell>4.57</cell>
+                                </row>
+                                <row>
+                                    <cell>26</cell>
+                                    <cell>New Moon</cell>
+                                    <cell>6.47 p.m.</cell>
+                                    <cell>6.29</cell>
+                                    <cell>4.55</cell>
+                                </row>
+                            </table>
+                        </div>
+                    </div>
+                <div type="item">
+                    <head>THE EGYPTIAN GAZETTE</head>
+                    <div type="item">
+                        <head>SUBSCRIPTIONS.</head>
+                        <p>Alexandria, Cairo, and the Interior of
+                        Egypt (including delivery in Alexandria
+                        or postage to subscriber's address) P.T.
+                        231 1/2 per annum, P.T. 116 for six
+                        months, P.T. 80 for three months. To
+                        other countries in the Postal Union
+                        P.T. 273 (£2.16s.) per annum. Six
+                        motnhs P.T. 136 1/2 (£1.8s), three months
+                        P.T. 95 (0.19s.).</p>
+                        <p>H.H.- Subscriptions commence from the 1st or
+                        16th of any month.</p>
+                    </div>
+                    <div type="item">
+                        <head>ADVERTISEMENTS.</head>
+                        <p>P.T. 4 per line. Minimum charge P.T.
+                        20. Births, Marriages or Deaths, not
+                        axceeding three lines, P.T. 20. Every
+                        additional line P.T. 10. Notices in
+                        news collumn P.T. 20 per line.
+                        Contracts entered into for standing
+                        advertisements.</p>
+                    </div>
+                    <div type="item">
+                        <head>SUBSCRIPTIONS and ADVERTISEMENTS</head>
+                        <p>are due in advance. P.O. Orders and
+                        Cheques to be made payable to the
+                        Editor and Manager, ROWLAND
+                        SNELLING, Alexandria.</p>
+                        <p>London Offices- 36, New Broad Street, E.C.</p>
+                        <p>The Egyptian Gazette can be obtained
+                        in London at our offices, 36, New Broad
+                        Street, E.C., and also at Messrs MAY &amp;
+                        WILLIAMS, 160 Piccadilly, W.</p>
+                    </div>
+                </div>
+                <div type="item">
+                    <head>The Egyptian Gazette</head>
+                    <p>The English daily paper, established 1888.</p>
+                    <p>Editor and Manager - - R. Shellire</p>
+                    <p>Price: One Piastre Tariff.</p>
+                </div>
+                <div type="item">
+                    <dateline>Thursday, November 30, 1905</dateline>
+                    <head>GERMANY AND THE NAVY.</head>
             </div>
             <div type="page" n="3">
                 <dateline>THE EGYPTIAN GAZETTE, THURSDAY, NOVEMBER 30, 1905.</dateline>
