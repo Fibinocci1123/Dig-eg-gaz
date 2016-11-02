@@ -1561,9 +1561,10 @@
                 </div>
                 <div type="item">
                     <head>The Egyptian Gazette</head>
-                    <p>The English daily paper, establshed 1888.</p>
+                    <p>The English daily paper, established 1888.</p>
                     <p>Editor and Manager - - R. Shellire</p>
                     <p>Price: One Piastre Tariff.</p>
+                    </div>
                     <div type="item">
                         <dateline>MONDAY, NOVEMBER 27, 1905</dateline>
                         <div type="item">
@@ -1669,7 +1670,6 @@
                             <p>(Reuter)</p>
                         </div>
                     </div>
-                </div>
             </div>
             <div type="page" n="3">
                 <dateline>The Egyptian Gazette, Monday, November 27, 1905.</dateline>
