@@ -1309,212 +1309,6 @@
                                 <head>ALEXANDRIA</head>
                                 <row>
                                     <cell cols="2">Direction of wind</cell>
-                                    <cell>N.N.E.</cell>
-                                </row>
-                                <row>
-                                    <cell cols="2">Force of wind</cell>
-                                    <cell>Light</cell>
-                                </row>
-                                <row>
-                                    <cell cols="2">State of Sea</cell>
-                                    <cell>Smooth</cell>
-                                </row>
-                                <row>
-                                    <cell rows="4">During 24 hours ending ? a.m.</cell>
-                                    <cell>Max. Temp in the shade</cell>
-                                    <cell><measure unit="degC">29.5</measure></cell>
-                                </row>
-                                <row>
-                                    <cell>Min. Temp in the shade</cell>
-                                    <cell><measure unit="degC">21.0</measure></cell>
-                                </row>
-                                <row>
-                                    <cell>Humidity</cell>
-                                    <cell><measure type="percentage">76.0</measure></cell>
-                                </row>
-                                <row>
-                                    <cell>Rainfall</cell>
-                                    <cell><measure unit="mm">—</measure></cell>
-                                </row>
-                            </table>
-                        </div>
-                        <div type="subsection">
-                            <head>REMARKS.</head>
-                            <p>Yesterday opened with a light breeze from the N.N.E. but towards noon the
-                                wind suddenly changed to the N.N.W. The day was rather warm, but becme
-                                beautifully cool in the evening. Barometer steady.</p>
-                        </div>
-                        <div type="subsection">
-                            <table cols="3" xml:id="OtherStations">
-                                <head>OTHER STATIONS.</head>
-                                <head type="sub">For the 24 hours ending 3 a.m. Yesterday</head>
-                                <row role="label">
-                                    <cell>Stations.</cell>
-                                    <cell>Max. temp. in the shade.</cell>
-                                    <cell>Min temp. in the shade.</cell>
-                                </row>
-                                <row>
-                                    <cell>Port Said</cell>
-                                    <cell>30</cell>
-                                    <cell>24</cell>
-                                </row>
-                                <row>
-                                    <cell>Suez</cell>
-                                    <cell>39</cell>
-                                    <cell>24</cell>
-                                </row>
-                                <row>
-                                    <cell>Cairo Halouan</cell>
-                                    <cell>39</cell>
-                                    <cell>22</cell>
-                                </row>
-                                <row>
-                                    <cell>Cairo Ghizeh</cell>
-                                    <cell>40</cell>
-                                    <cell>21</cell>
-                                </row>
-                                <row>
-                                    <cell>Assiout</cell>
-                                    <cell>41</cell>
-                                    <cell>21</cell>
-                                </row>
-                                <row>
-                                    <cell>Assouan</cell>
-                                    <cell>44</cell>
-                                    <cell>24</cell>
-                                </row>
-                                <row>
-                                    <cell>Wady Halfa</cell>
-                                    <cell>41</cell>
-                                    <cell>24</cell>
-                                </row>
-                                <row>
-                                    <cell>Marowe</cell>
-                                    <cell>41</cell>
-                                    <cell>28</cell>
-                                </row>
-                                <row>
-                                    <cell>Berber</cell>
-                                    <cell>42</cell>
-                                    <cell>26</cell>
-                                </row>
-                                <row>
-                                    <cell>Suakin</cell>
-                                    <cell>43</cell>
-                                    <cell>30</cell>
-                                </row>
-                                <row>
-                                    <cell>Khartoum</cell>
-                                    <cell>—</cell>
-                                    <cell>—</cell>
-                                </row>
-                                <row>
-                                    <cell>Wad Medani</cell>
-                                    <cell>—</cell>
-                                    <cell>—</cell>
-                                </row>
-                                <row>
-                                    <cell>Duam</cell>
-                                    <cell>—</cell>
-                                    <cell>—</cell>
-                                </row>
-                            </table>
-                        </div>
-                        <div type="subsection">
-                            <table rows="6" cols="5" xml:id="ForeignStations">
-                                <head>FOREIGN STATIONS.</head>
-                                <row role="label">
-                                    <cell>Stations.</cell>
-                                    <cell>Barom.</cell>
-                                    <cell>Wind.</cell>
-                                    <cell>Temp.</cell>
-                                    <cell>State of Sea</cell>
-                                </row>
-                                <row>
-                                    <cell>Trieste</cell>
-                                    <cell>762.7</cell>
-                                    <cell>Calm</cell>
-                                    <cell>27</cell>
-                                    <cell>Calm</cell>
-                                </row>
-                                <row>
-                                    <cell>Malta</cell>
-                                    <cell>762.9</cell>
-                                    <cell>Almost calm</cell>
-                                    <cell>28</cell>
-                                    <cell>Very slight</cell>
-                                </row>
-                                <row>
-                                    <cell>Brindisi</cell>
-                                    <cell>760.6</cell>
-                                    <cell>Light</cell>
-                                    <cell>28</cell>
-                                    <cell>Calm</cell>
-                                </row>
-                                <row>
-                                    <cell>Athens</cell>
-                                    <cell>759.1</cell>
-                                    <cell>Fresh</cell>
-                                    <cell>28</cell>
-                                    <cell>Rough</cell>
-                                </row>
-                                <row>
-                                    <cell>amassol</cell>
-                                    <cell>755.4</cell>
-                                    <cell>Almost calm</cell>
-                                    <cell>33</cell>
-                                    <cell>Very slight</cell>
-                                </row>
-                            </table>
-                        </div>
-                        <div type="subsection">
-                            <table rend="frame" xml:id="PhasesoftheMoontheSun">
-                                <row role="label">
-                                    <cell cols="3" rows="2">PHASES OF THE MOON</cell>
-                                    <cell cols="2">THE SUN</cell>
-                                </row>
-                                <row>
-                                    <cell>Rises a.m.</cell>
-                                    <cell>Sets p.m.</cell>
-                                </row>
-                                <row>
-                                    <cell>July 2</cell>
-                                    <cell>New Moon</cell>
-                                    <cell>7.50 p.m.</cell>
-                                    <cell>4.58</cell>
-                                    <cell>7. 0</cell>
-                                </row>
-                                <row>
-                                    <cell>July 9</cell>
-                                    <cell>First Quarter</cell>
-                                    <cell>7.46 p.m.</cell>
-                                    <cell>5. 1</cell>
-                                    <cell>6.59</cell>
-                                </row>
-                                <row>
-                                    <cell>July 16</cell>
-                                    <cell>Full Moon</cell>
-                                    <cell>5.32 p.m.</cell>
-                                    <cell>5. 4</cell>
-                                    <cell>6.58</cell>
-                                </row>
-                                <row>
-                                    <cell>July 24</cell>
-                                    <cell>Last Quarter</cell>
-                                    <cell>3. 9 p.m.</cell>
-                                    <cell>5. 8</cell>
-                                    <cell>6.53</cell>
-                                </row>
-                            </table>
-                        </div>
-                    </div>
-                    <div type="section" scope="weather">
-                        <head>DAILY WEATHER REPORT</head>
-                        <div type="subsection">
-                            <table rend="frame">
-                                <head>ALEXANDRIA</head>
-                                <row>
-                                    <cell cols="2">Direction of wind</cell>
                                     <cell>S.W.</cell>
                                 </row>
                                 <row>
@@ -1526,15 +1320,15 @@
                                     <cell>Slight</cell>
                                 </row>
                                 <row>
-                                    <cell>Barometer corrected</cell>
+                                    <cell cols="2">Barometer corrected</cell>
                                     <cell>758</cell>
                                 </row>
                                 <row>
-                                    <cell>Evaporation</cell>
+                                    <cell cols="2">Evaporation</cell>
                                     <cell>6</cell>
                                 </row>
                                 <row>
-                                    <cell>State of Clouds</cell>
+                                    <cell cols="2">State of Clouds</cell>
                                     <cell>1/4 clouded</cell>
                                 </row>
                                 <row>
@@ -1544,11 +1338,11 @@
                                 </row>
                                 <row>
                                     <cell>Min. Temp in the shade</cell>
-                                    <cell><measure unit="degC">15.0</measure></cell>
+                                    <cell><measure unit="degC">15</measure></cell>
                                 </row>
                                 <row>
                                     <cell>Humidity</cell>
-                                    <cell><measure type="percentage">55.0</measure></cell>
+                                    <cell><measure type="percentage">55</measure></cell>
                                 </row>
                                 <row>
                                     <cell>Rainfall</cell>
@@ -1560,10 +1354,10 @@
                             <head>REMARKS.</head>
                             <p>The weather remains pleasantly cool. There is less
                             dampness, the morning opened with a S.W. wind and the
-                            barometer-falling.</p>
+                            barometer falling.</p>
                         </div>
                         <div type="subsection">
-                            <table cols="3">
+                            <table cols="3" xml:id="OtherStations">
                                 <head>OTHER STATIONS.</head>
                                 <head type="sub">For the 24 hours ending 3 a.m. Yesterday</head>
                                 <row role="label">
@@ -1593,7 +1387,7 @@
                                 </row>
                                 <row>
                                     <cell>Assiout</cell>
-                                    <cell>21</cell>
+                                    <cell>23</cell>
                                     <cell>10</cell>
                                 </row>
                                 <row>
@@ -1639,7 +1433,7 @@
                             </table>
                         </div>
                         <div type="subsection">
-                            <table rows="6" cols="5">
+                            <table rows="6" cols="5" xml:id="ForeignStations">
                                 <head>FOREIGN STATIONS.</head>
                                 <row role="label">
                                     <cell>Stations.</cell>
@@ -1657,7 +1451,7 @@
                                 </row>
                                 <row>
                                     <cell>Malta</cell>
-                                    <cell>760.5</cell>
+                                    <cell>760.0</cell>
                                     <cell>Very light</cell>
                                     <cell>18</cell>
                                     <cell>Slight</cell>
@@ -1677,8 +1471,8 @@
                                     <cell>Very slight</cell>
                                 </row>
                                 <row>
-                                    <cell>amassol</cell>
-                                    <cell>762.6</cell>
+                                    <cell>Limassol</cell>
+                                    <cell>762.8</cell>
                                     <cell>Almost calm</cell>
                                     <cell>24</cell>
                                     <cell>Very slight</cell>
@@ -1686,7 +1480,7 @@
                             </table>
                         </div>
                         <div type="subsection">
-                            <table rend="frame">
+                            <table rend="frame" xml:id="PhasesoftheMoontheSun">
                                 <row role="label">
                                     <cell cols="3" rows="2">PHASES OF THE MOON</cell>
                                     <cell cols="2">THE SUN</cell>
@@ -1698,21 +1492,21 @@
                                 <row>
                                     <cell>Nov. 4</cell>
                                     <cell>First Quarter</cell>
-                                    <cell>3.39 a.m.</cell>
-                                    <cell>5.11</cell>
-                                    <cell>5.7</cell>
+                                    <cell>3.39 p.m.</cell>
+                                    <cell>6.11</cell>
+                                    <cell>5. 7</cell>
                                 </row>
                                 <row>
                                     <cell>12</cell>
                                     <cell>Full Moon</cell>
-                                    <cell>7.11 a.m.</cell>
+                                    <cell>7.11 p.m.</cell>
                                     <cell>6.17</cell>
-                                    <cell>5.1</cell>
+                                    <cell>5. 1</cell>
                                 </row>
                                 <row>
                                     <cell>20</cell>
                                     <cell>Last Quarter</cell>
-                                    <cell>3.33 a.m.</cell>
+                                    <cell>3.33 p.m.</cell>
                                     <cell>6.24</cell>
                                     <cell>4.57</cell>
                                 </row>
@@ -1721,12 +1515,11 @@
                                     <cell>New Moon</cell>
                                     <cell>6.47 p.m.</cell>
                                     <cell>6.29</cell>
-                                    <cell>4.53</cell>
+                                    <cell>4.55</cell>
                                 </row>
                             </table>
                         </div>
                     </div>
-                </div>
                 <div type="item">
                     <head>THE EGYPTIAN GAZETTE</head>
                     <div type="item">
