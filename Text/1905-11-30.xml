@@ -879,7 +879,7 @@
                     <table rows="2" cols="4">
                         <row role="label">
                             <cell cols="4"><hi rend="italic">Daily Restaurant Car Service between
-                                    Cairo, Ismailia, Port Said &amp; vice-versa</hi>.</cell>
+                                Cairo, Ismailia, Port Said &amp; vice-versa</hi>.</cell>
                         </row>
                         <row>
                             <cell>Depart. - Cairo</cell>
@@ -1375,7 +1375,7 @@
                 </div>
                 <div type="item" scope="advertisement">
                     <head>HOWIE &amp; Co.
-                    (The Hygenic Dairy)</head>
+                        (The Hygenic Dairy)</head>
                 </div>
                 <div type="item" scope="advertisement">
                     <head>Pilsener</head>
@@ -1387,19 +1387,19 @@
                     <p>P. PLUNKETT, PROPRIETOR.</p>
                     <p>DIRECT IMPORTER OF BRITISH AND IRISH TEXTILE MANUFACTURES.</p>
                     <p>Children's Outfitting Department - Newly
-                    stocked with season's goods, in Hats, Bonnets,
-                    Tams, Cappets, Frocks, Overcoats, Cloaks,
-                    Pelisses, Dresses, etc., in Cloth, Curl Fur, Silk,
-                    Embroidered Cashmere, etc., and woollen under-
-                    clothing.</p>
+                        stocked with season's goods, in Hats, Bonnets,
+                        Tams, Cappets, Frocks, Overcoats, Cloaks,
+                        Pelisses, Dresses, etc., in Cloth, Curl Fur, Silk,
+                        Embroidered Cashmere, etc., and woollen under-
+                        clothing.</p>
                     <p>All made in Great Britain and Ireland, and
-                    the best on the Egyptian market. Early
-                    selection recommended.</p>
+                        the best on the Egyptian market. Early
+                        selection recommended.</p>
                     <p>Dress and Piece Goods Department, under
-                    an English-speaking manager, well stocked and
-                    nicely assorted.</p>
+                        an English-speaking manager, well stocked and
+                        nicely assorted.</p>
                     <p>Fine Irish Linen Fronting and Handker-
-                    shief as usual.</p>
+                        shief as usual.</p>
                     <p>24916-15-11-905</p>
                 </div>
                 <div type="item" scope="advertisement">
@@ -1447,29 +1447,29 @@
                     <head>Lancaster House, Cairo. (ad)</head>
                 </div>
                 <div type="item" scope="advertisement">
-                <head>Spathi's Grill Room.</head>
-                <p>Old Bourse St., Alexandria.</p>
-                <p>Greatly enlarged and improved. New Chef. Unrivalled cooking. English specially
-                    catered for</p>
-                <p>2063-14-1-906</p>
-            </div>
+                    <head>Spathi's Grill Room.</head>
+                    <p>Old Bourse St., Alexandria.</p>
+                    <p>Greatly enlarged and improved. New Chef. Unrivalled cooking. English specially
+                        catered for</p>
+                    <p>2063-14-1-906</p>
+                </div>
                 <div type="item" scope="advertisement">
-                <p>Embossing Press for Stamping Own Paper with Address Crest &amp; c. </p>
-                <p>Engraving Office</p>
-                <p>J. Margosches</p>
-                <p>Cairo Bulac Road </p>
-            </div>
+                    <p>Embossing Press for Stamping Own Paper with Address Crest &amp; c. </p>
+                    <p>Engraving Office</p>
+                    <p>J. Margosches</p>
+                    <p>Cairo Bulac Road </p>
+                </div>
                 <div type="item" scope="advertisement">
-                <head>The Old Established and Favorite "PELICAN” BRAND.</head>
-                <p>Established 1856. </p>
-                <p>GUINNESS’S Foreign Extra STOUT.</p>
-                <p>BASS’S First Quality ALES.</p>
-                <p>LIGHT SPARKLING PALE ALE.</p>
-                <p>MACHEN &amp; Co., Norfolk St, Liverpool.</p>
-                <p>Sole Importer for Egypt and the Sudan :</p>
-                <p>S. di M. RISO, Cairo. </p>
-                <p>x4578</p>
-            </div>
+                    <head>The Old Established and Favorite "PELICAN” BRAND.</head>
+                    <p>Established 1856. </p>
+                    <p>GUINNESS’S Foreign Extra STOUT.</p>
+                    <p>BASS’S First Quality ALES.</p>
+                    <p>LIGHT SPARKLING PALE ALE.</p>
+                    <p>MACHEN &amp; Co., Norfolk St, Liverpool.</p>
+                    <p>Sole Importer for Egypt and the Sudan :</p>
+                    <p>S. di M. RISO, Cairo. </p>
+                    <p>x4578</p>
+                </div>
                 <div type="item" scope="advertisement">
                     <head>IMPORTANT NOTICE.</head>
                     <head>MARTELL COGNAC.</head>
@@ -1513,136 +1513,136 @@
                 </div>
                 <cb n="3"/>
                 <div type="section" scope="weather">
-                        <head>DAILY WEATHER REPORT</head>
-                        <p>OBSERVATIONS BY THE SURVEY DEPARTMENT.</p>
-                        <div type="subsection">
-                            <table rend="frame" xml:id="AlexandriaWeather">
-                                <head>ALEXANDRIA</head>
-                                <row>
-                                    <cell cols="2">Direction of wind</cell>
-                                    <cell>-</cell>
-                                </row>
-                                <row>
-                                    <cell cols="2">Force of wind</cell>
-                                    <cell>-</cell>
-                                </row>
-                                <row>
-                                    <cell cols="2">State of Sea</cell>
-                                    <cell>Calm</cell>
-                                </row>
-                                <row>
-                                    <cell cols="2">Barometer corrected</cell>
-                                    <cell>63.1</cell>
-                                </row>
-                                <row>
-                                    <cell cols="2">Evaporation</cell>
-                                    <cell>3.0</cell>
-                                </row>
-                                <row>
-                                    <cell cols="2">State of Clouds</cell>
-                                    <cell>1/4 clouded</cell>
-                                </row>
-                                <row>
-                                    <cell rows="4">During 24 hours ending ? a.m.</cell>
-                                    <cell>Max. Temp in the shade</cell>
-                                    <cell><measure unit="degC">23.5</measure></cell>
-                                </row>
-                                <row>
-                                    <cell>Min. Temp in the shade</cell>
-                                    <cell><measure unit="degC">17</measure></cell>
-                                </row>
-                                <row>
-                                    <cell>Humidity</cell>
-                                    <cell><measure type="percentage">79</measure></cell>
-                                </row>
-                                <row>
-                                    <cell>Rainfall</cell>
-                                    <cell><measure unit="mm">—</measure></cell>
-                                </row>
-                            </table>
-                        </div>
-                        <div type="subsection">
-                            <head>REMARKS.</head>
-                            <p>The weather is improving, with a rising barometer.</p>
-                        </div>
-                          <div type="subsection">
-                            <table rend="frame" xml:id="PhasesoftheMoontheSun">
-                                <row role="label">
-                                    <cell cols="3" rows="2">PHASES OF THE MOON</cell>
-                                    <cell cols="2">THE SUN</cell>
-                                </row>
-                                <row>
-                                    <cell>Rises a.m.</cell>
-                                    <cell>Sets p.m.</cell>
-                                </row>
-                                <row>
-                                    <cell>Nov. 4</cell>
-                                    <cell>First Quarter</cell>
-                                    <cell>3.39 p.m.</cell>
-                                    <cell>6.11</cell>
-                                    <cell>5. 7</cell>
-                                </row>
-                                <row>
-                                    <cell>12</cell>
-                                    <cell>Full Moon</cell>
-                                    <cell>7.11 p.m.</cell>
-                                    <cell>6.17</cell>
-                                    <cell>5. 1</cell>
-                                </row>
-                                <row>
-                                    <cell>20</cell>
-                                    <cell>Last Quarter</cell>
-                                    <cell>3.33 p.m.</cell>
-                                    <cell>6.24</cell>
-                                    <cell>4.57</cell>
-                                </row>
-                                <row>
-                                    <cell>26</cell>
-                                    <cell>New Moon</cell>
-                                    <cell>6.47 p.m.</cell>
-                                    <cell>6.29</cell>
-                                    <cell>4.55</cell>
-                                </row>
-                            </table>
-                        </div>
+                    <head>DAILY WEATHER REPORT</head>
+                    <p>OBSERVATIONS BY THE SURVEY DEPARTMENT.</p>
+                    <div type="subsection">
+                        <table rend="frame" xml:id="AlexandriaWeather">
+                            <head>ALEXANDRIA</head>
+                            <row>
+                                <cell cols="2">Direction of wind</cell>
+                                <cell>-</cell>
+                            </row>
+                            <row>
+                                <cell cols="2">Force of wind</cell>
+                                <cell>-</cell>
+                            </row>
+                            <row>
+                                <cell cols="2">State of Sea</cell>
+                                <cell>Calm</cell>
+                            </row>
+                            <row>
+                                <cell cols="2">Barometer corrected</cell>
+                                <cell>63.1</cell>
+                            </row>
+                            <row>
+                                <cell cols="2">Evaporation</cell>
+                                <cell>3.0</cell>
+                            </row>
+                            <row>
+                                <cell cols="2">State of Clouds</cell>
+                                <cell>1/4 clouded</cell>
+                            </row>
+                            <row>
+                                <cell rows="4">During 24 hours ending ? a.m.</cell>
+                                <cell>Max. Temp in the shade</cell>
+                                <cell><measure unit="degC">23.5</measure></cell>
+                            </row>
+                            <row>
+                                <cell>Min. Temp in the shade</cell>
+                                <cell><measure unit="degC">17</measure></cell>
+                            </row>
+                            <row>
+                                <cell>Humidity</cell>
+                                <cell><measure type="percentage">79</measure></cell>
+                            </row>
+                            <row>
+                                <cell>Rainfall</cell>
+                                <cell><measure unit="mm">—</measure></cell>
+                            </row>
+                        </table>
                     </div>
+                    <div type="subsection">
+                        <head>REMARKS.</head>
+                        <p>The weather is improving, with a rising barometer.</p>
+                    </div>
+                    <div type="subsection">
+                        <table rend="frame" xml:id="PhasesoftheMoontheSun">
+                            <row role="label">
+                                <cell cols="3" rows="2">PHASES OF THE MOON</cell>
+                                <cell cols="2">THE SUN</cell>
+                            </row>
+                            <row>
+                                <cell>Rises a.m.</cell>
+                                <cell>Sets p.m.</cell>
+                            </row>
+                            <row>
+                                <cell>Nov. 4</cell>
+                                <cell>First Quarter</cell>
+                                <cell>3.39 p.m.</cell>
+                                <cell>6.11</cell>
+                                <cell>5. 7</cell>
+                            </row>
+                            <row>
+                                <cell>12</cell>
+                                <cell>Full Moon</cell>
+                                <cell>7.11 p.m.</cell>
+                                <cell>6.17</cell>
+                                <cell>5. 1</cell>
+                            </row>
+                            <row>
+                                <cell>20</cell>
+                                <cell>Last Quarter</cell>
+                                <cell>3.33 p.m.</cell>
+                                <cell>6.24</cell>
+                                <cell>4.57</cell>
+                            </row>
+                            <row>
+                                <cell>26</cell>
+                                <cell>New Moon</cell>
+                                <cell>6.47 p.m.</cell>
+                                <cell>6.29</cell>
+                                <cell>4.55</cell>
+                            </row>
+                        </table>
+                    </div>
+                </div>
                 <div type="item">
                     <head>THE EGYPTIAN GAZETTE</head>
                     <div type="item">
                         <head>SUBSCRIPTIONS.</head>
                         <p>Alexandria, Cairo, and the Interior of
-                        Egypt (including delivery in Alexandria
-                        or postage to subscriber's address) P.T.
-                        231 1/2 per annum, P.T. 116 for six
-                        months, P.T. 80 for three months. To
-                        other countries in the Postal Union
-                        P.T. 273 (£2.16s.) per annum. Six
-                        motnhs P.T. 136 1/2 (£1.8s), three months
-                        P.T. 95 (0.19s.).</p>
+                            Egypt (including delivery in Alexandria
+                            or postage to subscriber's address) P.T.
+                            231 1/2 per annum, P.T. 116 for six
+                            months, P.T. 80 for three months. To
+                            other countries in the Postal Union
+                            P.T. 273 (£2.16s.) per annum. Six
+                            motnhs P.T. 136 1/2 (£1.8s), three months
+                            P.T. 95 (0.19s.).</p>
                         <p>H.H.- Subscriptions commence from the 1st or
-                        16th of any month.</p>
+                            16th of any month.</p>
                     </div>
                     <div type="item">
                         <head>ADVERTISEMENTS.</head>
                         <p>P.T. 4 per line. Minimum charge P.T.
-                        20. Births, Marriages or Deaths, not
-                        axceeding three lines, P.T. 20. Every
-                        additional line P.T. 10. Notices in
-                        news collumn P.T. 20 per line.
-                        Contracts entered into for standing
-                        advertisements.</p>
+                            20. Births, Marriages or Deaths, not
+                            axceeding three lines, P.T. 20. Every
+                            additional line P.T. 10. Notices in
+                            news collumn P.T. 20 per line.
+                            Contracts entered into for standing
+                            advertisements.</p>
                     </div>
                     <div type="item">
                         <head>SUBSCRIPTIONS and ADVERTISEMENTS</head>
                         <p>are due in advance. P.O. Orders and
-                        Cheques to be made payable to the
-                        Editor and Manager, ROWLAND
-                        SNELLING, Alexandria.</p>
+                            Cheques to be made payable to the
+                            Editor and Manager, ROWLAND
+                            SNELLING, Alexandria.</p>
                         <p>London Offices- 36, New Broad Street, E.C.</p>
                         <p>The Egyptian Gazette can be obtained
-                        in London at our offices, 36, New Broad
-                        Street, E.C., and also at Messrs MAY &amp;
-                        WILLIAMS, 160 Piccadilly, W.</p>
+                            in London at our offices, 36, New Broad
+                            Street, E.C., and also at Messrs MAY &amp;
+                            WILLIAMS, 160 Piccadilly, W.</p>
                     </div>
                 </div>
                 <div type="item">
@@ -1654,6 +1654,188 @@
                 <div type="item">
                     <dateline>Thursday, November 30, 1905</dateline>
                     <head>GERMANY AND THE NAVY.</head>
+                    <p>The German papers do not hesitate to con-
+                        sider (say Reuter to-day) that the Emperor
+                        William's words in his speech at the opening
+                        of the Reichstag were aimed at Great Britain
+                        and France. It is, unfortunately, a fixed idea
+                        with a considerable proportion of the German
+                        people, and especially with those who have
+                        taken to heart their Kaiser's declaration that
+                        the future of Germany lies upon the water,
+                        that England means to destroy the German
+                        Fleet before it has become too powerful. Any
+                        man who seriously belives that England would
+                        ever enter upon a war of aggression for that end
+                        is profoundly ignorant of the temper of the
+                        British nation. We desire peace with all the
+                        world, and with Germany at least as much as
+                        with any other Power, for this simple reason-
+                        that, apart from the temporary set-back to her
+                        commercial activity, Germahy would have 'no'
+                        spoils to surrender to a victorious England.
+                        The game, in short, would not be worth the
+                        candle, because Germany posesses nothing
+                        that we could take from her which would be
+                        worth the taking. But has England nothing
+                        that Germany envies, nothing would be a
+                        rish prize for her? The question, surely, an-
+                        swers itself. There is the British Empire, which,
+                        as German Professors are never weary to tell-
+                        ing us, is bound, sooner or later, to go the way
+                        of all other Empires in history. "This is the
+                        heir; come, let us kill him, and the inheritance
+                        shall be ours." That, briefly, is the view of
+                        that section of German opinion, official and
+                        unofficial, which is responsible for the growth
+                        of the German Navy. If any one doubt that,
+                        let him recall the attitude of the German
+                        Press and public towards England during the
+                        Boer War. Nay, the actual preamble of the
+                        Navy Act of 1900 proves that the increase of
+                        the German Navy is specially directed against
+                        England. It says:- "Germany must have a
+                        fleet of such strength that a war against the
+                        mightiest Power would involve risks threaten-
+                        ing the supremacy of that Power." In the
+                        face of that declaration, and of the plain
+                        teaching of German and Prussian policy in the
+                        past, it is the obvious duty of the British
+                        Government so to order the distribution of the
+                        British Navy as to be prepared for all contin-
+                        gencies. That does not mean that we ought to,
+                        or that we shall, attack Germany for the deli-
+                        berate purpose of destroying her fleet before it
+                        becomes too strong; but it does mean that we
+                        shall take care that she shall not serve us as
+                        she served Austria in 1866 and France in 1870.
+                        If Germany distructs our intentions is it
+                        because she is concious that we have good
+                        reason to distruct hers. She knows- she must
+                        known- that we cannot choose but regard her
+                        with suspicion, because she herself, for years
+                        past, has made no secret of her belief that she
+                        is pre-destined to be the World Power of the
+                        Twentiath Century as England has been of the
+                        Nineteenth.</p>
+                </div>
+                <cb n="4"/>
+                <div type="item" scope="advertisement">
+                    <head>SUNLIGHT SOAP</head>
+                    <p>Common Soaps reduce the Washing, Sunlight Soap
+                        preserves it.</p>
+                    <p>It is Rapid, Pure, Sweet.</p>
+                    <p>It stands in universal favour,
+                        for it is a perfect Soap, with-
+                        out any obnoxious or harmful 
+                        features whatever.</p>
+                </div>
+                <div type="item">
+                    <head>THE KAISER'S SPEECH.
+                        AIMED AT ENGLAND OR FRANCE.</head>
+                    <div type="item">
+                        <dateline>Berlin, November 29.</dateline>
+                        <p>Following the Emperor's speech the press
+                            insists with remarkable unanimity on the
+                            necessity to augment the naval forces of the
+                            country.</p>
+                        <p>(Reuter)</p>
+                    </div>
+                    <div type="item">
+                        <dateline>Berlin, November 29.</dateline>
+                        <p>The German papers do not hesitate to con-
+                            sider that the Emperor's words concerning
+                            foreign relations were aimed at Great Britain
+                            and France.</p>
+                        <p>(Reuter)</p>
+                    </div>
+                    <div type="item">
+                        <dateline>London, November 29.</dateline>
+                        <p>The English press accepts the speech of the
+                            German Emperor calmly, believing that it was
+                            prompted by a desire to increase the navy.</p>
+                        <p>(Reuter)</p>
+                    </div>
+                </div>
+                <div type="item">
+                    <head>THE CHANNEL FLEET.
+                        DIVIDED INTO TWO SQUADRONS.</head>
+                    <dateline>London, November 29.</dateline>
+                    <p>The Admirality has decided to add five
+                        battleships from China to the Channel fleet,
+                        which is future will be divided into two squa-
+                        drons, of which these five will form what will
+                        practically be a North Sea Squadron, with a
+                        temporary base at Dover.</p>
+                    <p>(Reuter)</p>
+                </div>
+                <div type="item">
+                    <head>SITUATION IN RUSSIA.
+                        PANIC ON BOURSE.</head>
+                    <div type="item">
+                        <dateline>St. Petersburg, November 29.</dateline>
+                        <p>There is a panic at the Bourse owning to the
+                            heavy fall in prices. Communications with
+                            Moscow are interupted, the telegraphists at
+                            that city having struck.</p>
+                        <p>Two hundred and thirty soldiers of the
+                            Military School of Electricity have been arrest-
+                            ed and incarcerated in a fortress by four
+                            battalions.</p>
+                        <p>(Reuter)</p>
+                    </div>
+                    <div type="item">
+                        <dateline>St. Petersburg, November 29.</dateline>
+                        <p>Frantic selling still continues at the Bourse
+                            to-day. Princes have reached the lowest points
+                            yet recorded.</p>
+                        <p>(Reuter)</p>
+                    </div>
+                    <div type="item">
+                        <dateline>St. Petersburg, November 29.</dateline>
+                        <p>The postal and telegraph employees are on
+                            strike.</p>
+                        <p>(Havas)</p>
+                    </div>
+                    <div type="item">
+                        <dateline>Sevastopol, November 29.</dateline>
+                        <p>Naval Lieutenant Schmitt has taken com-
+                            mand of the mitinied squadron.</p>
+                        <p>(Havas)</p>
+                    </div>
+                </div>
+                <div type="item">
+                    <head>LIBERALS AND HOME RULE.</head>
+                    <dateline>London, November 29.</dateline>
+                    <p>Speaking at Wisbech, Mr. Asquith said that
+                        there was no substantial difference between
+                        Liberals regarding Home Rule, but he did not
+                        believe that the re-introduction of the Home
+                        Rule Bill will form part of the policy of the
+                        Government.</p>
+                    <p>(Reuter)</p>
+                </div>
+                <div type="item">
+                    <head>COTTON GROWING ASSOCIATION.
+                        ANTICIPATIONS FOR 1906.</head>
+                    <dateline>London, November 29.</dateline>
+                    <p>At a meeting of shareholders of the Cotton
+                        Growing Association, held at Manchester, the
+                        directors states that the association expected
+                        to received cotton valued at £250,000 in 1906.
+                        It is found that West-Indian cotton is already
+                        superior to American.</p>
+                    <p>(Reuter)</p>
+                </div>
+                <div type="item">
+                    <head>NOTICE</head>
+                    <p>Merchants, Tradesmen and others in Cairo
+                        wishing to do business with British firms are
+                        requested to send their names, addresses, and
+                        particulars of their businesses to Mr. Peter
+                        Black, "The Commercial Bureau," P.O. Box
+                        No. 50, Cairo.</p>
+                </div>
             </div>
             <div type="page" n="3">
                 <dateline>THE EGYPTIAN GAZETTE, THURSDAY, NOVEMBER 30, 1905.</dateline>
